@@ -1,0 +1,7 @@
+# OggDude DataSet — copyrighted third-party app/data, ~134 MB (exceeds GitHub limits). Never commit.
+SWCharGen.zip
+SWCharGen/
+
+# Local backups / scratch artifacts
+*_old.html
+*_sheet_backup.json
