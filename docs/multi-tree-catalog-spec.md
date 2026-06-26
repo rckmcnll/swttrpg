@@ -1,7 +1,7 @@
 # Spec: Multiple Specializations & Force Powers + F&D Catalog
 
 **Status:** Proposed (design only — not yet implemented)
-**Target file:** `sael_dara_force_and_destiny_equipment_print_fixed.html`
+**Target file:** `force-and-destiny-character-sheet.html`
 **New files:** `fad-catalog.js`, `tools/convert-catalog.mjs`, this spec
 **Schema impact:** additive (no `STORAGE_KEY` / state-schema bump)
 
@@ -298,7 +298,7 @@ function recalcXp(){
 ## 9. Repo / file layout
 
 ```
-sael_dara_force_and_destiny_equipment_print_fixed.html   (edited: <script src> + #treeControls + renderTrees ×,
+force-and-destiny-character-sheet.html   (edited: <script src> + #treeControls + renderTrees ×,
                                                            recalcXp, migrateState, importBackup, xpSpent field)
 fad-catalog.js                                            (generated; loaded via <script src> BEFORE inline <script>)
 tools/convert-catalog.mjs                                (OggDude → catalog converter; dev-only)
@@ -338,7 +338,7 @@ the sheet still works (Add buttons disabled) if `fad-catalog.js` is missing.
 ## 11. Verification plan
 
 - **Headless smoke test** (repo precedent — Edge `--dump-dom`):
-  `msedge --headless --disable-gpu --dump-dom "file:///F:/swttrpg/SWTTRPG/sael_dara_force_and_destiny_equipment_print_fixed.html"`
+  `msedge --headless --disable-gpu --dump-dom "file:///F:/swttrpg/SWTTRPG/force-and-destiny-character-sheet.html"`
   — assert: no console error, `fad-catalog.js` loaded, `#treeControls`/`#addSpecBtn` present & enabled, ≥2
   default `.tree-block`s render, `xpSpent`/`xpAvail` reflected read-only.
 - **Scripted interaction** (Playwright/Puppeteer over Edge): open picker (6 careers + Universal; Shadow
