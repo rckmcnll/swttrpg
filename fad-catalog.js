@@ -4,8 +4,2088 @@ window.FAD_CATALOG = Object.freeze(
 {
   "schema": "fad-catalog-v1",
   "version": 1,
-  "generatedAt": "2026-06-26T04:46:12.841Z",
+  "generatedAt": "2026-06-26T19:10:39.202Z",
   "source": "OggDude DataSet (user-supplied) — Force & Destiny",
+  "species": {
+    "ALEENA": {
+      "key": "ALEENA",
+      "name": "Aleena",
+      "source": "Nexus of Power",
+      "characteristics": {
+        "BR": 1,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 10,
+      "startingXP": 95,
+      "skillRanks": {
+        "COORD": 1
+      }
+    },
+    "ANX": {
+      "key": "ANX",
+      "name": "Anx",
+      "source": "Savage Spirits",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 13,
+      "strainThreshold": 10,
+      "startingXP": 85,
+      "skillRanks": {}
+    },
+    "AQUA": {
+      "key": "AQUA",
+      "name": "Aqualish",
+      "source": "Dangerous Covenants",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 8,
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
+    },
+    "ARCONA": {
+      "key": "ARCONA",
+      "name": "Arcona",
+      "source": "Far Horizons",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "VIGIL": 1
+      }
+    },
+    "ARKAN": {
+      "key": "ARKAN",
+      "name": "Arkanian",
+      "source": "Disciples of Harmony",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
+    },
+    "ARKANOFF": {
+      "key": "ARKANOFF",
+      "name": "Arkanian Offshoot",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 110,
+      "skillRanks": {}
+    },
+    "BALOSAR": {
+      "key": "BALOSAR",
+      "name": "Balosar",
+      "source": "Cyphers and Masks",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
+    },
+    "BARAB": {
+      "key": "BARAB",
+      "name": "Barabel",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 14,
+      "strainThreshold": 8,
+      "startingXP": 80,
+      "skillRanks": {
+        "COERC": 1
+      }
+    },
+    "BARDOTTAN": {
+      "key": "BARDOTTAN",
+      "name": "Bardottan",
+      "source": "Nexus of Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 105,
+      "skillRanks": {
+        "LORE": 1
+      }
+    },
+    "BESALISK": {
+      "key": "BESALISK",
+      "name": "Besalisk",
+      "source": "Special Modifications",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 7,
+      "startingXP": 85,
+      "skillRanks": {
+        "RESIL": 1
+      }
+    },
+    "BITH": {
+      "key": "BITH",
+      "name": "Bith",
+      "source": "Fully Operational",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "BOTH": {
+      "key": "BOTH",
+      "name": "Bothan",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
+    },
+    "CAAMASI": {
+      "key": "CAAMASI",
+      "name": "Caamasi",
+      "source": "Desperate Allies",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "CATHAR": {
+      "key": "CATHAR",
+      "name": "Cathar",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "CEREAN": {
+      "key": "CEREAN",
+      "name": "Cerean",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 1,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 13,
+      "startingXP": 90,
+      "skillRanks": {
+        "VIGIL": 1
+      }
+    },
+    "CHADRA": {
+      "key": "CHADRA",
+      "name": "Chadra-Fan",
+      "source": "Stay on Target",
+      "characteristics": {
+        "BR": 1,
+        "AG": 3,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 11,
+      "startingXP": 90,
+      "skillRanks": {
+        "MECH": 1
+      }
+    },
+    "CHAGRIAN": {
+      "key": "CHAGRIAN",
+      "name": "Chagrian",
+      "source": "Lead by Example",
+      "characteristics": {
+        "BR": 2,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "RESIL": 1
+      }
+    },
+    "CHEVIN": {
+      "key": "CHEVIN",
+      "name": "Chevin",
+      "source": "Far Horizons",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 11,
+      "startingXP": 80,
+      "skillRanks": {
+        "NEG": 1
+      }
+    },
+    "CHISS": {
+      "key": "CHISS",
+      "name": "Chiss",
+      "source": "Enter the Unknown",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "COOL": 1
+      }
+    },
+    "CLAWDITE": {
+      "key": "CLAWDITE",
+      "name": "Clawdite",
+      "source": "No Disintegrations",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 9,
+      "startingXP": 95,
+      "skillRanks": {
+        "RESIL": 1
+      }
+    },
+    "CLONE": {
+      "key": "CLONE",
+      "name": "Clone",
+      "source": "Rise of the Separatists",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "WARF": 1,
+        "RESIL": 1
+      }
+    },
+    "COSIAN": {
+      "key": "COSIAN",
+      "name": "Cosian",
+      "source": "Disciples of Harmony",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 95,
+      "skillRanks": {
+        "LORE": 1
+      }
+    },
+    "DASHADE": {
+      "key": "DASHADE",
+      "name": "Dashade",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {}
+    },
+    "DEFEL": {
+      "key": "DEFEL",
+      "name": "Defel",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "VIGIL": 1
+      }
+    },
+    "DEVAR": {
+      "key": "DEVAR",
+      "name": "Devaronian",
+      "source": "Nexus of Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 95,
+      "skillRanks": {}
+    },
+    "DOWUTIN": {
+      "key": "DOWUTIN",
+      "name": "Dowutin",
+      "source": "Knights of Fate",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 15,
+      "strainThreshold": 8,
+      "startingXP": 85,
+      "skillRanks": {
+        "RESIL": 1
+      }
+    },
+    "DRALL": {
+      "key": "DRALL",
+      "name": "Drall",
+      "source": "Suns of Fortune",
+      "characteristics": {
+        "BR": 1,
+        "AG": 1,
+        "INT": 4,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1
+      }
+    },
+    "DRESSELLIAN": {
+      "key": "DRESSELLIAN",
+      "name": "Dressellian",
+      "source": "Stay on Target",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 110,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "DROID": {
+      "key": "DROID",
+      "name": "Droid",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 1,
+        "INT": 1,
+        "CUN": 1,
+        "WIL": 1,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 175,
+      "skillRanks": {}
+    },
+    "DUG": {
+      "key": "DUG",
+      "name": "Dug",
+      "source": "Special Modifications",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 8,
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
+    },
+    "DUROS": {
+      "key": "DUROS",
+      "name": "Duros",
+      "source": "Age of Rebellion Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "PILOTSP": 1
+      }
+    },
+    "ELOM": {
+      "key": "ELOM",
+      "name": "Elom",
+      "source": "Forged in Battle",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 9,
+      "startingXP": 100,
+      "skillRanks": {
+        "RESIL": 1
+      }
+    },
+    "ELOMIN": {
+      "key": "ELOMIN",
+      "name": "Elomin",
+      "source": "Forged in Battle",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 105,
+      "skillRanks": {
+        "CHARM": 1,
+        "EDU": 1
+      }
+    },
+    "EWOK": {
+      "key": "EWOK",
+      "name": "Ewok",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "FALLEEN": {
+      "key": "FALLEEN",
+      "name": "Falleen",
+      "source": "Fly Casual",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
+    },
+    "FARGHUL": {
+      "key": "FARGHUL",
+      "name": "Farghul",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "GAMORREAN": {
+      "key": "GAMORREAN",
+      "name": "Gamorrean",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 8,
+      "startingXP": 90,
+      "skillRanks": {
+        "MELEE": 1
+      }
+    },
+    "GAND": {
+      "key": "GAND",
+      "name": "Gand",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
+    },
+    "GANK": {
+      "key": "GANK",
+      "name": "Gank",
+      "source": "Lords of Nal Hutta",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 110,
+      "skillRanks": {}
+    },
+    "GEONOSIAN": {
+      "key": "GEONOSIAN",
+      "name": "Geonosian",
+      "source": "Rise of the Separatists",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 1,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 9,
+      "startingXP": 140,
+      "skillRanks": {}
+    },
+    "GIVIN": {
+      "key": "GIVIN",
+      "name": "Givin",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1
+      }
+    },
+    "GOSSAM": {
+      "key": "GOSSAM",
+      "name": "Gossam",
+      "source": "Desperate Allies",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "DECEP": 1
+      }
+    },
+    "GOTAL": {
+      "key": "GOTAL",
+      "name": "Gotal",
+      "source": "Fly Casual",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 8,
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "GRAN": {
+      "key": "GRAN",
+      "name": "Gran",
+      "source": "Age of Rebellion Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 9,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "GUNGAN": {
+      "key": "GUNGAN",
+      "name": "Gungan",
+      "source": "Nexus of Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "ATHL": 1
+      }
+    },
+    "HERGLIC": {
+      "key": "HERGLIC",
+      "name": "Herglic",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 14,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
+    },
+    "HUMAN": {
+      "key": "HUMAN",
+      "name": "Human",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 110,
+      "skillRanks": {}
+    },
+    "HUMANCOR": {
+      "key": "HUMANCOR",
+      "name": "Corellian Human",
+      "source": "Suns of Fortune",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 110,
+      "skillRanks": {}
+    },
+    "HUTT": {
+      "key": "HUTT",
+      "name": "Hutt",
+      "source": "Lords of Nal Hutta",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 13,
+      "strainThreshold": 11,
+      "startingXP": 70,
+      "skillRanks": {}
+    },
+    "IKTOTCHI": {
+      "key": "IKTOTCHI",
+      "name": "Iktotchi",
+      "source": "Keeping the Peace",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {
+        "VIGIL": 1
+      }
+    },
+    "ISHITIB": {
+      "key": "ISHITIB",
+      "name": "Ishi Tib",
+      "source": "Lead by Example",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
+    },
+    "ITHORIAN": {
+      "key": "ITHORIAN",
+      "name": "Ithorian",
+      "source": "Age of Rebellion Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "JAWA": {
+      "key": "JAWA",
+      "name": "Jawa",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "MECH": 1
+      }
+    },
+    "KALLERAN": {
+      "key": "KALLERAN",
+      "name": "Kalleran",
+      "source": "No Disintegrations",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {
+        "SW": 1
+      }
+    },
+    "KAMINOAN": {
+      "key": "KAMINOAN",
+      "name": "Kaminoan",
+      "source": "Fully Operational",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
+    },
+    "KELDOR": {
+      "key": "KELDOR",
+      "name": "Kel Dor",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "EDU": 1
+      }
+    },
+    "KLATOO": {
+      "key": "KLATOO",
+      "name": "Klatooinian",
+      "source": "Dangerous Covenants",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "KUBAZ": {
+      "key": "KUBAZ",
+      "name": "Kubaz",
+      "source": "Cyphers and Masks",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "KYUZO": {
+      "key": "KYUZO",
+      "name": "Kyuzo",
+      "source": "Forged in Battle",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 11,
+      "startingXP": 90,
+      "skillRanks": {
+        "COORD": 1
+      }
+    },
+    "LANNIK": {
+      "key": "LANNIK",
+      "name": "Lannik",
+      "source": "Keeping the Peace",
+      "characteristics": {
+        "BR": 2,
+        "AG": 1,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 12,
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
+    },
+    "LEPI": {
+      "key": "LEPI",
+      "name": "Lepi",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "MANDOHUMAN": {
+      "key": "MANDOHUMAN",
+      "name": "Mandalorian Human",
+      "source": "Friends Like These",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 105,
+      "skillRanks": {}
+    },
+    "MELITTO": {
+      "key": "MELITTO",
+      "name": "Melitto",
+      "source": "Cyphers and Masks",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "MIKKIAN": {
+      "key": "MIKKIAN",
+      "name": "Mikkian",
+      "source": "Knights of Fate",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
+    },
+    "MIRIALAN": {
+      "key": "MIRIALAN",
+      "name": "Mirialan",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1,
+        "COOL": 1
+      }
+    },
+    "MONCAL": {
+      "key": "MONCAL",
+      "name": "Mon Calamari",
+      "source": "Age of Rebellion Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "EDU": 1
+      }
+    },
+    "MUSTAFARIAN": {
+      "key": "MUSTAFARIAN",
+      "name": "Mustafarian",
+      "source": "Special Modifications",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "BRAWL": 1
+      }
+    },
+    "MUUN": {
+      "key": "MUUN",
+      "name": "Muun",
+      "source": "Endless Vigil",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 3,
+        "WIL": 1,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 9,
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1,
+        "CORE": 1
+      }
+    },
+    "NAGAI": {
+      "key": "NAGAI",
+      "name": "Nagai",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "NAUTOLAN": {
+      "key": "NAUTOLAN",
+      "name": "Nautolan",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 9,
+      "startingXP": 100,
+      "skillRanks": {
+        "ATHL": 1
+      }
+    },
+    "NEIM": {
+      "key": "NEIM",
+      "name": "Neimoidian",
+      "source": "Desperate Allies",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 3,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 9,
+      "startingXP": 90,
+      "skillRanks": {}
+    },
+    "NIKTO": {
+      "key": "NIKTO",
+      "name": "Nikto",
+      "source": "Lords of Nal Hutta",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "NOGHRI": {
+      "key": "NOGHRI",
+      "name": "Noghri",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
+    },
+    "ORTOLAN": {
+      "key": "ORTOLAN",
+      "name": "Ortolan",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "PANTORAN": {
+      "key": "PANTORAN",
+      "name": "Pantoran",
+      "source": "Endless Vigil",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 110,
+      "skillRanks": {}
+    },
+    "PAUAN": {
+      "key": "PAUAN",
+      "name": "Pau'an",
+      "source": "Disciples of Harmony",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 8,
+      "startingXP": 95,
+      "skillRanks": {}
+    },
+    "PHYDOLON": {
+      "key": "PHYDOLON",
+      "name": "Phydolon",
+      "source": "Knights of Fate",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "POLISMASSAN": {
+      "key": "POLISMASSAN",
+      "name": "Polis Massan",
+      "source": "Strongholds of Resistance",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
+    },
+    "QUARREN": {
+      "key": "QUARREN",
+      "name": "Quarren",
+      "source": "Fly Casual",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 8,
+      "startingXP": 95,
+      "skillRanks": {
+        "NEG": 1
+      }
+    },
+    "QUERMIAN": {
+      "key": "QUERMIAN",
+      "name": "Quermian",
+      "source": "Savage Spirits",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 85,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "ROD": {
+      "key": "ROD",
+      "name": "Rodian",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "RYN": {
+      "key": "RYN",
+      "name": "Ryn",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "SAKIYAN": {
+      "key": "SAKIYAN",
+      "name": "Sakiyan",
+      "source": "Lords of Nal Hutta",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 10,
+      "startingXP": 80,
+      "skillRanks": {}
+    },
+    "SATHARI": {
+      "key": "SATHARI",
+      "name": "Sathari",
+      "source": "Chronicles of the Gatekeeper",
+      "characteristics": {
+        "BR": 1,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 8,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "COORD": 1
+      }
+    },
+    "SELKATH": {
+      "key": "SELKATH",
+      "name": "Selkath",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "SELONIAN": {
+      "key": "SELONIAN",
+      "name": "Selonian",
+      "source": "Suns of Fortune",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 80,
+      "skillRanks": {
+        "COORD": 1
+      }
+    },
+    "SHIST": {
+      "key": "SHIST",
+      "name": "Shistavanen",
+      "source": "Forged in Battle",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 1
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 80,
+      "skillRanks": {}
+    },
+    "SKAKOAN": {
+      "key": "SKAKOAN",
+      "name": "Skakoan",
+      "source": "Fully Operational",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 8,
+      "startingXP": 80,
+      "skillRanks": {
+        "EDU": 1,
+        "MECH": 1
+      }
+    },
+    "SLUISSI": {
+      "key": "SLUISSI",
+      "name": "Sluissi",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 3,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "MECH": 1
+      }
+    },
+    "SNIVVIAN": {
+      "key": "SNIVVIAN",
+      "name": "Snivvian",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 12,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "SQUIB": {
+      "key": "SQUIB",
+      "name": "Squib",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 1,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "NEG": 1
+      }
+    },
+    "SULLUSTAN": {
+      "key": "SULLUSTAN",
+      "name": "Sullustan",
+      "source": "Age of Rebellion Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "ASTRO": 1
+      }
+    },
+    "TALZ": {
+      "key": "TALZ",
+      "name": "Talz",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 9,
+      "startingXP": 90,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "THAKWAASH": {
+      "key": "THAKWAASH",
+      "name": "Thakwaash",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "THISSPIASIAN": {
+      "key": "THISSPIASIAN",
+      "name": "Thisspiasian",
+      "source": "Unlimited Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 8,
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
+    },
+    "THOLOTHIAN": {
+      "key": "THOLOTHIAN",
+      "name": "Tholothian",
+      "source": "Unlimited Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 95,
+      "skillRanks": {
+        "XEN": 1
+      }
+    },
+    "TOGORIAN": {
+      "key": "TOGORIAN",
+      "name": "Togorian",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 14,
+      "strainThreshold": 8,
+      "startingXP": 90,
+      "skillRanks": {
+        "COERC": 1
+      }
+    },
+    "TOGRUTA": {
+      "key": "TOGRUTA",
+      "name": "Togruta",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "TOYDARIAN": {
+      "key": "TOYDARIAN",
+      "name": "Toydarians",
+      "source": "Enter the Unknown",
+      "characteristics": {
+        "BR": 1,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 3
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 12,
+      "startingXP": 90,
+      "skillRanks": {}
+    },
+    "TRAND": {
+      "key": "TRAND",
+      "name": "Trandoshan",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 3,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 9,
+      "startingXP": 90,
+      "skillRanks": {
+        "PERC": 1
+      }
+    },
+    "TWI": {
+      "key": "TWI",
+      "name": "Twi'lek",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 1,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "UBESE": {
+      "key": "UBESE",
+      "name": "Ubese",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {}
+    },
+    "UGNAUGHTS": {
+      "key": "UGNAUGHTS",
+      "name": "Ugnaught",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 1,
+        "INT": 2,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {}
+    },
+    "UMBARAN": {
+      "key": "UMBARAN",
+      "name": "Umbaran",
+      "source": "Rise of the Separatists",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "DECEP": 1
+      }
+    },
+    "VERPINE": {
+      "key": "VERPINE",
+      "name": "Verpine",
+      "source": "Strongholds of Resistance",
+      "characteristics": {
+        "BR": 2,
+        "AG": 3,
+        "INT": 3,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 12,
+      "startingXP": 80,
+      "skillRanks": {
+        "MECH": 1
+      }
+    },
+    "VURK": {
+      "key": "VURK",
+      "name": "Vurk",
+      "source": "Unlimited Power",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 11,
+      "startingXP": 100,
+      "skillRanks": {
+        "NEG": 1
+      }
+    },
+    "WEEQUAY": {
+      "key": "WEEQUAY",
+      "name": "Weequay",
+      "source": "Dangerous Covenants",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 1,
+        "CUN": 3,
+        "WIL": 2,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 9,
+      "startingXP": 90,
+      "skillRanks": {}
+    },
+    "WHIPHID": {
+      "key": "WHIPHID",
+      "name": "Whiphid",
+      "source": "Keeping the Peace",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 2
+      },
+      "woundThreshold": 12,
+      "strainThreshold": 10,
+      "startingXP": 80,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "WOOK": {
+      "key": "WOOK",
+      "name": "Wookiee",
+      "source": "Edge of the Empire Core Rulebook",
+      "characteristics": {
+        "BR": 3,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 14,
+      "strainThreshold": 8,
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
+    },
+    "XEXTO": {
+      "key": "XEXTO",
+      "name": "Xexto",
+      "source": "Stay on Target",
+      "characteristics": {
+        "BR": 1,
+        "AG": 3,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 2
+      },
+      "woundThreshold": 9,
+      "strainThreshold": 9,
+      "startingXP": 85,
+      "skillRanks": {}
+    },
+    "ZABRAK": {
+      "key": "ZABRAK",
+      "name": "Zabrak",
+      "source": "Force and Destiny Core Rulebook",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 3,
+        "PR": 1
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
+    },
+    "ZELTRON": {
+      "key": "ZELTRON",
+      "name": "Zeltron",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 2,
+        "WIL": 1,
+        "PR": 3
+      },
+      "woundThreshold": 10,
+      "strainThreshold": 10,
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
+    },
+    "ZYGERRIAN": {
+      "key": "ZYGERRIAN",
+      "name": "Zygerrian",
+      "source": "Unofficial Species Menagerie",
+      "characteristics": {
+        "BR": 2,
+        "AG": 2,
+        "INT": 2,
+        "CUN": 1,
+        "WIL": 2,
+        "PR": 3
+      },
+      "woundThreshold": 11,
+      "strainThreshold": 10,
+      "startingXP": 100,
+      "skillRanks": {
+        "COERC": 1
+      }
+    }
+  },
   "careers": {
     "CONSULAR": {
       "key": "CONSULAR",
