@@ -5,9 +5,13 @@
 next to the HTML. If it's missing, the sheet still works; the Add buttons just disable.
 
 ## What's in the catalog
-`window.FAD_CATALOG` (schema `fad-catalog-v1`): the Force & Destiny careers (ForceRating ≥ 1), the
-specializations they grant plus Universal specializations, and all Force powers — each as a stateless
-talent-tree template (`nodes` + `edges`) matching the sheet's runtime `state.trees` shape.
+`window.FAD_CATALOG` (schema `fad-catalog-v1`):
+- **careers / specializations / forcePowers** — the Force & Destiny careers (ForceRating ≥ 1), the
+  specializations they grant plus Universal specializations, and all Force powers — each as a stateless
+  talent-tree template (`nodes` + `edges`) matching the sheet's runtime `state.trees` shape.
+- **equipment** — `{ weapons, armor, gear }` keyed by item key, with row-ready fields (weapons:
+  skill/dam/crit/range/enc/special incl. formatted qualities; armor: defense/soak/enc/hp; gear:
+  enc/notes). Powers the **Lookup weapon / armor / gear** buttons on the sheet.
 
 ## Regenerating
 The catalog is generated from an OggDude **Star Wars Character Generator** DataSet (XML) that you supply:
