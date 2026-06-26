@@ -4,7 +4,7 @@ window.FAD_CATALOG = Object.freeze(
 {
   "schema": "fad-catalog-v1",
   "version": 1,
-  "generatedAt": "2026-06-26T18:40:07.643Z",
+  "generatedAt": "2026-06-26T19:10:39.202Z",
   "source": "OggDude DataSet (user-supplied) — Force & Destiny",
   "species": {
     "ALEENA": {
@@ -21,7 +21,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 10,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {
+        "COORD": 1
+      }
     },
     "ANX": {
       "key": "ANX",
@@ -37,7 +40,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 13,
       "strainThreshold": 10,
-      "startingXP": 85
+      "startingXP": 85,
+      "skillRanks": {}
     },
     "AQUA": {
       "key": "AQUA",
@@ -53,7 +57,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 8,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
     },
     "ARCONA": {
       "key": "ARCONA",
@@ -69,7 +76,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "VIGIL": 1
+      }
     },
     "ARKAN": {
       "key": "ARKAN",
@@ -85,7 +95,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
     },
     "ARKANOFF": {
       "key": "ARKANOFF",
@@ -101,7 +114,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {}
     },
     "BALOSAR": {
       "key": "BALOSAR",
@@ -117,7 +131,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
     },
     "BARAB": {
       "key": "BARAB",
@@ -133,7 +150,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 14,
       "strainThreshold": 8,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "COERC": 1
+      }
     },
     "BARDOTTAN": {
       "key": "BARDOTTAN",
@@ -149,7 +169,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 105
+      "startingXP": 105,
+      "skillRanks": {
+        "LORE": 1
+      }
     },
     "BESALISK": {
       "key": "BESALISK",
@@ -165,7 +188,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 7,
-      "startingXP": 85
+      "startingXP": 85,
+      "skillRanks": {
+        "RESIL": 1
+      }
     },
     "BITH": {
       "key": "BITH",
@@ -181,7 +207,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "BOTH": {
       "key": "BOTH",
@@ -197,7 +226,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
     },
     "CAAMASI": {
       "key": "CAAMASI",
@@ -213,7 +245,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "CATHAR": {
       "key": "CATHAR",
@@ -229,7 +262,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "CEREAN": {
       "key": "CEREAN",
@@ -245,7 +279,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 13,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "VIGIL": 1
+      }
     },
     "CHADRA": {
       "key": "CHADRA",
@@ -261,7 +298,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 11,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "MECH": 1
+      }
     },
     "CHAGRIAN": {
       "key": "CHAGRIAN",
@@ -277,7 +317,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "RESIL": 1
+      }
     },
     "CHEVIN": {
       "key": "CHEVIN",
@@ -293,7 +336,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 11,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "NEG": 1
+      }
     },
     "CHISS": {
       "key": "CHISS",
@@ -309,7 +355,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "COOL": 1
+      }
     },
     "CLAWDITE": {
       "key": "CLAWDITE",
@@ -325,7 +374,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 9,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {
+        "RESIL": 1
+      }
     },
     "CLONE": {
       "key": "CLONE",
@@ -341,7 +393,11 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "WARF": 1,
+        "RESIL": 1
+      }
     },
     "COSIAN": {
       "key": "COSIAN",
@@ -357,7 +413,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {
+        "LORE": 1
+      }
     },
     "DASHADE": {
       "key": "DASHADE",
@@ -373,7 +432,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {}
     },
     "DEFEL": {
       "key": "DEFEL",
@@ -389,7 +449,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "VIGIL": 1
+      }
     },
     "DEVAR": {
       "key": "DEVAR",
@@ -405,7 +468,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {}
     },
     "DOWUTIN": {
       "key": "DOWUTIN",
@@ -421,7 +485,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 15,
       "strainThreshold": 8,
-      "startingXP": 85
+      "startingXP": 85,
+      "skillRanks": {
+        "RESIL": 1
+      }
     },
     "DRALL": {
       "key": "DRALL",
@@ -437,7 +504,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1
+      }
     },
     "DRESSELLIAN": {
       "key": "DRESSELLIAN",
@@ -453,7 +523,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "DROID": {
       "key": "DROID",
@@ -469,7 +542,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 175
+      "startingXP": 175,
+      "skillRanks": {}
     },
     "DUG": {
       "key": "DUG",
@@ -485,7 +559,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 8,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
     },
     "DUROS": {
       "key": "DUROS",
@@ -501,7 +578,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "PILOTSP": 1
+      }
     },
     "ELOM": {
       "key": "ELOM",
@@ -517,7 +597,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 9,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "RESIL": 1
+      }
     },
     "ELOMIN": {
       "key": "ELOMIN",
@@ -533,7 +616,11 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 105
+      "startingXP": 105,
+      "skillRanks": {
+        "CHARM": 1,
+        "EDU": 1
+      }
     },
     "EWOK": {
       "key": "EWOK",
@@ -549,7 +636,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "FALLEEN": {
       "key": "FALLEEN",
@@ -565,7 +653,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
     },
     "FARGHUL": {
       "key": "FARGHUL",
@@ -581,7 +672,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "GAMORREAN": {
       "key": "GAMORREAN",
@@ -597,7 +689,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 8,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "MELEE": 1
+      }
     },
     "GAND": {
       "key": "GAND",
@@ -613,7 +708,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
     },
     "GANK": {
       "key": "GANK",
@@ -629,7 +727,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {}
     },
     "GEONOSIAN": {
       "key": "GEONOSIAN",
@@ -645,7 +744,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 9,
-      "startingXP": 140
+      "startingXP": 140,
+      "skillRanks": {}
     },
     "GIVIN": {
       "key": "GIVIN",
@@ -661,7 +761,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1
+      }
     },
     "GOSSAM": {
       "key": "GOSSAM",
@@ -677,7 +780,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DECEP": 1
+      }
     },
     "GOTAL": {
       "key": "GOTAL",
@@ -693,7 +799,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 8,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "GRAN": {
       "key": "GRAN",
@@ -709,7 +818,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 9,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "GUNGAN": {
       "key": "GUNGAN",
@@ -725,7 +835,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "ATHL": 1
+      }
     },
     "HERGLIC": {
       "key": "HERGLIC",
@@ -741,7 +854,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 14,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
     },
     "HUMAN": {
       "key": "HUMAN",
@@ -757,7 +873,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {}
     },
     "HUMANCOR": {
       "key": "HUMANCOR",
@@ -773,7 +890,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {}
     },
     "HUTT": {
       "key": "HUTT",
@@ -789,7 +907,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 13,
       "strainThreshold": 11,
-      "startingXP": 70
+      "startingXP": 70,
+      "skillRanks": {}
     },
     "IKTOTCHI": {
       "key": "IKTOTCHI",
@@ -805,7 +924,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "VIGIL": 1
+      }
     },
     "ISHITIB": {
       "key": "ISHITIB",
@@ -821,7 +943,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
     },
     "ITHORIAN": {
       "key": "ITHORIAN",
@@ -837,7 +962,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "JAWA": {
       "key": "JAWA",
@@ -853,7 +981,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "MECH": 1
+      }
     },
     "KALLERAN": {
       "key": "KALLERAN",
@@ -869,7 +1000,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "SW": 1
+      }
     },
     "KAMINOAN": {
       "key": "KAMINOAN",
@@ -885,7 +1019,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
     },
     "KELDOR": {
       "key": "KELDOR",
@@ -901,7 +1038,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "EDU": 1
+      }
     },
     "KLATOO": {
       "key": "KLATOO",
@@ -917,7 +1057,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "KUBAZ": {
       "key": "KUBAZ",
@@ -933,7 +1074,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "KYUZO": {
       "key": "KYUZO",
@@ -949,7 +1091,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 11,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "COORD": 1
+      }
     },
     "LANNIK": {
       "key": "LANNIK",
@@ -965,7 +1110,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 12,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SW": 1
+      }
     },
     "LEPI": {
       "key": "LEPI",
@@ -981,7 +1129,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "MANDOHUMAN": {
       "key": "MANDOHUMAN",
@@ -997,7 +1146,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 105
+      "startingXP": 105,
+      "skillRanks": {}
     },
     "MELITTO": {
       "key": "MELITTO",
@@ -1013,7 +1163,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "MIKKIAN": {
       "key": "MIKKIAN",
@@ -1029,7 +1182,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
     },
     "MIRIALAN": {
       "key": "MIRIALAN",
@@ -1045,7 +1201,11 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1,
+        "COOL": 1
+      }
     },
     "MONCAL": {
       "key": "MONCAL",
@@ -1061,7 +1221,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "EDU": 1
+      }
     },
     "MUSTAFARIAN": {
       "key": "MUSTAFARIAN",
@@ -1077,7 +1240,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "BRAWL": 1
+      }
     },
     "MUUN": {
       "key": "MUUN",
@@ -1093,7 +1259,11 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 9,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "EDU": 1,
+        "CORE": 1
+      }
     },
     "NAGAI": {
       "key": "NAGAI",
@@ -1109,7 +1279,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "NAUTOLAN": {
       "key": "NAUTOLAN",
@@ -1125,7 +1296,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 9,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "ATHL": 1
+      }
     },
     "NEIM": {
       "key": "NEIM",
@@ -1141,7 +1315,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 9,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {}
     },
     "NIKTO": {
       "key": "NIKTO",
@@ -1157,7 +1332,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "NOGHRI": {
       "key": "NOGHRI",
@@ -1173,7 +1349,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
     },
     "ORTOLAN": {
       "key": "ORTOLAN",
@@ -1189,7 +1368,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "PANTORAN": {
       "key": "PANTORAN",
@@ -1205,7 +1387,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 110
+      "startingXP": 110,
+      "skillRanks": {}
     },
     "PAUAN": {
       "key": "PAUAN",
@@ -1221,7 +1404,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 8,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {}
     },
     "PHYDOLON": {
       "key": "PHYDOLON",
@@ -1237,7 +1421,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "POLISMASSAN": {
       "key": "POLISMASSAN",
@@ -1253,7 +1438,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "MED": 1
+      }
     },
     "QUARREN": {
       "key": "QUARREN",
@@ -1269,7 +1457,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 8,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {
+        "NEG": 1
+      }
     },
     "QUERMIAN": {
       "key": "QUERMIAN",
@@ -1285,7 +1476,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 85
+      "startingXP": 85,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "ROD": {
       "key": "ROD",
@@ -1301,7 +1495,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "RYN": {
       "key": "RYN",
@@ -1317,7 +1514,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "SAKIYAN": {
       "key": "SAKIYAN",
@@ -1333,7 +1531,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 10,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {}
     },
     "SATHARI": {
       "key": "SATHARI",
@@ -1349,7 +1548,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 8,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "COORD": 1
+      }
     },
     "SELKATH": {
       "key": "SELKATH",
@@ -1365,7 +1567,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "SELONIAN": {
       "key": "SELONIAN",
@@ -1381,7 +1584,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "COORD": 1
+      }
     },
     "SHIST": {
       "key": "SHIST",
@@ -1397,7 +1603,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {}
     },
     "SKAKOAN": {
       "key": "SKAKOAN",
@@ -1413,7 +1620,11 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 8,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "EDU": 1,
+        "MECH": 1
+      }
     },
     "SLUISSI": {
       "key": "SLUISSI",
@@ -1429,7 +1640,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "MECH": 1
+      }
     },
     "SNIVVIAN": {
       "key": "SNIVVIAN",
@@ -1445,7 +1659,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 12,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "SQUIB": {
       "key": "SQUIB",
@@ -1461,7 +1676,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "NEG": 1
+      }
     },
     "SULLUSTAN": {
       "key": "SULLUSTAN",
@@ -1477,7 +1695,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "ASTRO": 1
+      }
     },
     "TALZ": {
       "key": "TALZ",
@@ -1493,7 +1714,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 9,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "THAKWAASH": {
       "key": "THAKWAASH",
@@ -1509,7 +1733,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "THISSPIASIAN": {
       "key": "THISSPIASIAN",
@@ -1525,7 +1750,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 8,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DISC": 1
+      }
     },
     "THOLOTHIAN": {
       "key": "THOLOTHIAN",
@@ -1541,7 +1769,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 95
+      "startingXP": 95,
+      "skillRanks": {
+        "XEN": 1
+      }
     },
     "TOGORIAN": {
       "key": "TOGORIAN",
@@ -1557,7 +1788,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 14,
       "strainThreshold": 8,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "COERC": 1
+      }
     },
     "TOGRUTA": {
       "key": "TOGRUTA",
@@ -1573,7 +1807,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "TOYDARIAN": {
       "key": "TOYDARIAN",
@@ -1589,7 +1826,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 12,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {}
     },
     "TRAND": {
       "key": "TRAND",
@@ -1605,7 +1843,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 9,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "PERC": 1
+      }
     },
     "TWI": {
       "key": "TWI",
@@ -1621,7 +1862,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "UBESE": {
       "key": "UBESE",
@@ -1637,7 +1879,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {}
     },
     "UGNAUGHTS": {
       "key": "UGNAUGHTS",
@@ -1653,7 +1896,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {}
     },
     "UMBARAN": {
       "key": "UMBARAN",
@@ -1669,7 +1913,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "DECEP": 1
+      }
     },
     "VERPINE": {
       "key": "VERPINE",
@@ -1685,7 +1932,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 12,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "MECH": 1
+      }
     },
     "VURK": {
       "key": "VURK",
@@ -1701,7 +1951,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 11,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "NEG": 1
+      }
     },
     "WEEQUAY": {
       "key": "WEEQUAY",
@@ -1717,7 +1970,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 9,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {}
     },
     "WHIPHID": {
       "key": "WHIPHID",
@@ -1733,7 +1987,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 12,
       "strainThreshold": 10,
-      "startingXP": 80
+      "startingXP": 80,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "WOOK": {
       "key": "WOOK",
@@ -1749,7 +2006,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 14,
       "strainThreshold": 8,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "BRAWL": 1
+      }
     },
     "XEXTO": {
       "key": "XEXTO",
@@ -1765,7 +2025,8 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 9,
       "strainThreshold": 9,
-      "startingXP": 85
+      "startingXP": 85,
+      "skillRanks": {}
     },
     "ZABRAK": {
       "key": "ZABRAK",
@@ -1781,7 +2042,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "SURV": 1
+      }
     },
     "ZELTRON": {
       "key": "ZELTRON",
@@ -1797,7 +2061,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 10,
       "strainThreshold": 10,
-      "startingXP": 90
+      "startingXP": 90,
+      "skillRanks": {
+        "CHARM": 1
+      }
     },
     "ZYGERRIAN": {
       "key": "ZYGERRIAN",
@@ -1813,7 +2080,10 @@ window.FAD_CATALOG = Object.freeze(
       },
       "woundThreshold": 11,
       "strainThreshold": 10,
-      "startingXP": 100
+      "startingXP": 100,
+      "skillRanks": {
+        "COERC": 1
+      }
     }
   },
   "careers": {

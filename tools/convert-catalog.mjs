@@ -168,11 +168,14 @@ for(const f of fs.readdirSync(path.join(DATA,'Species')).filter(f => f.endsWith(
   const key = ktext(sp,'Key'); if(!key) continue;
   const sc = kid(sp,'StartingChars'); const sa = kid(sp,'StartingAttrs');
   const num = (n,t) => Number(ktext(n,t) || 0);
+  const skillRanks = {}; // free starting skill ranks granted by the species
+  const sm = kid(sp,'SkillModifiers');
+  if(sm) for(const m of kids(sm,'SkillModifier')){ const rs = Number(ktext(m,'RankStart') || 0); if(rs > 0) skillRanks[ktext(m,'Key')] = rs; }
   species[key] = { key, name: ktext(sp,'Name'), source: sourceText(sp),
     characteristics: { BR:num(sc,'Brawn'), AG:num(sc,'Agility'), INT:num(sc,'Intellect'),
       CUN:num(sc,'Cunning'), WIL:num(sc,'Willpower'), PR:num(sc,'Presence') },
     woundThreshold: num(sa,'WoundThreshold'), strainThreshold: num(sa,'StrainThreshold'),
-    startingXP: num(sa,'Experience') };
+    startingXP: num(sa,'Experience'), skillRanks };
 }
 
 // 5. Specializations (F&D-career-granted or Universal)
