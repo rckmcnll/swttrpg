@@ -23,6 +23,24 @@ node tools/convert-catalog.mjs "<path-to>/SWCharGen/Data" fad-catalog.js
 The converter is zero-dependency (no `npm install`). It prints validation counts and exits non-zero if any
 talent/ability/edge fails to resolve. See `docs/multi-tree-catalog-spec.md` for the design.
 
+## Item descriptions
+The committed `fad-catalog.js` carries OggDude's page-reference stubs for descriptions (e.g. "see page
+167…") — the full rulebook text is copyrighted and is **not** published here. Weapon qualities are explained
+on the sheet via a built-in plain-language glossary (`QUALITY_GLOSSARY`, original wording) shown as a tooltip
+on each weapon's *Special* field.
+
+## Local full-description build (private, not committed)
+If you have a dataset whose `<Description>` entries contain full text you have the right to use locally,
+generate a **local override** that is gitignored and never published:
+
+```
+node tools/convert-catalog.mjs "<your-dataset>/Data" fad-catalog.local.js
+```
+
+The sheet loads `fad-catalog.local.js` after `fad-catalog.js`, so if it exists it transparently replaces the
+catalog (descriptions and all); if it's absent the `<script>` 404s harmlessly and the public catalog is used.
+`fad-catalog.local.js` is in `.gitignore` — keep it local.
+
 ## Licensing / fan content
 This is an **unofficial fan tool**. *Star Wars* and *Force and Destiny* are trademarks of their respective
 owners (Lucasfilm / Fantasy Flight Games / Edge Studio); this project is not affiliated with or endorsed by

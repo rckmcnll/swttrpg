@@ -2,6 +2,9 @@
 SWCharGen.zip
 SWCharGen/
 
+# Local full-description catalog override (may contain copyrighted rulebook text). Keep local only.
+fad-catalog.local.js
+
 # Local backups / scratch artifacts
 *_old.html
 *_sheet_backup.json
