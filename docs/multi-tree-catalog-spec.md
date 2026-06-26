@@ -234,14 +234,16 @@ function recalcXp(){
 - **Call sites:** node purchase toggle (inside the node `onclick`, once), end of add/remove, `bindFields` when
   `key==='xpTotal'` (parallels `cBrawn → recalcEncThreshold`), and in `renderEverything()` after `renderTrees()`.
 
-### FFG rules nuances
-- **Career skills granted by a specialization** — do **not** auto-apply in v1 (would fight manual skill edits
-  and conflict across multiple specs). Surface `careerSkills` as a read-only note/tooltip on the tree block.
-  *(Future enhancement.)*
-- **Additional-specialization surcharge** (10 × specs-already-owned, the first/career spec being free) — not
-  represented by any node. Recommended: optional auto-surcharge gated by `state.fields.xpAutoSpecSurcharge`
-  (default `true`) folded into `recalcXp`; **or** ship as a manual note for minimal scope. Must not charge the
-  starting specialization.
+### FFG rules nuances — IMPLEMENTED
+- **Career skills granted by a specialization** — auto-derived. `specCareerSkillSet()` unions every
+  specialization tree's `careerSkills` (falling back to the catalog by `catalogKey`) and `renderSkills`
+  lights those skills' career dots (class `car-box.auto.on`). Skill names are matched with `skillKeyNorm`
+  (strip non-alphanumerics) so the catalog's `Ranged - Light` matches the sheet's `Ranged (Light)`, etc.
+  Manual career toggles are preserved (`carOn = sk.career || auto`); auto-granted dots can't be un-set.
+- **Additional-specialization surcharge** (10 × specs-already-owned, first spec free) — implemented in
+  `recalcXp` as `10 * specCount * (specCount-1) / 2`, gated by `state.fields.xpAutoSpecSurcharge` (default
+  on) via the "auto spec-XP surcharge" checkbox in `#treeControls`. Added to Spent XP; the Spent field's
+  tooltip breaks out talents/upgrades vs surcharge.
 
 ---
 
@@ -355,7 +357,10 @@ the sheet still works (Add buttons disabled) if `fad-catalog.js` is missing.
 
 ## 12. Out of scope (v1 — future work)
 
-- Auto-applying specialization career skills to the skills grid.
-- Full additional-specialization surcharge automation (optional / note-only initially).
+- Auto-deriving career skills from the *base career* (free-text `career` field) in addition to specs.
+- Serving over HTTP to allow a `fetch`-based JSON catalog instead of `<script src>`.
+
+(Auto-applying specialization career skills and the additional-specialization XP surcharge were initially
+deferred but are now implemented — see §6 "FFG rules nuances — IMPLEMENTED".)
 - Committing a complete public catalog (licensing).
 - Serving the sheet over HTTP to enable a `.json` (fetch-based) catalog.
