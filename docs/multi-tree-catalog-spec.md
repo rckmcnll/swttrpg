@@ -357,10 +357,11 @@ the sheet still works (Add buttons disabled) if `fad-catalog.js` is missing.
 
 ## 12. Out of scope (v1 — future work)
 
-- Auto-deriving career skills from the *base career* (free-text `career` field) in addition to specs.
 - Serving over HTTP to allow a `fetch`-based JSON catalog instead of `<script src>`.
 
-(Auto-applying specialization career skills and the additional-specialization XP surcharge were initially
-deferred but are now implemented — see §6 "FFG rules nuances — IMPLEMENTED".)
+(Auto-applying specialization career skills, the additional-specialization XP surcharge, and deriving the
+**base career's** skills are all now implemented. The Career field is a catalog-backed `<select>`
+(`populateCareerSelect`); `specCareerSkillSet` unions the selected career's `careerSkills` with the specs'.
+See §6 "FFG rules nuances — IMPLEMENTED".)
 - Committing a complete public catalog (licensing).
 - Serving the sheet over HTTP to enable a `.json` (fetch-based) catalog.
