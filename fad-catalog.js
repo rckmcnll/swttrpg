@@ -4,7 +4,7 @@ window.FAD_CATALOG = Object.freeze(
 {
   "schema": "fad-catalog-v1",
   "version": 1,
-  "generatedAt": "2026-06-26T04:09:54.892Z",
+  "generatedAt": "2026-06-26T04:46:12.841Z",
   "source": "OggDude DataSet (user-supplied) — Force & Destiny",
   "careers": {
     "CONSULAR": {
@@ -22411,6 +22411,11313 @@ window.FAD_CATALOG = Object.freeze(
           "direction": "down"
         }
       ]
+    }
+  },
+  "equipment": {
+    "weapons": {
+      "12DEFEND": {
+        "key": "12DEFEND",
+        "name": "12 Defender",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Inferior, Limited Ammo 2",
+        "price": "25",
+        "rarity": "4"
+      },
+      "134ABUZZ": {
+        "key": "134ABUZZ",
+        "name": "Model 134a \"Buzzsaw\" Rotary Cannon",
+        "skill": "Gunnery",
+        "dam": "12",
+        "crit": "3",
+        "range": "Long",
+        "enc": "8",
+        "special": "Auto Fire, Cumbersome 5, Pierce 3, HP 4",
+        "price": "4500",
+        "rarity": "7"
+      },
+      "411HOLDOUT": {
+        "key": "411HOLDOUT",
+        "name": "411 Holdout Blaster",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "350",
+        "rarity": "5"
+      },
+      "8GAUGESCATTER": {
+        "key": "8GAUGESCATTER",
+        "name": "8-Gauge Scatter Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "6",
+        "range": "Short",
+        "enc": "3",
+        "special": "Blast 3, Knockdown, HP 2",
+        "price": "550",
+        "rarity": "4"
+      },
+      "A280": {
+        "key": "A280",
+        "name": "A280 Heavy Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "4",
+        "range": "Long",
+        "enc": "5",
+        "special": "Accurate 1, Cumbersome 3, Stun Setting, HP 2",
+        "price": "1800",
+        "rarity": "7"
+      },
+      "A280CFEPISTOL": {
+        "key": "A280CFEPISTOL",
+        "name": "A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 1",
+        "price": "1700",
+        "rarity": "7"
+      },
+      "A280CFERIFLE": {
+        "key": "A280CFERIFLE",
+        "name": "A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Long",
+        "enc": "3",
+        "special": "Stun Setting, Accurate 1, Pierce 1, HP 1",
+        "price": "1700",
+        "rarity": "7"
+      },
+      "A95STING": {
+        "key": "A95STING",
+        "name": "A95 Stingbeam",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Stun Setting, Vicious 1",
+        "price": "400",
+        "rarity": "5"
+      },
+      "AB75BO": {
+        "key": "AB75BO",
+        "name": "AB-75 Bo-Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Stun Setting, HP 4",
+        "price": "900",
+        "rarity": "7"
+      },
+      "ACML": {
+        "key": "ACML",
+        "name": "Assault Concussion Missile Launcher",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Breach 5, Guided 2, Inaccurate 1, Limited Ammo 3, Slow Firing 1",
+        "price": "8500",
+        "rarity": "6"
+      },
+      "ACPARRAYGUN": {
+        "key": "ACPARRAYGUN",
+        "name": "ACP Array Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "3",
+        "special": "Blast 5, Stun Setting, HP 3",
+        "price": "890",
+        "rarity": "6"
+      },
+      "ACPREPEATER": {
+        "key": "ACPREPEATER",
+        "name": "ACP Repeater Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Auto Fire, Stun Setting, HP 1",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "AFCML": {
+        "key": "AFCML",
+        "name": "Alternating-Fire Concussion Missile Launcher",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Breach 4, Guided 3, Limited Ammo 3",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "AJ23RIF": {
+        "key": "AJ23RIF",
+        "name": "AJ-23 Concussive Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "5",
+        "range": "Short",
+        "enc": "4",
+        "special": "Blast 7, Concussive 2, Inaccurate 2, Knockdown, Stun Damage, HP 2",
+        "price": "8000",
+        "rarity": "4"
+      },
+      "AKRABDAG": {
+        "key": "AKRABDAG",
+        "name": "aKraB Clip-Point Vibrodagger",
+        "skill": "Melee",
+        "dam": "+1",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 3, Vicious 1, HP 1",
+        "price": "550",
+        "rarity": "5"
+      },
+      "ANCIENTSWORD": {
+        "key": "ANCIENTSWORD",
+        "name": "Ancient Sword",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, HP 1",
+        "price": "350",
+        "rarity": "8"
+      },
+      "ANTIAIR": {
+        "key": "ANTIAIR",
+        "name": "Anti-Air Rockets",
+        "skill": "Gunnery",
+        "dam": "4",
+        "crit": "3",
+        "range": "",
+        "enc": "",
+        "special": "Blast 2, Breach 1, Limited Ammo 4, Linked 3",
+        "price": "",
+        "rarity": ""
+      },
+      "ANTIPERSLASER": {
+        "key": "ANTIPERSLASER",
+        "name": "Anti-Personnel Laser",
+        "skill": "Gunnery",
+        "dam": "1",
+        "crit": "4",
+        "range": "",
+        "enc": "",
+        "special": "Auto Fire, Blast 1",
+        "price": "",
+        "rarity": ""
+      },
+      "APGREN": {
+        "key": "APGREN",
+        "name": "Armor Piercing Grenade",
+        "skill": "Ranged - Light",
+        "dam": "13",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 4, Limited Ammo 1, Pierce 3",
+        "price": "100",
+        "rarity": "6"
+      },
+      "APM1GR": {
+        "key": "APM1GR",
+        "name": "AP-M1 Armor Piercing Grenade",
+        "skill": "Ranged - Light",
+        "dam": "13",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 4, Limited Ammo 1, Pierce 4",
+        "price": "200",
+        "rarity": "6"
+      },
+      "APMINE": {
+        "key": "APMINE",
+        "name": "Anti-Personnel Mine",
+        "skill": "Mechanics",
+        "dam": "12",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Blast 4, Limited Ammo 1, Vicious 4",
+        "price": "850",
+        "rarity": "6"
+      },
+      "ARGGAROK": {
+        "key": "ARGGAROK",
+        "name": "Arg'garok",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Cumbersome 5, Inferior, Pierce 1, Sunder, HP 3",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "ARQUBUS": {
+        "key": "ARQUBUS",
+        "name": "Arquebus",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "5",
+        "range": "Long",
+        "enc": "3",
+        "special": "Cumbersome 3, Prepare 1, HP 4",
+        "price": "1200",
+        "rarity": "5"
+      },
+      "ASCIANTHROWDAG": {
+        "key": "ASCIANTHROWDAG",
+        "name": "Ascian Throwing Dagger",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Limited Ammo 1, Pierce 2",
+        "price": "65",
+        "rarity": "7"
+      },
+      "ASHLASTAFF": {
+        "key": "ASHLASTAFF",
+        "name": "Ashla Staff",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "HP 2",
+        "price": "3000",
+        "rarity": "7"
+      },
+      "ASSAULTSLUGCARB": {
+        "key": "ASSAULTSLUGCARB",
+        "name": "FYR Assault Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "5",
+        "range": "Short",
+        "enc": "4",
+        "special": "Auto Fire, Inaccurate 1, HP 1",
+        "price": "250",
+        "rarity": "4"
+      },
+      "ATGAR18FD": {
+        "key": "ATGAR18FD",
+        "name": "1.8 FD Anti-Infantry Autoturret",
+        "skill": "Gunnery",
+        "dam": "17",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "25",
+        "special": "Auto Fire, Limited Ammo 8, Slow Firing 1",
+        "price": "12000",
+        "rarity": "6"
+      },
+      "AURBOOM": {
+        "key": "AURBOOM",
+        "name": "Aurateran Boomerang",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Guided 1, Limited Ammo 1",
+        "price": "65",
+        "rarity": "6"
+      },
+      "AUTOBLAST": {
+        "key": "AUTOBLAST",
+        "name": "Auto-Blaster",
+        "skill": "Gunnery",
+        "dam": "3",
+        "crit": "5",
+        "range": "",
+        "enc": "0",
+        "special": "Auto Fire",
+        "price": "3000",
+        "rarity": "3"
+      },
+      "AVMINE": {
+        "key": "AVMINE",
+        "name": "Anti-Vehicle Mine",
+        "skill": "Mechanics",
+        "dam": "25",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Breach 4, Blast 2, Limited Ammo 1",
+        "price": "1400",
+        "rarity": "6"
+      },
+      "BACKHANDSHKGLV": {
+        "key": "BACKHANDSHKGLV",
+        "name": "Backhand Shock Gloves",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "0",
+        "special": "Concussive 1, Slow Firing 1, Stun Damage, HP 2",
+        "price": "2000",
+        "rarity": "4"
+      },
+      "BARADIUMCHRG": {
+        "key": "BARADIUMCHRG",
+        "name": "Baradium Charge",
+        "skill": "Mechanics",
+        "dam": "3",
+        "crit": "0",
+        "range": "Long",
+        "enc": "2",
+        "special": "",
+        "price": "750",
+        "rarity": "5"
+      },
+      "BARDLANCE": {
+        "key": "BARDLANCE",
+        "name": "Bardottan Electrolance",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 2, Stun Setting, HP 2",
+        "price": "300",
+        "rarity": "5"
+      },
+      "BEAMDRIL": {
+        "key": "BEAMDRIL",
+        "name": "Beamdrill",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Breach 1",
+        "price": "7500",
+        "rarity": "7"
+      },
+      "BEAMDRILHVY": {
+        "key": "BEAMDRILHVY",
+        "name": "Heavy Beamdrill",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Breach 3, Inaccurate 3",
+        "price": "7500",
+        "rarity": "7"
+      },
+      "BEAMDRILLJ7B": {
+        "key": "BEAMDRILLJ7B",
+        "name": "J-7b Beamdrill",
+        "skill": "Melee",
+        "dam": "9",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "6",
+        "special": "Breach 1, Cumbersome 4, Inaccurate 2, Sunder",
+        "price": "3000",
+        "rarity": "5"
+      },
+      "BERSERKERRIF": {
+        "key": "BERSERKERRIF",
+        "name": "Berserker Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Burn 1, Cumbersome 3, Disorient 1",
+        "price": "600",
+        "rarity": "5"
+      },
+      "BKX4SHOCKGREN": {
+        "key": "BKX4SHOCKGREN",
+        "name": "BKX-4 \"Shockwave\" Grenade",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 8, Disorient 5, Knockdown, Limited Ammo 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "BLADEBREAKER": {
+        "key": "BLADEBREAKER",
+        "name": "Blade-Breaker",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 2, Pierce 1, Sunder, HP 1",
+        "price": "250",
+        "rarity": "5"
+      },
+      "BLASTATAPULSE": {
+        "key": "BLASTATAPULSE",
+        "name": "Greff-Timms ATA Pulse-Wave Blaster",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "2",
+        "special": "Vicious 3, HP 2",
+        "price": "750",
+        "rarity": "6"
+      },
+      "BLASTBOONTA": {
+        "key": "BLASTBOONTA",
+        "name": "Boonta Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "1000",
+        "rarity": "8"
+      },
+      "BLASTCANHVY": {
+        "key": "BLASTCANHVY",
+        "name": "Heavy Blaster Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "4",
+        "range": "",
+        "enc": "0",
+        "special": "",
+        "price": "5000",
+        "rarity": "3"
+      },
+      "BLASTCANLT": {
+        "key": "BLASTCANLT",
+        "name": "Light Blaster Cannon",
+        "skill": "Gunnery",
+        "dam": "4",
+        "crit": "4",
+        "range": "",
+        "enc": "0",
+        "special": "",
+        "price": "4000",
+        "rarity": "2"
+      },
+      "BLASTCARB": {
+        "key": "BLASTCARB",
+        "name": "Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 4",
+        "price": "850",
+        "rarity": "5"
+      },
+      "BLASTCARBDC15A": {
+        "key": "BLASTCARBDC15A",
+        "name": "DC-15A Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Auto Fire, Pierce 1, Stun Setting, HP 4",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "BLASTCARBDR45": {
+        "key": "BLASTCARBDR45",
+        "name": "DR-45 \"Dragoon\" Cavalry Blaster (Carbine Mode)",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, Accurate 1, HP 3",
+        "price": "1900",
+        "rarity": "6"
+      },
+      "BLASTCARBE5": {
+        "key": "BLASTCARBE5",
+        "name": "E5 Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, Inaccurate 1, HP 4",
+        "price": "550",
+        "rarity": "3"
+      },
+      "BLASTCARBGEO": {
+        "key": "BLASTCARBGEO",
+        "name": "Geonosian Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 4",
+        "price": "1300",
+        "rarity": "5"
+      },
+      "BLASTDC17": {
+        "key": "BLASTDC17",
+        "name": "DC-17 Hand Blaster",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Accurate 1, Stun Setting, HP 3",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "BLASTHOLD": {
+        "key": "BLASTHOLD",
+        "name": "Holdout Blaster",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "200",
+        "rarity": "4"
+      },
+      "BLASTHOLDTT24": {
+        "key": "BLASTHOLDTT24",
+        "name": "TT24 Holdout Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "350",
+        "rarity": "6"
+      },
+      "BLASTHVYREP": {
+        "key": "BLASTHVYREP",
+        "name": "Heavy Repeating Blaster",
+        "skill": "Gunnery",
+        "dam": "15",
+        "crit": "2",
+        "range": "Long",
+        "enc": "9",
+        "special": "Auto Fire, Cumbersome 5, Pierce 2, Vicious 1, HP 4",
+        "price": "6000",
+        "rarity": "8"
+      },
+      "BLASTION": {
+        "key": "BLASTION",
+        "name": "Ion Blaster",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "5",
+        "range": "Short",
+        "enc": "3",
+        "special": "Disorient 5, Ion, HP 3",
+        "price": "250",
+        "rarity": "3"
+      },
+      "BLASTLANCE": {
+        "key": "BLASTLANCE",
+        "name": "Weequay Blaster Lance",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "5",
+        "special": "Accurate 1, Cumbersome 2, HP 2",
+        "price": "850",
+        "rarity": "6"
+      },
+      "BLASTLT": {
+        "key": "BLASTLT",
+        "name": "Light Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 2",
+        "price": "300",
+        "rarity": "4"
+      },
+      "BLASTLTHL27": {
+        "key": "BLASTLTHL27",
+        "name": "HL-27 Light Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Accurate 1, Stun Setting, HP 2",
+        "price": "450",
+        "rarity": "4"
+      },
+      "BLASTLTREP": {
+        "key": "BLASTLTREP",
+        "name": "Light Repeating Blaster",
+        "skill": "Ranged - Heavy",
+        "dam": "11",
+        "crit": "3",
+        "range": "Long",
+        "enc": "7",
+        "special": "Auto Fire, Cumbersome 4, Pierce 1, HP 4",
+        "price": "2250",
+        "rarity": "7"
+      },
+      "BLASTPIS": {
+        "key": "BLASTPIS",
+        "name": "Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 3",
+        "price": "400",
+        "rarity": "4"
+      },
+      "BLASTPISCDEF": {
+        "key": "BLASTPISCDEF",
+        "name": "CDEF Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Inferior, Stun Setting, HP 1",
+        "price": "150",
+        "rarity": "4"
+      },
+      "BLASTPISDR45": {
+        "key": "BLASTPISDR45",
+        "name": "DR-45 \"Dragoon\" Cavalry Blaster (Blaster Mode)",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, Accurate 1, HP 3",
+        "price": "1900",
+        "rarity": "6"
+      },
+      "BLASTPISH7": {
+        "key": "BLASTPISH7",
+        "name": "H-7 \"Equalizer\" Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, Superior, HP 3",
+        "price": "1200",
+        "rarity": "8"
+      },
+      "BLASTPISHH50": {
+        "key": "BLASTPISHH50",
+        "name": "HH-50 Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "3",
+        "range": "Short",
+        "enc": "3",
+        "special": "Stun Setting, Linked 1, Vicious 1, HP 2",
+        "price": "1300",
+        "rarity": "7"
+      },
+      "BLASTPISHVY": {
+        "key": "BLASTPISHVY",
+        "name": "Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, HP 3",
+        "price": "700",
+        "rarity": "6"
+      },
+      "BLASTPISHVYCR2": {
+        "key": "BLASTPISHVYCR2",
+        "name": "CR-2 Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, HP 2",
+        "price": "600",
+        "rarity": "5"
+      },
+      "BLASTPISHVYGEO": {
+        "key": "BLASTPISHVYGEO",
+        "name": "Geonosian Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, HP 3",
+        "price": "1100",
+        "rarity": "6"
+      },
+      "BLASTPISK23": {
+        "key": "BLASTPISK23",
+        "name": "Relby-K23 Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Pierce 2, Stun Setting, HP 1",
+        "price": "600",
+        "rarity": "6"
+      },
+      "BLASTPISTDL19C": {
+        "key": "BLASTPISTDL19C",
+        "name": "DL-19C Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 4",
+        "price": "450",
+        "rarity": "5"
+      },
+      "BLASTPISXL2": {
+        "key": "BLASTPISXL2",
+        "name": "XL-2 \"Flashfire\" Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Disorient 1, Stun Setting, HP 3",
+        "price": "450",
+        "rarity": "5"
+      },
+      "BLASTRIF": {
+        "key": "BLASTRIF",
+        "name": "Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Long",
+        "enc": "4",
+        "special": "Stun Setting, HP 4",
+        "price": "900",
+        "rarity": "5"
+      },
+      "BLASTRIFDC15": {
+        "key": "BLASTRIFDC15",
+        "name": "DC-15 Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Long",
+        "enc": "6",
+        "special": "Cumbersome 3, Pierce 1, Stun Setting, HP 4",
+        "price": "2200",
+        "rarity": "6"
+      },
+      "BLASTRIFDDCMR6": {
+        "key": "BLASTRIFDDCMR6",
+        "name": "DDC-MR6 Modular Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 6",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "BLASTRIFGEO": {
+        "key": "BLASTRIFGEO",
+        "name": "Geonosian Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "2",
+        "range": "Long",
+        "enc": "4",
+        "special": "Stun Setting, HP 4",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "BLASTRIFHVY": {
+        "key": "BLASTRIFHVY",
+        "name": "Heavy Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Long",
+        "enc": "6",
+        "special": "Auto Fire, Cumbersome 3, HP 4",
+        "price": "1500",
+        "rarity": "6"
+      },
+      "BLASTRIFSKZ": {
+        "key": "BLASTRIFSKZ",
+        "name": "SKZ Sporting Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "4",
+        "range": "Long",
+        "enc": "3",
+        "special": "Stun Setting, HP 4",
+        "price": "600",
+        "rarity": "4"
+      },
+      "BLSTKNUK": {
+        "key": "BLSTKNUK",
+        "name": "Blast Knuckles",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Inaccurate 1",
+        "price": "500",
+        "rarity": "6"
+      },
+      "BLUEGRENADE": {
+        "key": "BLUEGRENADE",
+        "name": "Blue Shadow Grenade",
+        "skill": "Ranged - Light",
+        "dam": "3",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 3, Limited Ammo 1",
+        "price": "2000",
+        "rarity": "9"
+      },
+      "BOLA": {
+        "key": "BOLA",
+        "name": "Bola/Net",
+        "skill": "Ranged - Light",
+        "dam": "2",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Knockdown, Limited Ammo 1, Ensnare 3, HP 2",
+        "price": "20",
+        "rarity": "2"
+      },
+      "BOLACARB": {
+        "key": "BOLACARB",
+        "name": "Bola Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Ensnare 1, Accurate 1, HP 3",
+        "price": "1600",
+        "rarity": "6"
+      },
+      "BORNEURLASH": {
+        "key": "BORNEURLASH",
+        "name": "Borstel Neuronic Lash",
+        "skill": "Melee",
+        "dam": "+1",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ensnare 1, Stun Damage, Stun 3, HP 1",
+        "price": "800",
+        "rarity": "7"
+      },
+      "BOWCAST": {
+        "key": "BOWCAST",
+        "name": "Bowcaster",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Cumbersome 3, Knockdown, HP 2",
+        "price": "1250",
+        "rarity": "7"
+      },
+      "BR219": {
+        "key": "BR219",
+        "name": "BR-219 Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Short",
+        "enc": "2",
+        "special": "Stun Setting, Vicious 2, HP 2",
+        "price": "625",
+        "rarity": "7"
+      },
+      "BRASS": {
+        "key": "BRASS",
+        "name": "Brass Knuckles",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Disorient 3, Pierce 1",
+        "price": "25",
+        "rarity": "0"
+      },
+      "BROADSABER": {
+        "key": "BROADSABER",
+        "name": "Broadsaber",
+        "skill": "Lightsaber",
+        "dam": "7",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Sunder, Unwieldy 3, HP 2",
+        "price": "11000",
+        "rarity": "10"
+      },
+      "BROADSABERHILT": {
+        "key": "BROADSABERHILT",
+        "name": "Broadsaber Hilt",
+        "skill": "Lightsaber",
+        "dam": "",
+        "crit": "",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Unwieldy 3, HP 4",
+        "price": "600",
+        "rarity": "6"
+      },
+      "BTX42FLAME": {
+        "key": "BTX42FLAME",
+        "name": "BT X-42 Heavy Flame Projector",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "6",
+        "special": "Blast 6, Burn 4, Vicious 1, HP 2",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "C10DRAGONEYE": {
+        "key": "C10DRAGONEYE",
+        "name": "C-10 \"Dragoneye Reaper\" Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 3",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "CERBLADE": {
+        "key": "CERBLADE",
+        "name": "Ceremonial Blade",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, HP 3",
+        "price": "650",
+        "rarity": "7"
+      },
+      "CLUSTERBOMB": {
+        "key": "CLUSTERBOMB",
+        "name": "Cluster Bomb Launcher",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Blast 6, Limited Ammo 6",
+        "price": "0",
+        "rarity": "6"
+      },
+      "CML": {
+        "key": "CML",
+        "name": "Concussion Missile Launcher",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Breach 4, Guided 3, Limited Ammo 3, Slow Firing 1",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "CMLHK": {
+        "key": "CMLHK",
+        "name": "Hunter Killer Concussion Missile Launcher",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Accurate 1, Blast 4, Breach 4, Guided 4, Limited Ammo 1",
+        "price": "8500",
+        "rarity": "7"
+      },
+      "CMLORD": {
+        "key": "CMLORD",
+        "name": "Concussion Missile",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Breach 4, Guided 3, Slow Firing 1",
+        "price": "500",
+        "rarity": "5"
+      },
+      "COMPBOW": {
+        "key": "COMPBOW",
+        "name": "Corellian Compound Bow",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Cumbersome 3, Knockdown, Limited Ammo 1, Pierce 1, HP 1",
+        "price": "200",
+        "rarity": "5"
+      },
+      "COMPBOWEXP": {
+        "key": "COMPBOWEXP",
+        "name": "Corellian Compound Bow (Explosive Tipped)",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Blast 4, Limited Ammo 1, HP 1",
+        "price": "200",
+        "rarity": "5"
+      },
+      "COMPBOWSTUN": {
+        "key": "COMPBOWSTUN",
+        "name": "Corellian Compound Bow (Stun)",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Limited Ammo 1, Stun Damage, HP 1",
+        "price": "200",
+        "rarity": "5"
+      },
+      "CONCGREND": {
+        "key": "CONCGREND",
+        "name": "G2 Concussion Grenade",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 8, Concussive 2, Disorient 5, Limited Ammo 1",
+        "price": "100",
+        "rarity": "5"
+      },
+      "CONCMISSILEMK10": {
+        "key": "CONCMISSILEMK10",
+        "name": "Mk.10 Concussion Missile",
+        "skill": "Gunnery",
+        "dam": "14",
+        "crit": "4",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Blast 10, Concussive 3, Disorient 5, Guided 2",
+        "price": "200",
+        "rarity": "8"
+      },
+      "CONGRENLAUNCH": {
+        "key": "CONGRENLAUNCH",
+        "name": "Concussion Grenade Launcher",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "4",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Breach 1, Blast 8, Limited Ammo 20",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "CONTENERAXE": {
+        "key": "CONTENERAXE",
+        "name": "Contained Energy Axe",
+        "skill": "Lightsaber",
+        "dam": "+3",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Breach 1, Cumbersome 3, Sunder, Vicious 3, HP 3",
+        "price": "7500",
+        "rarity": "8"
+      },
+      "CORALPIKE": {
+        "key": "CORALPIKE",
+        "name": "Coral Pike",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, Pierce 2, HP 3",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "CORTSHIELD": {
+        "key": "CORTSHIELD",
+        "name": "Cortosis Shield",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "6",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cortosis, Cumbersome 3, Defensive 2, Deflection 2",
+        "price": "900",
+        "rarity": "7"
+      },
+      "CORTSWORD": {
+        "key": "CORTSWORD",
+        "name": "Cortosis Sword",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cortosis, Defensive 1, HP 2",
+        "price": "1350",
+        "rarity": "7"
+      },
+      "CR8": {
+        "key": "CR8",
+        "name": "CR-8 Takedown Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "4",
+        "special": "Accurate 2, Prepare 2, Pierce 2, Slow Firing 1, HP 1",
+        "price": "3250",
+        "rarity": "7"
+      },
+      "CRYOBANRIF": {
+        "key": "CRYOBANRIF",
+        "name": "CryoBan Rifle",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Ensnare 1, Pierce 5, Stun Damage, HP 1",
+        "price": "450",
+        "rarity": "6"
+      },
+      "CRYOWHIP": {
+        "key": "CRYOWHIP",
+        "name": "Rodian Cryogen Whip",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ensnare 1, Unwieldy 3, Vicious 2, HP 1",
+        "price": "1550",
+        "rarity": "7"
+      },
+      "CS12STUNMAST": {
+        "key": "CS12STUNMAST",
+        "name": "CS-12 Stun Master",
+        "skill": "Melee",
+        "dam": "6",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Disorient 2, Stun Damage",
+        "price": "575",
+        "rarity": "6"
+      },
+      "CS14GHOST": {
+        "key": "CS14GHOST",
+        "name": "CS14 \"Ghost\" Light Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting",
+        "price": "550",
+        "rarity": "6"
+      },
+      "CSPL12GREN": {
+        "key": "CSPL12GREN",
+        "name": "CSPL-12 Projectile Launcher (Frag Grenade)",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Blast 6, Limited Ammo 3, HP 2",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "CUTLASSCOR": {
+        "key": "CUTLASSCOR",
+        "name": "Corellian Cutlass",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, Vicious 1, HP 1",
+        "price": "300",
+        "rarity": "3"
+      },
+      "CZ28FLAME": {
+        "key": "CZ28FLAME",
+        "name": "CZ-28 Flamestrike",
+        "skill": "Gunnery",
+        "dam": "9",
+        "crit": "2",
+        "range": "Short",
+        "enc": "8",
+        "special": "Blast 9, Burn 4, Cumbersome 3, Vicious 2, HP 3",
+        "price": "2000",
+        "rarity": "8"
+      },
+      "D29REPULSOR": {
+        "key": "D29REPULSOR",
+        "name": "D-29 Repulsor Rifle",
+        "skill": "Gunnery",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Disorient 3, Knockdown, Stun Damage, HP 3",
+        "price": "1550",
+        "rarity": "7"
+      },
+      "DEFSPBLAST": {
+        "key": "DEFSPBLAST",
+        "name": "Defender Sporting Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Accurate 1, Stun Setting, HP 1",
+        "price": "650",
+        "rarity": "6"
+      },
+      "DETONITECHRG": {
+        "key": "DETONITECHRG",
+        "name": "Detonite Charge",
+        "skill": "Mechanics",
+        "dam": "15",
+        "crit": "0",
+        "range": "Short",
+        "enc": "2",
+        "special": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "DFD1": {
+        "key": "DFD1",
+        "name": "DF-D1 Duo-Flechette Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Short",
+        "enc": "3",
+        "special": "Blast 4, Limited Ammo 5, Linked 1, Vicious 2, HP 3",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "DH17": {
+        "key": "DH17",
+        "name": "DH-17 Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Auto Fire, Inaccurate 1, Stun Setting, HP 3",
+        "price": "900",
+        "rarity": "6"
+      },
+      "DH17C": {
+        "key": "DH17C",
+        "name": "DH-17c Short Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "4",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Auto Fire, Stun Setting, HP 2",
+        "price": "950",
+        "rarity": "6"
+      },
+      "DHXBLASTRIFHVY": {
+        "key": "DHXBLASTRIFHVY",
+        "name": "DH-X Heavy Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Long",
+        "enc": "7",
+        "special": "Cumbersome 3, Pierce 2, HP 4",
+        "price": "1900",
+        "rarity": "6"
+      },
+      "DIIRO": {
+        "key": "DIIRO",
+        "name": "Diiro",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1",
+        "price": "250",
+        "rarity": "2"
+      },
+      "DISRPIS": {
+        "key": "DISRPIS",
+        "name": "Disruptor Pistol",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "2",
+        "range": "Short",
+        "enc": "2",
+        "special": "Vicious 4, HP 2",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "DISRRIF": {
+        "key": "DISRRIF",
+        "name": "Disruptor Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "2",
+        "range": "Long",
+        "enc": "5",
+        "special": "Cumbersome 2, Vicious 5, HP 4",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "DL7HBLASTPISTHVY": {
+        "key": "DL7HBLASTPISTHVY",
+        "name": "DL-7h Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "HP 2",
+        "price": "850",
+        "rarity": "6"
+      },
+      "DLS12HBR": {
+        "key": "DLS12HBR",
+        "name": "DLS-12 Heavy Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Auto Fire, Cumbersome 2, HP 3",
+        "price": "1350",
+        "rarity": "7"
+      },
+      "DOUBVIBROSW": {
+        "key": "DOUBVIBROSW",
+        "name": "Double-Bladed Vibrosword",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Defensive 1, Linked 1, Pierce 2, Unwieldy 3, Vicious 1, HP 3",
+        "price": "1300",
+        "rarity": "6"
+      },
+      "DROIDDIS": {
+        "key": "DROIDDIS",
+        "name": "Droid Disruptor",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "2",
+        "special": "Vicious (Droid Only) 3, HP 1",
+        "price": "800",
+        "rarity": "7"
+      },
+      "DUELPIS": {
+        "key": "DUELPIS",
+        "name": "Dueling Pistol",
+        "skill": "Ranged - Light",
+        "dam": "9",
+        "crit": "2",
+        "range": "Short",
+        "enc": "2",
+        "special": "Accurate 1, Limited Ammo 1, Pierce 1, HP 2",
+        "price": "750",
+        "rarity": "5"
+      },
+      "E11SNIPER": {
+        "key": "E11SNIPER",
+        "name": "E-11S Sniper Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "6",
+        "special": "Accurate 1, Cumbersome 3, Pierce 2, Slow Firing 1, HP 3",
+        "price": "3500",
+        "rarity": "7"
+      },
+      "ELECHARPOON": {
+        "key": "ELECHARPOON",
+        "name": "Electromagnetic Harpoon",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Knockdown, Ensnare 5, Limited Ammo 5",
+        "price": "3000",
+        "rarity": "3"
+      },
+      "ELECSTAFF": {
+        "key": "ELECSTAFF",
+        "name": "Electrostaff",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cortosis, Cumbersome 3, Linked 1, Stun Setting, Unwieldy 3, HP 3",
+        "price": "4500",
+        "rarity": "6"
+      },
+      "ELECTPULSEDIS": {
+        "key": "ELECTPULSEDIS",
+        "name": "Electromag-Pulse Disruptor",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Disorient 1, Ion",
+        "price": "180",
+        "rarity": "5"
+      },
+      "ELECTRONET": {
+        "key": "ELECTRONET",
+        "name": "Electronet",
+        "skill": "Melee",
+        "dam": "6",
+        "crit": "6",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage",
+        "price": "350",
+        "rarity": "6"
+      },
+      "ELECTRONETLAUNCHER": {
+        "key": "ELECTRONETLAUNCHER",
+        "name": "Electronet Launcher",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "0",
+        "range": "Short",
+        "enc": "6",
+        "special": "Ensnare 5, Stun Damage, HP 3",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "ELG3ABLAST": {
+        "key": "ELG3ABLAST",
+        "name": "ELG-3A Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting",
+        "price": "400",
+        "rarity": "5"
+      },
+      "ENERGYBUCK": {
+        "key": "ENERGYBUCK",
+        "name": "Energy Buckler",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Concussive 1, Defensive 1, Deflection 1, HP 1",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "ENERGYLANCE": {
+        "key": "ENERGYLANCE",
+        "name": "Energy Lance",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cumbersome 3, Pierce 3, HP 2",
+        "price": "1500",
+        "rarity": "6"
+      },
+      "ENSLING": {
+        "key": "ENSLING",
+        "name": "Energy Slingshot",
+        "skill": "Ranged - Light",
+        "dam": "3",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Disorient 2, Stun Setting",
+        "price": "40",
+        "rarity": "4"
+      },
+      "ENTRENCHTOOL": {
+        "key": "ENTRENCHTOOL",
+        "name": "Entrenching Tool (Improvised)",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Inferior",
+        "price": "20",
+        "rarity": "1"
+      },
+      "EXPKNIFE": {
+        "key": "EXPKNIFE",
+        "name": "Explorer's Knife",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Vicious 1",
+        "price": "100",
+        "rarity": "3"
+      },
+      "FC1FLECHETTE": {
+        "key": "FC1FLECHETTE",
+        "name": "FC1 Flechette Launcher (Anti-Infantry)",
+        "skill": "Gunnery",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "6",
+        "special": "Blast 8, Cumbersome 3, Limited Ammo 4, Pierce 6, Prepare 1, Vicious 1, HP 4",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "FC1FLECHETTEVEH": {
+        "key": "FC1FLECHETTEVEH",
+        "name": "FC1 Flechette Launcher (Anti-Vehicle)",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "6",
+        "special": "Breach 2, Cumbersome 3, Limited Ammo 4, Prepare 1, Vicious 3, HP 4",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "FDROIDDISABLER": {
+        "key": "FDROIDDISABLER",
+        "name": "Droid Disabler",
+        "skill": "Ranged - Light",
+        "dam": "12",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Concussive 1, Ion, Limited Ammo 3, HP 1",
+        "price": "1050",
+        "rarity": "5"
+      },
+      "FEARSTICK": {
+        "key": "FEARSTICK",
+        "name": "Fear Stick",
+        "skill": "Mechanics",
+        "dam": "5",
+        "crit": "",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Limited Ammo 3, Pierce 1, Stun Damage",
+        "price": "1500",
+        "rarity": "8"
+      },
+      "FIRECALLFLAMEPROJ": {
+        "key": "FIRECALLFLAMEPROJ",
+        "name": "\"Firecaller\" Light Flame Projector",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "2",
+        "range": "Short",
+        "enc": "4",
+        "special": "Blast 2, Burn 2, Pierce 2, Vicious 3, HP 1",
+        "price": "1200",
+        "rarity": "7"
+      },
+      "FIVERSLUGPIST": {
+        "key": "FIVERSLUGPIST",
+        "name": "Model C \"Fiver\" Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Short",
+        "enc": "2",
+        "special": "Accurate 1, Limited Ammo 5, HP 1",
+        "price": "200",
+        "rarity": "4"
+      },
+      "FLAKHVY": {
+        "key": "FLAKHVY",
+        "name": "Heavy Flak Cannon",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 5, Slow Firing 2, Vicious 5",
+        "price": "10000",
+        "rarity": "7"
+      },
+      "FLAKLT": {
+        "key": "FLAKLT",
+        "name": "Light Flak Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Blast 4, Slow Firing 1, Vicious 3",
+        "price": "6000",
+        "rarity": "5"
+      },
+      "FLAKMED": {
+        "key": "FLAKMED",
+        "name": "Medium Flak Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Slow Firing 1, Vicious 4",
+        "price": "8000",
+        "rarity": "6"
+      },
+      "FLAME": {
+        "key": "FLAME",
+        "name": "Flame Projector",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "2",
+        "range": "Short",
+        "enc": "6",
+        "special": "Burn 3, Blast 8, HP 2",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "FLASHSTICK": {
+        "key": "FLASHSTICK",
+        "name": "Drall Flashstick",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Disorient 3, Stun Damage, HP 2",
+        "price": "375",
+        "rarity": "4"
+      },
+      "FLEX5DETCHRG": {
+        "key": "FLEX5DETCHRG",
+        "name": "Flex-5 Detonite Tape",
+        "skill": "Mechanics",
+        "dam": "5",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "",
+        "price": "30",
+        "rarity": "4"
+      },
+      "FORCEP": {
+        "key": "FORCEP",
+        "name": "Force Pike",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Pierce 2, Stun Setting, HP 3",
+        "price": "500",
+        "rarity": "4"
+      },
+      "FRAGGR": {
+        "key": "FRAGGR",
+        "name": "Frag Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Limited Ammo 1",
+        "price": "50",
+        "rarity": "5"
+      },
+      "FRAGMISSILEC88": {
+        "key": "FRAGMISSILEC88",
+        "name": "C-88 Fragmentation Missile",
+        "skill": "Gunnery",
+        "dam": "12",
+        "crit": "4",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Blast 12, Guided 3",
+        "price": "75",
+        "rarity": "7"
+      },
+      "FS19COMPBOWBROAD": {
+        "key": "FS19COMPBOWBROAD",
+        "name": "FS19 Compound Bow (Broadhead Arrow)",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Cumbersome 3, Limited Ammo 1, Pierce 1, Vicious 1, HP 2",
+        "price": "500",
+        "rarity": "7"
+      },
+      "FS19COMPBOWEXPL": {
+        "key": "FS19COMPBOWEXPL",
+        "name": "FS19 Compound Bow (Explosive Tipped Arrow)",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Cumbersome 3, Limited Ammo 1, Blast 4, HP 2",
+        "price": "500",
+        "rarity": "7"
+      },
+      "FS19COMPBOWINCEN": {
+        "key": "FS19COMPBOWINCEN",
+        "name": "FS19 Compound Bow (Incendiary Arrow)",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Cumbersome 3, Limited Ammo 1, Burn 2, HP 2",
+        "price": "500",
+        "rarity": "7"
+      },
+      "FS19COMPBOWNET": {
+        "key": "FS19COMPBOWNET",
+        "name": "FS19 Compound Bow (Net Arrow)",
+        "skill": "Ranged - Heavy",
+        "dam": "2",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Cumbersome 3, Limited Ammo 1, Ensnare 2, HP 2",
+        "price": "500",
+        "rarity": "7"
+      },
+      "FS19COMPBOWSTUN": {
+        "key": "FS19COMPBOWSTUN",
+        "name": "FS19 Compound Bow (Stun Arrow)",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Cumbersome 3, Limited Ammo 1, Stun Damage, HP 2",
+        "price": "500",
+        "rarity": "7"
+      },
+      "FUELAIRBOMB": {
+        "key": "FUELAIRBOMB",
+        "name": "Fuel-Air Bomb",
+        "skill": "Mechanics",
+        "dam": "9",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Concussive 1, Knockdown",
+        "price": "150",
+        "rarity": "2"
+      },
+      "FUSCUT": {
+        "key": "FUSCUT",
+        "name": "Fusion Cutter",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Breach 1, Burn 3, Sunder, Vicious 3",
+        "price": "175",
+        "rarity": "2"
+      },
+      "FWG5FLECHETTE": {
+        "key": "FWG5FLECHETTE",
+        "name": "FWG-5 Flechette Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Guided 3, Limited Ammo 3, HP 2",
+        "price": "825",
+        "rarity": "7"
+      },
+      "FWG7F": {
+        "key": "FWG7F",
+        "name": "FWG-7 Flechette Smart Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Blast 4, Guided 2, Pierce 3, HP 3",
+        "price": "1800",
+        "rarity": "7"
+      },
+      "GAFF": {
+        "key": "GAFF",
+        "name": "Gaffi Stick",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, Disorient 3",
+        "price": "100",
+        "rarity": "2"
+      },
+      "GALAAR15": {
+        "key": "GALAAR15",
+        "name": "GALAAR-15 Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "2",
+        "range": "Long",
+        "enc": "3",
+        "special": "Accurate 1, Stun Setting, HP 3",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "GARROTE": {
+        "key": "GARROTE",
+        "name": "Garrote",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Stun Setting",
+        "price": "50",
+        "rarity": "2"
+      },
+      "GHOVOR22": {
+        "key": "GHOVOR22",
+        "name": "GHOVOR-22 Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, HP 2",
+        "price": "300",
+        "rarity": "6"
+      },
+      "GLAIVESEL": {
+        "key": "GLAIVESEL",
+        "name": "Selonian Glaive",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Defensive 1, Pierce 3, HP 3",
+        "price": "1200",
+        "rarity": "7"
+      },
+      "GLOPGRND": {
+        "key": "GLOPGRND",
+        "name": "Glop Grenade",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ensnare 3, Blast 0",
+        "price": "100",
+        "rarity": "6"
+      },
+      "GLXFIRE": {
+        "key": "GLXFIRE",
+        "name": "GLX Firelance",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "3",
+        "range": "Long",
+        "enc": "3",
+        "special": "Auto Fire, Disorient 2, Stun Setting, HP 3",
+        "price": "1600",
+        "rarity": "6"
+      },
+      "GRAPHARPLAU": {
+        "key": "GRAPHARPLAU",
+        "name": "Grapnel-Harpoon Launcher",
+        "skill": "Ranged - Light",
+        "dam": "3",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Ensnare 5",
+        "price": "450",
+        "rarity": "5"
+      },
+      "GRENADLAUNCHZ50": {
+        "key": "GRENADLAUNCHZ50",
+        "name": "Z50 Grenade Launcher",
+        "skill": "Gunnery",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Blast 6, Cumbersome 3, Limited Ammo 6, HP 3",
+        "price": "1250",
+        "rarity": "4"
+      },
+      "GRLIGHTSABER": {
+        "key": "GRLIGHTSABER",
+        "name": "Great Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "7",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Breach 1, Cumbersome 3, Sunder, HP 3",
+        "price": "12000",
+        "rarity": "10"
+      },
+      "GRLIGHTSABERHILT": {
+        "key": "GRLIGHTSABERHILT",
+        "name": "Great Lightsaber Hilt",
+        "skill": "Lightsaber",
+        "dam": "",
+        "crit": "",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Cumbersome 3, HP 5",
+        "price": "700",
+        "rarity": "6"
+      },
+      "GUNGATL": {
+        "key": "GUNGATL",
+        "name": "Gungan Atlatl",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Accurate 1, Burn 1, Ion, Limited Ammo 1",
+        "price": "100",
+        "rarity": "7"
+      },
+      "GUNGPES": {
+        "key": "GUNGPES",
+        "name": "Gungan Personal Energy Shield",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Defensive 2, Deflection 2",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "GUNGPLAS": {
+        "key": "GUNGPLAS",
+        "name": "Gungan Plasma Ball",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Burn 1, Ion, Limited Ammo 1",
+        "price": "20",
+        "rarity": "7"
+      },
+      "GUNGPOLE": {
+        "key": "GUNGPOLE",
+        "name": "Gungan Electropole",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Stun 3, Stun Setting, HP 2",
+        "price": "450",
+        "rarity": "5"
+      },
+      "GUNGPOLET": {
+        "key": "GUNGPOLET",
+        "name": "Gungan Electropole (thrown)",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "4",
+        "range": "Short",
+        "enc": "3",
+        "special": "Limited Ammo 1, Stun 3, Stun Setting, HP 2",
+        "price": "450",
+        "rarity": "5"
+      },
+      "HAMMER": {
+        "key": "HAMMER",
+        "name": "KS-23 Hammer",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "4",
+        "range": "Short",
+        "enc": "5",
+        "special": "Blast 6, Knockdown, HP 4",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "HANDGRID": {
+        "key": "HANDGRID",
+        "name": "Hand Grinder",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Cumbersome 3, Prepare 1, Vicious 4, HP 4",
+        "price": "500",
+        "rarity": "3"
+      },
+      "HBT4HUNTING": {
+        "key": "HBT4HUNTING",
+        "name": "HBt-4 Hunting Blaster",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Cumbersome 2, Stun Setting, HP 2",
+        "price": "900",
+        "rarity": "6"
+      },
+      "HEARTWOODBL": {
+        "key": "HEARTWOODBL",
+        "name": "Heartwood Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Cumbersome 2, Stun 3, HP 1",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "HEAVYREPEATER": {
+        "key": "HEAVYREPEATER",
+        "name": "Imperial Heavy Repeater",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Auto Fire, Cumbersome 4, HP 2",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "HICMERCYGREN": {
+        "key": "HICMERCYGREN",
+        "name": "HIC \"Mercy\" Grenade",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 5, Stun Damage, Limited Ammo 1",
+        "price": "175",
+        "rarity": "8"
+      },
+      "HIGHEXPMISSILE": {
+        "key": "HIGHEXPMISSILE",
+        "name": "High-Explosive Missile",
+        "skill": "Gunnery",
+        "dam": "18",
+        "crit": "3",
+        "range": "Long",
+        "enc": "",
+        "special": "Blast 6, Breach 2, Guided 2",
+        "price": "200",
+        "rarity": "6"
+      },
+      "HOBBLASTREPHVY": {
+        "key": "HOBBLASTREPHVY",
+        "name": "HOB Heavy Repeating Blaster",
+        "skill": "Gunnery",
+        "dam": "15",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "10",
+        "special": "Auto Fire, Cumbersome 6, Pierce 2, Vicious 1, HP 4",
+        "price": "6500",
+        "rarity": "8"
+      },
+      "HVYFRGGREND": {
+        "key": "HVYFRGGREND",
+        "name": "Mk.4 Heavy Frag Grenade",
+        "skill": "Ranged - Light",
+        "dam": "9",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 7, Cumbersome 2, Limited Ammo 1",
+        "price": "75",
+        "rarity": "5"
+      },
+      "IDX9IONSTUN": {
+        "key": "IDX9IONSTUN",
+        "name": "IDX-9 Ion Stunner",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Ion, Stun Damage, HP 2",
+        "price": "300",
+        "rarity": "4"
+      },
+      "IMPREPCAN": {
+        "key": "IMPREPCAN",
+        "name": "\"Impact\" Repulsor Cannon",
+        "skill": "Ranged - Heavy",
+        "dam": "3",
+        "crit": "6",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Blast 3, Concussive 1, Knockdown, Prepare 1, Slow Firing 1, HP 1",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "INCENMISSILEC908": {
+        "key": "INCENMISSILEC908",
+        "name": "C-908 Incendiary Missile",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Blast 10, Burn 3, Guided 2",
+        "price": "145",
+        "rarity": "7"
+      },
+      "INFERGREND": {
+        "key": "INFERGREND",
+        "name": "D-24 Inferno Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Burn 2, Limited Ammo 1",
+        "price": "75",
+        "rarity": "5"
+      },
+      "IONBATT": {
+        "key": "IONBATT",
+        "name": "Battleship Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "9",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "0",
+        "special": "Breach 3, Ion, Slow Firing 2",
+        "price": "10000",
+        "rarity": "8"
+      },
+      "IONGREND": {
+        "key": "IONGREND",
+        "name": "Lightning 22 Ion Grenade",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 7, Disorient 5, Limited Ammo 1, Stun Damage (Droid Only)",
+        "price": "65",
+        "rarity": "4"
+      },
+      "IONHVY": {
+        "key": "IONHVY",
+        "name": "Heavy Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "0",
+        "special": "Ion, Slow Firing 1",
+        "price": "7500",
+        "rarity": "7"
+      },
+      "IONLONG": {
+        "key": "IONLONG",
+        "name": "Long-Barrelled Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "9",
+        "crit": "4",
+        "range": "Long",
+        "enc": "0",
+        "special": "Breach 3, Ion, Slow Firing 1",
+        "price": "10000",
+        "rarity": "8"
+      },
+      "IONLT": {
+        "key": "IONLT",
+        "name": "Light Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "4",
+        "range": "",
+        "enc": "0",
+        "special": "Ion",
+        "price": "5000",
+        "rarity": "5"
+      },
+      "IONMED": {
+        "key": "IONMED",
+        "name": "Medium Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "4",
+        "range": "Short",
+        "enc": "0",
+        "special": "Ion",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "IONPIKE": {
+        "key": "IONPIKE",
+        "name": "Ion Pike",
+        "skill": "Melee",
+        "dam": "10",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Inaccurate 1, Ion, Pierce 4, HP 1",
+        "price": "750",
+        "rarity": "6"
+      },
+      "IONTHRUST": {
+        "key": "IONTHRUST",
+        "name": "Ion Thruster Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "4",
+        "range": "Short",
+        "enc": "8",
+        "special": "Concussive 1, Cumbersome 5, Ion, Prepare 1",
+        "price": "300",
+        "rarity": "2"
+      },
+      "IONTORP": {
+        "key": "IONTORP",
+        "name": "Ion Torpedo",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "3",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 5, Breach 4, Guided 2, Ion, Limited Ammo 1, Slow Firing 1",
+        "price": "100",
+        "rarity": "7"
+      },
+      "IONTORPLAUNCHER": {
+        "key": "IONTORPLAUNCHER",
+        "name": "Ion Torpedo Launcher",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "3",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 5, Breach 4, Guided 2, Ion, Limited Ammo 4, Slow Firing 1",
+        "price": "6500",
+        "rarity": "7"
+      },
+      "IR5BLASTPIST": {
+        "key": "IR5BLASTPIST",
+        "name": "IR-5 \"Intimidator\" Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Auto Fire, Inaccurate 1, HP 2",
+        "price": "750",
+        "rarity": "6"
+      },
+      "J10DUALBLASTCAN": {
+        "key": "J10DUALBLASTCAN",
+        "name": "J-10 Dual Blaster Cannon",
+        "skill": "Gunnery",
+        "dam": "13",
+        "crit": "2",
+        "range": "Long",
+        "enc": "8",
+        "special": "Cumbersome 5, Inaccurate 1, Linked 1, HP 3",
+        "price": "6750",
+        "rarity": "7"
+      },
+      "KNIFE": {
+        "key": "KNIFE",
+        "name": "Combat Knife",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "",
+        "price": "25",
+        "rarity": "1"
+      },
+      "KNOCKMINE": {
+        "key": "KNOCKMINE",
+        "name": "Knockout Mine",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Damage, Limited Ammo 1",
+        "price": "200",
+        "rarity": "6"
+      },
+      "KNOCKOUTGRENADE": {
+        "key": "KNOCKOUTGRENADE",
+        "name": "Knockout Grenade",
+        "skill": "Ranged - Light",
+        "dam": "12",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 10, Limited Ammo 1, Stun Damage",
+        "price": "120",
+        "rarity": "5"
+      },
+      "KO-2HSP": {
+        "key": "KO-2HSP",
+        "name": "KO-2 Heavy Stun Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "0",
+        "range": "Short",
+        "enc": "2",
+        "special": "Stun Damage, HP 3",
+        "price": "650",
+        "rarity": "5"
+      },
+      "KWSMKI": {
+        "key": "KWSMKI",
+        "name": "KWS Mk I Saberdart",
+        "skill": "Ranged - Light",
+        "dam": "1",
+        "crit": "0",
+        "range": "Long",
+        "enc": "1",
+        "special": "Limited Ammo 1, HP 1",
+        "price": "1600",
+        "rarity": "9"
+      },
+      "KYUZOBOW": {
+        "key": "KYUZOBOW",
+        "name": "Kyuzo Energy Bow",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "4",
+        "range": "Long",
+        "enc": "6",
+        "special": "Cumbersome 3, Knockdown, Pierce 5, HP 1",
+        "price": "2400",
+        "rarity": "8"
+      },
+      "KYUZOSHIELD": {
+        "key": "KYUZOSHIELD",
+        "name": "Kyuzo War Shield (Melee)",
+        "skill": "Melee",
+        "dam": "+1",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cumbersome 3, Defensive 1, Deflection 2, Disorient 1",
+        "price": "750",
+        "rarity": "8"
+      },
+      "KYUZOSHIELDTHROW": {
+        "key": "KYUZOSHIELDTHROW",
+        "name": "Kyuzo War Shield (Thrown)",
+        "skill": "Ranged - Light",
+        "dam": "+1",
+        "crit": "4",
+        "range": "Short",
+        "enc": "3",
+        "special": "Cumbersome 3, Defensive 1, Deflection 2, Disorient 1, Limited Ammo 1",
+        "price": "750",
+        "rarity": "8"
+      },
+      "L70ACID": {
+        "key": "L70ACID",
+        "name": "L70 Acid Projector",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "2",
+        "range": "Short",
+        "enc": "4",
+        "special": "Blast 6, Burn 3, Vicious 1, HP 1",
+        "price": "1250",
+        "rarity": "7"
+      },
+      "L7LIGHTPISTOL": {
+        "key": "L7LIGHTPISTOL",
+        "name": "L7 Light Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "425",
+        "rarity": "4"
+      },
+      "LASCAN": {
+        "key": "LASCAN",
+        "name": "Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "9",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Inaccurate 1",
+        "price": "0",
+        "rarity": "0"
+      },
+      "LASERHVY": {
+        "key": "LASERHVY",
+        "name": "Heavy Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "LASERLONG": {
+        "key": "LASERLONG",
+        "name": "Long-Nosed Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Accurate 1",
+        "price": "5500",
+        "rarity": "7"
+      },
+      "LASERLT": {
+        "key": "LASERLT",
+        "name": "Light Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "",
+        "price": "5500",
+        "rarity": "4"
+      },
+      "LASERMED": {
+        "key": "LASERMED",
+        "name": "Medium Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "",
+        "price": "7000",
+        "rarity": "4"
+      },
+      "LASERPTDEF": {
+        "key": "LASERPTDEF",
+        "name": "Point Defense Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Accurate 1",
+        "price": "6500",
+        "rarity": "5"
+      },
+      "LASERQUAD": {
+        "key": "LASERQUAD",
+        "name": "Quad Laser Cannon",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Accurate 1, Linked 3",
+        "price": "8000",
+        "rarity": "6"
+      },
+      "LBR9STUNRIFLE": {
+        "key": "LBR9STUNRIFLE",
+        "name": "LBR-9 Stun Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "0",
+        "range": "Long",
+        "enc": "6",
+        "special": "Disorient 2, Stun Damage, HP 4",
+        "price": "2800",
+        "rarity": "4"
+      },
+      "LD1TARG": {
+        "key": "LD1TARG",
+        "name": "LD-1 Target Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "4",
+        "range": "Extreme",
+        "enc": "6",
+        "special": "Accurate 2, Cumbersome 3, Pierce 3, Slow Firing 1, HP 3",
+        "price": "1275",
+        "rarity": "7"
+      },
+      "LIGHTFOIL": {
+        "key": "LIGHTFOIL",
+        "name": "Lightfoil",
+        "skill": "Lightsaber",
+        "dam": "5",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Defensive 2, Sunder, HP 1",
+        "price": "9850",
+        "rarity": "10"
+      },
+      "LIGHTFOILHILT": {
+        "key": "LIGHTFOILHILT",
+        "name": "Lightfoil Hilt",
+        "skill": "Lightsaber",
+        "dam": "",
+        "crit": "",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 2, HP 3",
+        "price": "350",
+        "rarity": "6"
+      },
+      "LJ40CARB": {
+        "key": "LJ40CARB",
+        "name": "LJ-40 Concussion Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Short",
+        "enc": "4",
+        "special": "Blast 4, Concussive 1, Knockdown, Limited Ammo 3, HP 1",
+        "price": "2500",
+        "rarity": "8"
+      },
+      "LJ50CONCRIF": {
+        "key": "LJ50CONCRIF",
+        "name": "LJ-50 Concussion Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "6",
+        "special": "Blast 4, Concussive 2, Cumbersome 3, Knockdown, Limited Ammo 4, HP 2",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "LONGBOW": {
+        "key": "LONGBOW",
+        "name": "Long Bow",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "5",
+        "range": "Long",
+        "enc": "5",
+        "special": "Cumbersome 3, Limited Ammo 1, Pierce 1, HP 1",
+        "price": "120",
+        "rarity": "4"
+      },
+      "LONGWHIP": {
+        "key": "LONGWHIP",
+        "name": "Longeing Whip",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "5",
+        "range": "Short",
+        "enc": "3",
+        "special": "Ensnare 2, Stun Damage, HP 1",
+        "price": "600",
+        "rarity": "4"
+      },
+      "LTSABER": {
+        "key": "LTSABER",
+        "name": "Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "10",
+        "crit": "1",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Sunder, Vicious 2",
+        "price": "10000",
+        "rarity": "10"
+      },
+      "LTSABERBASIC": {
+        "key": "LTSABERBASIC",
+        "name": "Basic Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Sunder, HP 5",
+        "price": "9300",
+        "rarity": "10"
+      },
+      "LTSABERBASICHILT": {
+        "key": "LTSABERBASICHILT",
+        "name": "Basic Lightsaber Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "HP 5",
+        "price": "300",
+        "rarity": "5"
+      },
+      "LTSABERCROSSG": {
+        "key": "LTSABERCROSSG",
+        "name": "Crossguard Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Defensive 1, Sunder, HP 4",
+        "price": "9700",
+        "rarity": "10"
+      },
+      "LTSABERCROSSHILT": {
+        "key": "LTSABERCROSSHILT",
+        "name": "Crossguard Lightsaber Hilt",
+        "skill": "Lightsaber",
+        "dam": "",
+        "crit": "1",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 1, HP 4",
+        "price": "900",
+        "rarity": "10"
+      },
+      "LTSABERDBL": {
+        "key": "LTSABERDBL",
+        "name": "Double-Bladed Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Breach 1, Linked 1, Sunder, Unwieldy 3, HP 4",
+        "price": "18600",
+        "rarity": "10"
+      },
+      "LTSABERDBLHILT": {
+        "key": "LTSABERDBLHILT",
+        "name": "Double-Bladed Lightsaber Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Linked 1, Unwieldy 3, HP 4",
+        "price": "600",
+        "rarity": "6"
+      },
+      "LTSABERGUASH": {
+        "key": "LTSABERGUASH",
+        "name": "Guard Shoto",
+        "skill": "Lightsaber",
+        "dam": "5",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Defensive 1, Deflection 2, Sunder, Unwieldy 4, HP 3",
+        "price": "9700",
+        "rarity": "10"
+      },
+      "LTSABERGUASHHILT": {
+        "key": "LTSABERGUASHHILT",
+        "name": "Guard Shoto Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 1, Deflection 2, Unwieldy 4, HP 3",
+        "price": "700",
+        "rarity": "7"
+      },
+      "LTSABERLODAKA": {
+        "key": "LTSABERLODAKA",
+        "name": "Master Lodaka's Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "10",
+        "crit": "1",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Breach 1, Sunder, Vicious 2",
+        "price": "20000",
+        "rarity": "10"
+      },
+      "LTSABERPIKE": {
+        "key": "LTSABERPIKE",
+        "name": "Lightsaber Pike",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Breach 1, Cumbersome 3, Defensive 1, Sunder, HP 3",
+        "price": "9600",
+        "rarity": "10"
+      },
+      "LTSABERPIKEHILT": {
+        "key": "LTSABERPIKEHILT",
+        "name": "Lightsaber Pike Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cumbersome 3, Defensive 1, HP 3",
+        "price": "600",
+        "rarity": "7"
+      },
+      "LTSABERSHOTO": {
+        "key": "LTSABERSHOTO",
+        "name": "Shoto",
+        "skill": "Lightsaber",
+        "dam": "5",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Accurate 1, Breach 1, Sunder, HP 3",
+        "price": "9300",
+        "rarity": "10"
+      },
+      "LTSABERSHOTOHILT": {
+        "key": "LTSABERSHOTOHILT",
+        "name": "Shoto Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Accurate 1, HP 3",
+        "price": "300",
+        "rarity": "6"
+      },
+      "LTSABERTEMGUAPIKE": {
+        "key": "LTSABERTEMGUAPIKE",
+        "name": "Temple Guard Lightsaber Pike",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Breach 1, Defensive 1, Linked 1, Stun 4, Sunder, Unwieldy 3, HP 4",
+        "price": "20000",
+        "rarity": "10"
+      },
+      "LTSABERTEMGUAPIKEHILT": {
+        "key": "LTSABERTEMGUAPIKEHILT",
+        "name": "Temple Guard Lightsaber Pike Hilt",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, Linked 1, Stun 4, Sunder, Unwieldy 3, HP 4",
+        "price": "2000",
+        "rarity": "9"
+      },
+      "LTSABERTRAIN": {
+        "key": "LTSABERTRAIN",
+        "name": "Training Lightsaber",
+        "skill": "Lightsaber",
+        "dam": "6",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Stun Damage, HP 5",
+        "price": "400",
+        "rarity": "6"
+      },
+      "LTSABERWHIP": {
+        "key": "LTSABERWHIP",
+        "name": "Lightwhip",
+        "skill": "Lightsaber",
+        "dam": "4",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ensnare 1, Pierce 5, Unwieldy 4, HP 1",
+        "price": "11400",
+        "rarity": "10"
+      },
+      "LTTRACTCOUPLE": {
+        "key": "LTTRACTCOUPLE",
+        "name": "Light Tractor Beam Coupler",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "1",
+        "range": "",
+        "enc": "0",
+        "special": "Tractor 1",
+        "price": "0",
+        "rarity": "0"
+      },
+      "LUCKYBL": {
+        "key": "LUCKYBL",
+        "name": "Lucky Blaster",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 1",
+        "price": "400",
+        "rarity": "10"
+      },
+      "M1NOVAVIPER": {
+        "key": "M1NOVAVIPER",
+        "name": "Model-1 \"Nova Viper\" Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Accurate 2, Pierce 2, Stun Setting, HP 2",
+        "price": "4500",
+        "rarity": "9"
+      },
+      "M300": {
+        "key": "M300",
+        "name": "M-300 Hunting Blaster",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "4",
+        "special": "Accurate 1, Cumbersome 2, Pierce 2, Stun Setting, HP 1",
+        "price": "1600",
+        "rarity": "6"
+      },
+      "M3BLASTSHIELD": {
+        "key": "M3BLASTSHIELD",
+        "name": "M3 Bulwark Blast Shield",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "6",
+        "range": "Engaged",
+        "enc": "6",
+        "special": "Cumbersome 3, Defensive 2, Deflection 2, HP 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "M53QUICKTRIGGER": {
+        "key": "M53QUICKTRIGGER",
+        "name": "Model 53 \"Quicktrigger\" Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 4",
+        "price": "450",
+        "rarity": "4"
+      },
+      "M8KNIFE": {
+        "key": "M8KNIFE",
+        "name": "M8 Combat Knife",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Accurate 1, Pierce 1, HP 1",
+        "price": "150",
+        "rarity": "4"
+      },
+      "M9BOOMER": {
+        "key": "M9BOOMER",
+        "name": "M9 \"Boomer\" Heavy Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Blast 5, Cumbersome 2, Inaccurate 1, HP 2",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "MASSDRIVERCANNON": {
+        "key": "MASSDRIVERCANNON",
+        "name": "Mass-Driver Cannon",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "3",
+        "range": "Short",
+        "enc": "",
+        "special": "Breach 2, Slow Firing 1",
+        "price": "",
+        "rarity": ""
+      },
+      "MASSDRIVMSL": {
+        "key": "MASSDRIVMSL",
+        "name": "Mass Driver Missile Launchers",
+        "skill": "Gunnery",
+        "dam": "14",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Blast 4, Breach 4, Inaccurate 1, Limited Ammo 10, Slow Firing 2",
+        "price": "0",
+        "rarity": "0"
+      },
+      "MICROROCKAA": {
+        "key": "MICROROCKAA",
+        "name": "Anti-Armor Micro-Rocket",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Breach 1, Limited Ammo 1, HP 1",
+        "price": "300",
+        "rarity": "5"
+      },
+      "MICROROCKEXP": {
+        "key": "MICROROCKEXP",
+        "name": "Explosive Micro-Rocket",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Limited Ammo 1, HP 1",
+        "price": "150",
+        "rarity": "4"
+      },
+      "MICROROCKFLE": {
+        "key": "MICROROCKFLE",
+        "name": "Flechette Micro-Rocket",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 5, Vicious 2, Limited Ammo 1, HP 1",
+        "price": "175",
+        "rarity": "5"
+      },
+      "MICROROCKINC": {
+        "key": "MICROROCKINC",
+        "name": "Incendiary Micro-Rocket",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Burn 2, Limited Ammo 1, HP 1",
+        "price": "175",
+        "rarity": "5"
+      },
+      "MICROROCKION": {
+        "key": "MICROROCKION",
+        "name": "Ion Micro-Rocket",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ion, Sunder, Limited Ammo 1, HP 1",
+        "price": "100",
+        "rarity": "6"
+      },
+      "MICROROCKPISTOL": {
+        "key": "MICROROCKPISTOL",
+        "name": "Micro-Rocket Launcher Pistol",
+        "skill": "Ranged - Light",
+        "dam": "",
+        "crit": "",
+        "range": "Medium",
+        "enc": "3",
+        "special": "",
+        "price": "500",
+        "rarity": "7"
+      },
+      "MILHOLDBLAST": {
+        "key": "MILHOLDBLAST",
+        "name": "Military Holdout Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting",
+        "price": "500",
+        "rarity": "5"
+      },
+      "MINECONC": {
+        "key": "MINECONC",
+        "name": "Concussion Mine",
+        "skill": "Mechanics",
+        "dam": "12",
+        "crit": "3",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 8, Breach 4, Limited Ammo 1",
+        "price": "500",
+        "rarity": "5"
+      },
+      "MINEFIREC": {
+        "key": "MINEFIREC",
+        "name": "Firecracker Mine",
+        "skill": "Mechanics",
+        "dam": "1",
+        "crit": "0",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 8, Limited Ammo 1",
+        "price": "400",
+        "rarity": "4"
+      },
+      "MINEGRAV": {
+        "key": "MINEGRAV",
+        "name": "Gravity Mine",
+        "skill": "Mechanics",
+        "dam": "2",
+        "crit": "4",
+        "range": "Short",
+        "enc": "",
+        "special": "Limited Ammo 1",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "MINEION": {
+        "key": "MINEION",
+        "name": "Ion Mine",
+        "skill": "Mechanics",
+        "dam": "12",
+        "crit": "4",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 8, Ion, Limited Ammo 1",
+        "price": "600",
+        "rarity": "5"
+      },
+      "MINENET": {
+        "key": "MINENET",
+        "name": "Connor Net Mine",
+        "skill": "Mechanics",
+        "dam": "20",
+        "crit": "4",
+        "range": "Short",
+        "enc": "",
+        "special": "Ion, Limited Ammo 1",
+        "price": "1200",
+        "rarity": "7"
+      },
+      "MINESEEK": {
+        "key": "MINESEEK",
+        "name": "Seeker Mine",
+        "skill": "Mechanics",
+        "dam": "16",
+        "crit": "3",
+        "range": "Short",
+        "enc": "",
+        "special": "Blast 4, Breach 2, Vicious 2, Limited Ammo 1",
+        "price": "1300",
+        "rarity": "7"
+      },
+      "MINIMISSILETUBE": {
+        "key": "MINIMISSILETUBE",
+        "name": "MM-XT Mini-Missile Tube",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Limited Ammo 1",
+        "price": "7000",
+        "rarity": "5"
+      },
+      "MINIROCKET": {
+        "key": "MINIROCKET",
+        "name": "Mini-Rocket Launcher",
+        "skill": "Gunnery",
+        "dam": "3",
+        "crit": "4",
+        "range": "",
+        "enc": "0",
+        "special": "Blast 1, Breach 2, Inaccurate 1, Limited Ammo 5",
+        "price": "0",
+        "rarity": "0"
+      },
+      "MINTORPAP": {
+        "key": "MINTORPAP",
+        "name": "Mini-Torpedo, Anti-Personnel",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "2",
+        "range": "Long",
+        "enc": "1",
+        "special": "Blast 6, Limited Ammo 2",
+        "price": "100",
+        "rarity": "5"
+      },
+      "MINTORPARMP": {
+        "key": "MINTORPARMP",
+        "name": "Mini-Torpedo, Armor Piercing",
+        "skill": "Ranged - Heavy",
+        "dam": "12",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Blast 2, Limited Ammo 1, Pierce 4",
+        "price": "150",
+        "rarity": "6"
+      },
+      "MINTORPINK": {
+        "key": "MINTORPINK",
+        "name": "Mini-Torpedo, Ink",
+        "skill": "Ranged - Heavy",
+        "dam": "0",
+        "crit": "0",
+        "range": "Long",
+        "enc": "1",
+        "special": "Blast 0, Disorient 4, Limited Ammo 1",
+        "price": "50",
+        "rarity": "5"
+      },
+      "MINTORPION": {
+        "key": "MINTORPION",
+        "name": "Mini-Torpedo, Ion",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "2",
+        "range": "Long",
+        "enc": "1",
+        "special": "Blast 8, Ion, Limited Ammo 1",
+        "price": "150",
+        "rarity": "6"
+      },
+      "MINTORPLAUNCH": {
+        "key": "MINTORPLAUNCH",
+        "name": "Mini-Torpedo Launcher",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "2",
+        "range": "Long",
+        "enc": "4",
+        "special": "Blast 6, Cumbersome 2, Limited Ammo 2, HP 4",
+        "price": "2000",
+        "rarity": "6"
+      },
+      "MINTORPNET": {
+        "key": "MINTORPNET",
+        "name": "Mini-Torpedo, Net",
+        "skill": "Ranged - Heavy",
+        "dam": "0",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Blast 0, Ensnare 6, Limited Ammo 1",
+        "price": "100",
+        "rarity": "5"
+      },
+      "MINTORPSTUN": {
+        "key": "MINTORPSTUN",
+        "name": "Mini-Torpedo, Stun",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "2",
+        "range": "Long",
+        "enc": "1",
+        "special": "Blast 4, Concussive 2, Limited Ammo 1, Stun Damage",
+        "price": "300",
+        "rarity": "5"
+      },
+      "MISS": {
+        "key": "MISS",
+        "name": "Missile Tube",
+        "skill": "Gunnery",
+        "dam": "20",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "7",
+        "special": "Breach 1, Blast 10, Cumbersome 3, Guided 3, Limited Ammo 6, Prepare 1, HP 4",
+        "price": "7500",
+        "rarity": "8"
+      },
+      "MISSCONCMINI": {
+        "key": "MISSCONCMINI",
+        "name": "Concussion Missile (Mini)",
+        "skill": "Gunnery",
+        "dam": "4",
+        "crit": "4",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 2, Breach 2, Guided 3, Slow Firing 1",
+        "price": "400",
+        "rarity": "5"
+      },
+      "MISSDECOY": {
+        "key": "MISSDECOY",
+        "name": "Decoy Missile",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "0",
+        "special": "Slow Firing 1",
+        "price": "400",
+        "rarity": "6"
+      },
+      "MISSILEPACK": {
+        "key": "MISSILEPACK",
+        "name": "Missile Pack",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Limited Ammo 2",
+        "price": "10000",
+        "rarity": "5"
+      },
+      "MISSILEPACKMINI": {
+        "key": "MISSILEPACKMINI",
+        "name": "Mini-Missile Pack",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Limited Ammo 2",
+        "price": "7000",
+        "rarity": "5"
+      },
+      "MISSJAM": {
+        "key": "MISSJAM",
+        "name": "Jammer Missile",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "0",
+        "special": "Guided 4, Slow Firing 1",
+        "price": "300",
+        "rarity": "6"
+      },
+      "MISSJAMMINI": {
+        "key": "MISSJAMMINI",
+        "name": "Jammer Missile (Mini)",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Guided 4, Slow Firing 1",
+        "price": "400",
+        "rarity": "6"
+      },
+      "MISSUNGROCK": {
+        "key": "MISSUNGROCK",
+        "name": "Unguided Rocket",
+        "skill": "Gunnery",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 3, Breach 3, Slow Firing 1",
+        "price": "300",
+        "rarity": "0"
+      },
+      "MISSUNGROCKMINI": {
+        "key": "MISSUNGROCKMINI",
+        "name": "Unguided Rocket (Mini)",
+        "skill": "Gunnery",
+        "dam": "3",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "0",
+        "special": "Blast 1, Breach 2, Slow Firing 1",
+        "price": "250",
+        "rarity": "4"
+      },
+      "MK1EMPGR": {
+        "key": "MK1EMPGR",
+        "name": "Mk II EMP Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Disorient 3, Ion, Limited Ammo 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "MKVIIIMORTAR": {
+        "key": "MKVIIIMORTAR",
+        "name": "Mk VIII Gravitic Mortar Launcher",
+        "skill": "Gunnery",
+        "dam": "4",
+        "crit": "",
+        "range": "Long",
+        "enc": "6",
+        "special": "Inaccurate 1, Prepare 1, HP 1",
+        "price": "2800",
+        "rarity": "7"
+      },
+      "MMD18DAG": {
+        "key": "MMD18DAG",
+        "name": "MMD-18 Molecular Dagger",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 2, HP 1",
+        "price": "100",
+        "rarity": "4"
+      },
+      "MODEL14VIBROSP": {
+        "key": "MODEL14VIBROSP",
+        "name": "Model 14 \"Stalker\" Vibrospear",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Defensive 1, Pierce 2, Vicious 2, HP 2",
+        "price": "490",
+        "rarity": "6"
+      },
+      "MODEL201MORTAR": {
+        "key": "MODEL201MORTAR",
+        "name": "Model 201 Mortar System",
+        "skill": "Gunnery",
+        "dam": "15",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "10",
+        "special": "Blast 12, Breach 1, Limited Ammo 5, Prepare 2, Slow Firing 1, HP 1",
+        "price": "5400",
+        "rarity": "7"
+      },
+      "MODEL38": {
+        "key": "MODEL38",
+        "name": "Model 38 Sharpshooter's Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "5",
+        "special": "Accurate 2, Pierce 3, HP 4",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "MODEL38DET": {
+        "key": "MODEL38DET",
+        "name": "Model 38 Sharpshooter's Rifle (Detonator Round)",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "5",
+        "special": "Accurate 2, Blast 5, Knockdown, HP 4",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "MODEL44BLASTPIST": {
+        "key": "MODEL44BLASTPIST",
+        "name": "Model 44 Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 4",
+        "price": "500",
+        "rarity": "4"
+      },
+      "MODEL4THUND": {
+        "key": "MODEL4THUND",
+        "name": "Model 4 \"Thunderhead\" Scattergun",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "4",
+        "range": "Short",
+        "enc": "4",
+        "special": "Blast 5, Knockdown, Vicious 1, HP 3",
+        "price": "700",
+        "rarity": "5"
+      },
+      "MODEL57": {
+        "key": "MODEL57",
+        "name": "Model 57 \"Homesteader\" Hunting Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "5",
+        "range": "Long",
+        "enc": "5",
+        "special": "Accurate 1, Cumbersome 2, HP 4",
+        "price": "500",
+        "rarity": "6"
+      },
+      "MODEL57DET": {
+        "key": "MODEL57DET",
+        "name": "Model 57 \"Homesteader\" Hunting Rifle (Detonator)",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "5",
+        "range": "Long",
+        "enc": "5",
+        "special": "Accurate 1, Blast 4, Cumbersome 2, Knockdown, HP 4",
+        "price": "500",
+        "rarity": "6"
+      },
+      "MODEL77": {
+        "key": "MODEL77",
+        "name": "Model 77 Air Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "0",
+        "range": "Long",
+        "enc": "3",
+        "special": "Pierce 4, Stun Damage, HP 3",
+        "price": "1100",
+        "rarity": "6"
+      },
+      "MODEL80BLASTPIST": {
+        "key": "MODEL80BLASTPIST",
+        "name": "Model 80 Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Stun Setting, HP 3",
+        "price": "550",
+        "rarity": "5"
+      },
+      "MOLSTILETTO": {
+        "key": "MOLSTILETTO",
+        "name": "Molecular Stiletto",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 5, Vicious 1, HP 1",
+        "price": "500",
+        "rarity": "5"
+      },
+      "MOLTENMAGNET": {
+        "key": "MOLTENMAGNET",
+        "name": "Molten Magnet",
+        "skill": "Ranged - Light",
+        "dam": "9",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Breach 1, Burn 1, Limited Ammo 1, Sunder",
+        "price": "1500",
+        "rarity": "6"
+      },
+      "MONCALBAT": {
+        "key": "MONCALBAT",
+        "name": "Mon Calamari Battle Baton",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "250",
+        "rarity": "6"
+      },
+      "MONCALSPBLAST": {
+        "key": "MONCALSPBLAST",
+        "name": "Mon Calamari Spear Blaster (Blaster)",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Long",
+        "enc": "5",
+        "special": "Stun Setting, HP 4",
+        "price": "1350",
+        "rarity": "5"
+      },
+      "MONCALSPBLASTSP": {
+        "key": "MONCALSPBLASTSP",
+        "name": "Mon Calamari Spear Blaster (Spear)",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Pierce 1, HP 4",
+        "price": "1350",
+        "rarity": "5"
+      },
+      "MORCORTSTAFF": {
+        "key": "MORCORTSTAFF",
+        "name": "Morgukai Cortosis Staff",
+        "skill": "Melee",
+        "dam": "8",
+        "crit": "1",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Breach 1, Cortosis, Defensive 1",
+        "price": "9000",
+        "rarity": "10"
+      },
+      "MR90": {
+        "key": "MR90",
+        "name": "MR-90 Proton Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "6",
+        "special": "Accurate 1, Cumbersome 3, Knockdown, HP 2",
+        "price": "3100",
+        "rarity": "8"
+      },
+      "MSW12": {
+        "key": "MSW12",
+        "name": "MSW-12 NanoDagger",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 5, Vicious 1",
+        "price": "700",
+        "rarity": "6"
+      },
+      "MULTIGOO": {
+        "key": "MULTIGOO",
+        "name": "Multi-Goo Gun",
+        "skill": "Ranged - Light",
+        "dam": "2",
+        "crit": "0",
+        "range": "Short",
+        "enc": "2",
+        "special": "Disorient 1, Ensnare 4, Knockdown, HP 1",
+        "price": "250",
+        "rarity": "1"
+      },
+      "N4NOISEGREN": {
+        "key": "N4NOISEGREN",
+        "name": "N-4 Noise Grenade",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "6",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 4, Concussive 1, Stun Damage, Limited Ammo 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "NEEDLEGLOVES": {
+        "key": "NEEDLEGLOVES",
+        "name": "Needle Gloves",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "",
+        "price": "750",
+        "rarity": "8"
+      },
+      "NETGUN": {
+        "key": "NETGUN",
+        "name": "AO14 \"Aranea\" Net Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "3",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Ensnare 5, Limited Ammo, HP 2",
+        "price": "775",
+        "rarity": "5"
+      },
+      "NEURWHIP": {
+        "key": "NEURWHIP",
+        "name": "Neuronic Whip",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Disorient 4, Ensnare 1, Stun Damage, HP 1",
+        "price": "750",
+        "rarity": "6"
+      },
+      "NIGHTBOW": {
+        "key": "NIGHTBOW",
+        "name": "Nightsister Energy Bow",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Pierce 4, Unwieldy 3, Vicious 2, HP 2",
+        "price": "2800",
+        "rarity": "8"
+      },
+      "NIGHTSTINGER": {
+        "key": "NIGHTSTINGER",
+        "name": "Nightstinger Blaster Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "7",
+        "special": "Accurate 2, Cumbersome 3, Pierce 1, Stun Setting, HP 4",
+        "price": "6500",
+        "rarity": "9"
+      },
+      "NX14": {
+        "key": "NX14",
+        "name": "NX-14 Needler",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "",
+        "range": "Short",
+        "enc": "1",
+        "special": "Pierce 3, HP 1",
+        "price": "650",
+        "rarity": "7"
+      },
+      "OBSIDIANDAGGER": {
+        "key": "OBSIDIANDAGGER",
+        "name": "Semblan Obsidian Dagger",
+        "skill": "Melee",
+        "dam": "+0",
+        "crit": "1",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "HP 2",
+        "price": "350",
+        "rarity": "4"
+      },
+      "OK98BLASTCARB": {
+        "key": "OK98BLASTCARB",
+        "name": "OK-98 Blaster Carbine",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Stun Setting, HP 3",
+        "price": "1100",
+        "rarity": "5"
+      },
+      "OUROBLADE": {
+        "key": "OUROBLADE",
+        "name": "Ouro Blade",
+        "skill": "Melee",
+        "dam": "+1",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "",
+        "price": "600",
+        "rarity": "4"
+      },
+      "PANICPISTOL": {
+        "key": "PANICPISTOL",
+        "name": "Panic Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Inaccurate 1",
+        "price": "400",
+        "rarity": "3"
+      },
+      "PARRDAGG": {
+        "key": "PARRDAGG",
+        "name": "Parrying Dagger",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "PARRVIBRO": {
+        "key": "PARRVIBRO",
+        "name": "Parrying Vibroblade",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Defensive 1, Pierce 2, Vicious 1, HP 2",
+        "price": "400",
+        "rarity": "6"
+      },
+      "PEACESTUNBAT": {
+        "key": "PEACESTUNBAT",
+        "name": "\"Peacekeeper\" Stun Baton",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cumbersome 3, Disorient 2, Stun 3, HP 2",
+        "price": "500",
+        "rarity": "3"
+      },
+      "PERSUADER": {
+        "key": "PERSUADER",
+        "name": "Sorosuub \"Persuader\" Shock Prod",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Concussive 1, Stun Damage, Slow Firing 1, HP 2",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "PHIPHKNIFE": {
+        "key": "PHIPHKNIFE",
+        "name": "Philaxian Phase-Knife",
+        "skill": "Lightsaber",
+        "dam": "+1",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 4, Vicious 1, HP 1",
+        "price": "1500",
+        "rarity": "8"
+      },
+      "PLASGREND": {
+        "key": "PLASGREND",
+        "name": "NOVA40 Plasma Grenade",
+        "skill": "Ranged - Light",
+        "dam": "12",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 10, Limited Ammo 1",
+        "price": "125",
+        "rarity": "6"
+      },
+      "PLASMACHRG": {
+        "key": "PLASMACHRG",
+        "name": "Plasma Charge",
+        "skill": "Mechanics",
+        "dam": "9",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "2",
+        "special": "",
+        "price": "200",
+        "rarity": "5"
+      },
+      "PLASMISSILESK44": {
+        "key": "PLASMISSILESK44",
+        "name": "SK-44 Plasma Missile",
+        "skill": "Gunnery",
+        "dam": "16",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "0",
+        "special": "Blast 14, Inaccurate 1, Pierce 2",
+        "price": "160",
+        "rarity": "8"
+      },
+      "POCKPIS": {
+        "key": "POCKPIS",
+        "name": "Pocket Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "200",
+        "rarity": "2"
+      },
+      "POISONGR": {
+        "key": "POISONGR",
+        "name": "Poison Gas Grenade",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 2, Limited Ammo 1",
+        "price": "50",
+        "rarity": "5"
+      },
+      "POLEAXE": {
+        "key": "POLEAXE",
+        "name": "Trailbreaker Poleaxe",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Defensive 1, Pierce 2, Unwieldy 2, HP 1",
+        "price": "610",
+        "rarity": "4"
+      },
+      "PRECXMARK": {
+        "key": "PRECXMARK",
+        "name": "\"Precision-X\" Marksman Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Long",
+        "enc": "5",
+        "special": "Pierce 1, Stun Setting, HP 1",
+        "price": "1500",
+        "rarity": "8"
+      },
+      "PROTONBAY": {
+        "key": "PROTONBAY",
+        "name": "Proton Bomb Bay",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "2",
+        "range": "",
+        "enc": "0",
+        "special": "Breach 8, Blast 7, Limited Ammo 16",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "PROTONBOMB": {
+        "key": "PROTONBOMB",
+        "name": "Proton Bomb Release Chute",
+        "skill": "Gunnery",
+        "dam": "7",
+        "crit": "4",
+        "range": "",
+        "enc": "0",
+        "special": "Breach 8, Blast 7, Limited Ammo 16",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "PROTONGRNAD": {
+        "key": "PROTONGRNAD",
+        "name": "Proton Grenade",
+        "skill": "Mechanics",
+        "dam": "10",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "",
+        "price": "60",
+        "rarity": "4"
+      },
+      "PROTTORPHVY": {
+        "key": "PROTTORPHVY",
+        "name": "Heavy Proton Torpedo Launcher",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "2",
+        "range": "Medium",
+        "enc": "",
+        "special": "Blast 8, Breach 8, Guided 2, Slow Firing 1",
+        "price": "11250",
+        "rarity": "8"
+      },
+      "PTL": {
+        "key": "PTL",
+        "name": "Proton Torpedo Launcher",
+        "skill": "Gunnery",
+        "dam": "8",
+        "crit": "2",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 6, Breach 6, Guided 2, Limited Ammo 3, Slow Firing 1",
+        "price": "9000",
+        "rarity": "7"
+      },
+      "PULSECAN": {
+        "key": "PULSECAN",
+        "name": "Pulse Cannon",
+        "skill": "Ranged - Heavy",
+        "dam": "9",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "5",
+        "special": "Cumbersome 3, Pierce 2, Slow Firing 1, HP 1",
+        "price": "2750",
+        "rarity": "6"
+      },
+      "PULSEDRILL": {
+        "key": "PULSEDRILL",
+        "name": "G9-GP Pulse Drill",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Breach 1, Cumbersome 3, Inaccurate 1, HP 2",
+        "price": "1100",
+        "rarity": "4"
+      },
+      "PULSEDRILLGX": {
+        "key": "PULSEDRILLGX",
+        "name": "G9-GX Pulse Drill",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Breach 1, Cumbersome 3, Inaccurate 2, HP 2",
+        "price": "1100",
+        "rarity": "4"
+      },
+      "PUNCHDAGGER": {
+        "key": "PUNCHDAGGER",
+        "name": "Punch Dagger",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 1, HP 1",
+        "price": "75",
+        "rarity": "4"
+      },
+      "QUICKFIRE": {
+        "key": "QUICKFIRE",
+        "name": "Model Q4 Quickfire",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Stun Setting",
+        "price": "250",
+        "rarity": "4"
+      },
+      "QUILLBOMB": {
+        "key": "QUILLBOMB",
+        "name": "Quillbomb",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 3, Limited Ammo 1, Pierce 2, Vicious 3",
+        "price": "100",
+        "rarity": "6"
+      },
+      "RECIPQUADBLASTCAN": {
+        "key": "RECIPQUADBLASTCAN",
+        "name": "Reciprocating Quad Blaster Cannon",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "2",
+        "range": "Long",
+        "enc": "8",
+        "special": "Auto Fire, Breach 1, Cumbersome 4, Inaccurate 1, Prepare 2, HP 4",
+        "price": "9950",
+        "rarity": "8"
+      },
+      "REDIRCRYST": {
+        "key": "REDIRCRYST",
+        "name": "Redirection Crystal",
+        "skill": "Skulduggery",
+        "dam": "9",
+        "crit": "4",
+        "range": "Short",
+        "enc": "0",
+        "special": "Limited Ammo 1",
+        "price": "500",
+        "rarity": "9"
+      },
+      "REFCORTCAUNT": {
+        "key": "REFCORTCAUNT",
+        "name": "Refined Cortosis Gauntlets",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cortosis, HP 2",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "REFCORTSTAFF": {
+        "key": "REFCORTSTAFF",
+        "name": "Refined Cortosis Staff",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cortosis, HP 2",
+        "price": "2500",
+        "rarity": "7"
+      },
+      "RENHEAVYBLAST": {
+        "key": "RENHEAVYBLAST",
+        "name": "\"Renegade\" Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Inaccurate 1, Stun Setting, HP 3",
+        "price": "950",
+        "rarity": "4"
+      },
+      "REPIONCANNON": {
+        "key": "REPIONCANNON",
+        "name": "Repeating Ion Cannon",
+        "skill": "Gunnery",
+        "dam": "4",
+        "crit": "4",
+        "range": "",
+        "enc": "",
+        "special": "Ion, Linked 4",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "REPTHROWRAZ": {
+        "key": "REPTHROWRAZ",
+        "name": "Repulsor Throwing Razor",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Guided 2, Limited Ammo 1, Pierce 2, Vicious 1, HP 1",
+        "price": "850",
+        "rarity": "7"
+      },
+      "REPULSORGUN": {
+        "key": "REPULSORGUN",
+        "name": "Repulsor Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "3",
+        "crit": "5",
+        "range": "Short",
+        "enc": "5",
+        "special": "Knockdown",
+        "price": "200",
+        "rarity": "3"
+      },
+      "RGL318": {
+        "key": "RGL318",
+        "name": "RGL-318 Rotary Grenade Launcher",
+        "skill": "Gunnery",
+        "dam": "8",
+        "crit": "4",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Blast 6, Cumbersome 3, Limited Ammo 5, HP 3",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "RIOTRIFLE": {
+        "key": "RIOTRIFLE",
+        "name": "R-88 Supressor Riot Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "0",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Blast 5, Disorient 3, Stun Damage, HP 2",
+        "price": "2000",
+        "rarity": "5"
+      },
+      "RIOTSHIELD": {
+        "key": "RIOTSHIELD",
+        "name": "Riot Shield",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "6",
+        "range": "Engaged",
+        "enc": "5",
+        "special": "Cumbersome 3, Defensive 2, Deflection 2, Disorient 1, HP 1",
+        "price": "300",
+        "rarity": "4"
+      },
+      "RIVETGUN": {
+        "key": "RIVETGUN",
+        "name": "Rivet Gun",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Ensnare 1, Inaccurate 2, Limited Ammo 1, HP 1",
+        "price": "900",
+        "rarity": "1"
+      },
+      "RLR331": {
+        "key": "RLR331",
+        "name": "RLR-331 \"Bulldog\" Rocket Rifle",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "4",
+        "range": "Long",
+        "enc": "6",
+        "special": "Blast 8, Cumbersome 3, Guided 3, Limited Ammo 6, HP 3",
+        "price": "2200",
+        "rarity": "7"
+      },
+      "ROTREPBLASTCAN": {
+        "key": "ROTREPBLASTCAN",
+        "name": "Rotary Repeating Blaster Cannon",
+        "skill": "Gunnery",
+        "dam": "15",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "0",
+        "special": "Auto Fire, Inaccurate 1",
+        "price": "0",
+        "rarity": "0"
+      },
+      "RPS6ROCKET": {
+        "key": "RPS6ROCKET",
+        "name": "RPS-6 Rocket Launcher",
+        "skill": "Gunnery",
+        "dam": "22",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "8",
+        "special": "Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7, HP 4",
+        "price": "8200",
+        "rarity": "8"
+      },
+      "RS01RIP": {
+        "key": "RS01RIP",
+        "name": "RS01 \"Ripper\" Powersword",
+        "skill": "Melee",
+        "dam": "+3",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cumbersome 3, Knockdown, Pierce 2, Sunder, Vicious 2, HP 3",
+        "price": "1050",
+        "rarity": "6"
+      },
+      "RYYKBLADE": {
+        "key": "RYYKBLADE",
+        "name": "Ryyk Blade",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cumbersome 3, Defensive 1, Superior, HP 3",
+        "price": "400",
+        "rarity": "8"
+      },
+      "SAPGLOVES": {
+        "key": "SAPGLOVES",
+        "name": "Sap Gloves",
+        "skill": "Brawl",
+        "dam": "+2",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Concussive 1, HP 1",
+        "price": "50",
+        "rarity": "4"
+      },
+      "SE14C": {
+        "key": "SE14C",
+        "name": "SE-14c Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Auto Fire, Stun Setting, HP 2",
+        "price": "650",
+        "rarity": "6"
+      },
+      "SE14RBLASTLTREP": {
+        "key": "SE14RBLASTLTREP",
+        "name": "SE-14r Light Repeating Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "2",
+        "special": "Auto Fire, Stun Setting, HP 3",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "SECURITYS5": {
+        "key": "SECURITYS5",
+        "name": "Security S-5 Heavy Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "3",
+        "special": "Stun Setting, HP 1",
+        "price": "1250",
+        "rarity": "7"
+      },
+      "SH9": {
+        "key": "SH9",
+        "name": "SH-9 Slugthrower Pistol",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Limited Ammo 5, Pierce 2",
+        "price": "250",
+        "rarity": "4"
+      },
+      "SHAPEDCHRG": {
+        "key": "SHAPEDCHRG",
+        "name": "Shaped Charge",
+        "skill": "Mechanics",
+        "dam": "15",
+        "crit": "0",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Breach 1, Vicious 1",
+        "price": "500",
+        "rarity": "4"
+      },
+      "SHAPEDTHERMALGREN": {
+        "key": "SHAPEDTHERMALGREN",
+        "name": "Shaped Thermal Grenade",
+        "skill": "Ranged - Light",
+        "dam": "20",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Breach 2, Limited Ammo 1, Vicious 5",
+        "price": "3500",
+        "rarity": "8"
+      },
+      "SHIELDGAUNT": {
+        "key": "SHIELDGAUNT",
+        "name": "Shield Gauntlet",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Deflection 2, Stun Damage",
+        "price": "1500",
+        "rarity": "8"
+      },
+      "SHISBLADE": {
+        "key": "SHISBLADE",
+        "name": "Shistavanen Combat Utility Vibroblade",
+        "skill": "Melee",
+        "dam": "+1",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Pierce 2, Vicious 1",
+        "price": "600",
+        "rarity": "7"
+      },
+      "SHOCKBOOTS": {
+        "key": "SHOCKBOOTS",
+        "name": "Shock Boots",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Disorient 3, Stun 3",
+        "price": "1250",
+        "rarity": "5"
+      },
+      "SHOCKGL": {
+        "key": "SHOCKGL",
+        "name": "Shock Gloves",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "0",
+        "special": "Stun 3, HP 1",
+        "price": "300",
+        "rarity": "2"
+      },
+      "SHOCKSTAFF": {
+        "key": "SHOCKSTAFF",
+        "name": "Shockprod Staff",
+        "skill": "Melee",
+        "dam": "7",
+        "crit": "3",
+        "range": "Short",
+        "enc": "4",
+        "special": "Disorient 2, Stun Setting, HP 3",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "SHOCKWHIP": {
+        "key": "SHOCKWHIP",
+        "name": "Shock Whip",
+        "skill": "Melee",
+        "dam": "4",
+        "crit": "4",
+        "range": "Short",
+        "enc": "3",
+        "special": "Ensnare 3, Stun Damage, HP 2",
+        "price": "600",
+        "rarity": "8"
+      },
+      "SHUKUR05BLASTLTREP": {
+        "key": "SHUKUR05BLASTLTREP",
+        "name": "SHUKUR-05 Light Repeater",
+        "skill": "Ranged - Light",
+        "dam": "9",
+        "crit": "3",
+        "range": "Long",
+        "enc": "7",
+        "special": "Auto Fire, Cumbersome 4, Inaccurate 1, Pierce 2, Slow Firing 2, HP 2",
+        "price": "1800",
+        "rarity": "7"
+      },
+      "SITE145PISTOL": {
+        "key": "SITE145PISTOL",
+        "name": "Site-145 Replica Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Stun Setting, HP 1",
+        "price": "1750",
+        "rarity": "8"
+      },
+      "SITHSHIELD": {
+        "key": "SITHSHIELD",
+        "name": "Sith Shield",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Cortosis, Defensive 1, Deflection 2, Vicious 1, HP 2",
+        "price": "10000",
+        "rarity": "10"
+      },
+      "SLUGKD30": {
+        "key": "SLUGKD30",
+        "name": "KD-30 \"Dissuader\" Pistol",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "5",
+        "range": "Short",
+        "enc": "2",
+        "special": "Pierce 2, Vicious 1",
+        "price": "350",
+        "rarity": "6"
+      },
+      "SLUGPIS": {
+        "key": "SLUGPIS",
+        "name": "Slugthrower Pistol",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "SLUGPISASP9": {
+        "key": "SLUGPISASP9",
+        "name": "ASP-9 \"Vrelt\" Autopistol",
+        "skill": "Ranged - Light",
+        "dam": "4",
+        "crit": "5",
+        "range": "Short",
+        "enc": "1",
+        "special": "Auto Fire",
+        "price": "150",
+        "rarity": "4"
+      },
+      "SLUGRIF": {
+        "key": "SLUGRIF",
+        "name": "Slugthrower Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "5",
+        "range": "Medium",
+        "enc": "5",
+        "special": "Cumbersome 2, HP 1",
+        "price": "250",
+        "rarity": "3"
+      },
+      "SLUGRIFMKV": {
+        "key": "SLUGRIFMKV",
+        "name": "Mark V \"Sand Panther\" Hunting Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "5",
+        "range": "Long",
+        "enc": "5",
+        "special": "Accurate 1, Cumbersome 2, HP 2",
+        "price": "1750",
+        "rarity": "7"
+      },
+      "SLUGRIFSELSHARD": {
+        "key": "SLUGRIFSELSHARD",
+        "name": "Selonian Shard Shooter",
+        "skill": "Ranged - Heavy",
+        "dam": "5",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Auto Fire, Pierce 1, HP 2",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "SNAPBATON": {
+        "key": "SNAPBATON",
+        "name": "Snap Baton",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Disorient 2, HP 1",
+        "price": "50",
+        "rarity": "4"
+      },
+      "SONICGREND": {
+        "key": "SONICGREND",
+        "name": "Sonic Grenade",
+        "skill": "Ranged - Light",
+        "dam": "10",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 8, Disorient 5, Limited Ammo 1, Stun Damage",
+        "price": "250",
+        "rarity": "6"
+      },
+      "SPOREBSTUNGREN": {
+        "key": "SPOREBSTUNGREN",
+        "name": "Spore/B Stun Grenade",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Concussive 2, Limited Ammo 1, Stun Damage",
+        "price": "400",
+        "rarity": "5"
+      },
+      "SPORESTGREN": {
+        "key": "SPORESTGREN",
+        "name": "Spore Stun Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 7, Limited Ammo 1, Pierce 3, Stun Damage",
+        "price": "100",
+        "rarity": "7"
+      },
+      "SPRAYFOGREN": {
+        "key": "SPRAYFOGREN",
+        "name": "Spray Foam Grenade",
+        "skill": "Ranged - Light",
+        "dam": "",
+        "crit": "",
+        "range": "Short",
+        "enc": "1",
+        "special": "Ensnare 4, Limited Ammo 1",
+        "price": "150",
+        "rarity": "5"
+      },
+      "SPRAYRIF": {
+        "key": "SPRAYRIF",
+        "name": "Spray Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Burn 3, Limited Ammo 3, Pierce 3, Prepare 1, Stun Damage, HP 1",
+        "price": "2700",
+        "rarity": "6"
+      },
+      "SSB1STATIC": {
+        "key": "SSB1STATIC",
+        "name": "SSB-1 Static Pistol",
+        "skill": "Ranged - Light",
+        "dam": "2",
+        "crit": "4",
+        "range": "Short",
+        "enc": "2",
+        "special": "Disorient 1, Stun 8, HP 1",
+        "price": "850",
+        "rarity": "7"
+      },
+      "SSGMKII": {
+        "key": "SSGMKII",
+        "name": "SSG Mk II Paladin",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "3",
+        "range": "Long",
+        "enc": "4",
+        "special": "Auto Fire, Pierce 1, Stun Setting, Superior, HP 2",
+        "price": "3250",
+        "rarity": "8"
+      },
+      "STAFFOFF": {
+        "key": "STAFFOFF",
+        "name": "Staff of Office",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, Disorient 2, HP 2",
+        "price": "350",
+        "rarity": "6"
+      },
+      "STEALTH2VX": {
+        "key": "STEALTH2VX",
+        "name": "Stealth-2VX Palm Shooter",
+        "skill": "Ranged - Light",
+        "dam": "1",
+        "crit": "5",
+        "range": "Short",
+        "enc": "0",
+        "special": "Limited Ammo 3",
+        "price": "300",
+        "rarity": "5"
+      },
+      "STM40": {
+        "key": "STM40",
+        "name": "ST-M40 Heavy Repeating Blaster Pistol",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "2",
+        "special": "Auto Fire, INACURATE 1, HP 2",
+        "price": "2100",
+        "rarity": "5"
+      },
+      "STOKHLI": {
+        "key": "STOKHLI",
+        "name": "Stokhli Spray Stick",
+        "skill": "Ranged - Heavy",
+        "dam": "0",
+        "crit": "0",
+        "range": "Long",
+        "enc": "0",
+        "special": "Accurate 2, Ensnare 4, Slow Firing 1, Stun 8",
+        "price": "2500",
+        "rarity": "8"
+      },
+      "STUNBATON": {
+        "key": "STUNBATON",
+        "name": "Stun Baton",
+        "skill": "Melee",
+        "dam": "2",
+        "crit": "6",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Disorient 2, Stun Damage, HP 2",
+        "price": "200",
+        "rarity": "4"
+      },
+      "STUNCLUB": {
+        "key": "STUNCLUB",
+        "name": "Stun Club",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Disorient 2",
+        "price": "200",
+        "rarity": "4"
+      },
+      "STUNGR": {
+        "key": "STUNGR",
+        "name": "Stun Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 8, Disorient 3, Limited Ammo 1, Stun Damage",
+        "price": "75",
+        "rarity": "4"
+      },
+      "STVIBKN": {
+        "key": "STVIBKN",
+        "name": "Stealth Vibroknife",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 1, Vicious 1, HP 1",
+        "price": "350",
+        "rarity": "6"
+      },
+      "STYANAX": {
+        "key": "STYANAX",
+        "name": "Styanax Lance",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Short",
+        "enc": "8",
+        "special": "Cumbersome 4, Limited Ammo 1, Pierce 3, Vicious 1, HP 2",
+        "price": "200",
+        "rarity": "8"
+      },
+      "SUBDRIOTBLAST": {
+        "key": "SUBDRIOTBLAST",
+        "name": "\"Subduer-9\" Riot Blaster",
+        "skill": "Ranged - Heavy",
+        "dam": "10",
+        "crit": "6",
+        "range": "Short",
+        "enc": "6",
+        "special": "Blast 6, Cumbersome 3, Stun Damage, HP 3",
+        "price": "1250",
+        "rarity": "5"
+      },
+      "SUPPRESSCANNON": {
+        "key": "SUPPRESSCANNON",
+        "name": "Light Suppression Cannon",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "Blast 5, Disorient 4, Stun Damage",
+        "price": "0",
+        "rarity": "0"
+      },
+      "SVT300": {
+        "key": "SVT300",
+        "name": "SVT-300 Stun Cloak",
+        "skill": "Brawl",
+        "dam": "7",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Limited Ammo 3, Stun Damage",
+        "price": "1500",
+        "rarity": "4"
+      },
+      "SWE2SONIC": {
+        "key": "SWE2SONIC",
+        "name": "SWE/2 Sonic Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "6",
+        "range": "Long",
+        "enc": "4",
+        "special": "Concussive 1, Slow Firing 1, Stun Damage, HP 3",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "SWORDCANE": {
+        "key": "SWORDCANE",
+        "name": "Sword Cane",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, HP 1",
+        "price": "475",
+        "rarity": "6"
+      },
+      "T7DISR": {
+        "key": "T7DISR",
+        "name": "T-7 Ion Disruptor",
+        "skill": "Ranged - Heavy",
+        "dam": "12",
+        "crit": "2",
+        "range": "Long",
+        "enc": "6",
+        "special": "Blast 6, Breach 2, Cumbersome 3, Slow Firing 1, Vicious 6, HP 2",
+        "price": "8000",
+        "rarity": "9"
+      },
+      "TAGCRYOPROJ": {
+        "key": "TAGCRYOPROJ",
+        "name": "Cryoban Projector",
+        "skill": "Ranged - Heavy",
+        "dam": "6",
+        "crit": "2",
+        "range": "Short",
+        "enc": "3",
+        "special": "Blast 6, Cumbersome 3, Vicious 2",
+        "price": "500",
+        "rarity": "4"
+      },
+      "TANGLEGUN": {
+        "key": "TANGLEGUN",
+        "name": "Tangle Gun",
+        "skill": "Ranged - Heavy",
+        "dam": "1",
+        "crit": "4",
+        "range": "Short",
+        "enc": "2",
+        "special": "Ensnare 3, HP 1",
+        "price": "500",
+        "rarity": "5"
+      },
+      "TERMITELAUNCH": {
+        "key": "TERMITELAUNCH",
+        "name": "Termite Torpedo Launcher",
+        "skill": "Gunnery",
+        "dam": "3",
+        "crit": "5",
+        "range": "Short",
+        "enc": "",
+        "special": "Guided 3, Limited Ammo 3, Slow Firing 1",
+        "price": "10000",
+        "rarity": "8"
+      },
+      "TERMITETORP": {
+        "key": "TERMITETORP",
+        "name": "Termite Torpedo",
+        "skill": "Gunnery",
+        "dam": "3",
+        "crit": "5",
+        "range": "Short",
+        "enc": "",
+        "special": "Guided 3, Limited Ammo 1, Slow Firing 1",
+        "price": "300",
+        "rarity": "8"
+      },
+      "THERMAXMOD7": {
+        "key": "THERMAXMOD7",
+        "name": "Model 7 Therm-Ax",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Burn 2, Sunder, Vicious 1, HP 3",
+        "price": "850",
+        "rarity": "5"
+      },
+      "THERMCUTW": {
+        "key": "THERMCUTW",
+        "name": "Thermal Cutter",
+        "skill": "Melee",
+        "dam": "4",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Burn 1, Inaccurate 2",
+        "price": "125",
+        "rarity": "3"
+      },
+      "THERMDET": {
+        "key": "THERMDET",
+        "name": "Thermal Detonator",
+        "skill": "Ranged - Light",
+        "dam": "20",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Breach 1, Blast 15, Limited Ammo 1, Vicious 4",
+        "price": "2000",
+        "rarity": "8"
+      },
+      "THERMDETMINI": {
+        "key": "THERMDETMINI",
+        "name": "Mini Thermal Detonator",
+        "skill": "Ranged - Light",
+        "dam": "12",
+        "crit": "2",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 10, Limited Ammo 1",
+        "price": "1200",
+        "rarity": "8"
+      },
+      "THNDRBOLT": {
+        "key": "THNDRBOLT",
+        "name": "Thunderbolt Shock Prod",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "0",
+        "special": "Concussive 1, Stun Damage, HP 2",
+        "price": "875",
+        "rarity": "4"
+      },
+      "TORPLAUNCH": {
+        "key": "TORPLAUNCH",
+        "name": "Torpedo Launcher",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "",
+        "special": "Blast 4, Breach 4, Guided 2, Limited Ammo 2, Slow Firing 1",
+        "price": "0",
+        "rarity": "6"
+      },
+      "TOWCABLE": {
+        "key": "TOWCABLE",
+        "name": "Electromagnetic Tow Cable Launcher",
+        "skill": "Gunnery",
+        "dam": "",
+        "crit": "",
+        "range": "",
+        "enc": "",
+        "special": "Ensnare 5, Knockdown, Limited Ammo 1",
+        "price": "2000",
+        "rarity": "2"
+      },
+      "TRACTHVY": {
+        "key": "TRACTHVY",
+        "name": "Heavy Tractor Beam",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "0",
+        "special": "Tractor 6",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "TRACTLT": {
+        "key": "TRACTLT",
+        "name": "Light Tractor Beam",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "3",
+        "range": "",
+        "enc": "0",
+        "special": "Tractor 2",
+        "price": "6000",
+        "rarity": "4"
+      },
+      "TRACTMED": {
+        "key": "TRACTMED",
+        "name": "Medium Tractor Beam",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "0",
+        "special": "Tractor 4",
+        "price": "8000",
+        "rarity": "5"
+      },
+      "TRACTOR213": {
+        "key": "TRACTOR213",
+        "name": "Grappler 213 Tactical Tractor Beam",
+        "skill": "Gunnery",
+        "dam": "0",
+        "crit": "0",
+        "range": "",
+        "enc": "0",
+        "special": "",
+        "price": "6200",
+        "rarity": "7"
+      },
+      "TRAINSTICK": {
+        "key": "TRAINSTICK",
+        "name": "Training Stick",
+        "skill": "Lightsaber",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Accurate 1, Disorient 1, Stun Damage",
+        "price": "35",
+        "rarity": "3"
+      },
+      "TRUNCH": {
+        "key": "TRUNCH",
+        "name": "Truncheon",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Disorient 2",
+        "price": "15",
+        "rarity": "1"
+      },
+      "TURBOHVY": {
+        "key": "TURBOHVY",
+        "name": "Heavy Turbolaser",
+        "skill": "Gunnery",
+        "dam": "11",
+        "crit": "3",
+        "range": "Long",
+        "enc": "0",
+        "special": "Breach 4, Slow Firing 2",
+        "price": "20000",
+        "rarity": "8"
+      },
+      "TURBOLT": {
+        "key": "TURBOLT",
+        "name": "Light Turbolaser",
+        "skill": "Gunnery",
+        "dam": "9",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "0",
+        "special": "Breach 2, Slow Firing 1",
+        "price": "12000",
+        "rarity": "7"
+      },
+      "TURBOMED": {
+        "key": "TURBOMED",
+        "name": "Medium Turbolaser",
+        "skill": "Gunnery",
+        "dam": "10",
+        "crit": "3",
+        "range": "Long",
+        "enc": "0",
+        "special": "Breach 3, Slow Firing 1",
+        "price": "15000",
+        "rarity": "7"
+      },
+      "TUSKPIKE": {
+        "key": "TUSKPIKE",
+        "name": "Tuskbeast Pike",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, Knockdown, HP 1",
+        "price": "1050",
+        "rarity": "8"
+      },
+      "TZ97SHOCKBATON": {
+        "key": "TZ97SHOCKBATON",
+        "name": "TZ-97 \"Zapper\" Shock Baton",
+        "skill": "Melee",
+        "dam": "5",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Concussive 1, Stun Damage, HP 2",
+        "price": "900",
+        "rarity": "6"
+      },
+      "VACMK127": {
+        "key": "VACMK127",
+        "name": "Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode)",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Limited Ammo 4, Pierce 1, Vicious 1, HP 1",
+        "price": "800",
+        "rarity": "7"
+      },
+      "VACMK127ARC": {
+        "key": "VACMK127ARC",
+        "name": "Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode)",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 6, Limited Ammo 1, Pierce 1, Vicious 1, HP 1",
+        "price": "800",
+        "rarity": "7"
+      },
+      "VAMBLADE2S1": {
+        "key": "VAMBLADE2S1",
+        "name": "S-1 Vamblade (Paired)",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Accurate 1, Defensive 1, Sunder, HP 1",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "VAMBLADES1": {
+        "key": "VAMBLADES1",
+        "name": "S-1 Vamblade (Single)",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, HP 1",
+        "price": "500",
+        "rarity": "4"
+      },
+      "VARHOLDBLAST": {
+        "key": "VARHOLDBLAST",
+        "name": "Variable Holdout Blaster",
+        "skill": "Ranged - Light",
+        "dam": "7",
+        "crit": "4",
+        "range": "Short",
+        "enc": "1",
+        "special": "Limited Ammo 12",
+        "price": "400",
+        "rarity": "7"
+      },
+      "VERPSHATHVYRIF": {
+        "key": "VERPSHATHVYRIF",
+        "name": "Verpine Heavy Shatter Rifle",
+        "skill": "Gunnery",
+        "dam": "15",
+        "crit": "2",
+        "range": "Extreme",
+        "enc": "4",
+        "special": "Accurate 2, Knockdown, Pierce 6, HP 4",
+        "price": "45000",
+        "rarity": "8"
+      },
+      "VERPSHATPIS": {
+        "key": "VERPSHATPIS",
+        "name": "Verpine Shatter Pistol",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "1",
+        "special": "Knockdown, Pierce 2, HP 2",
+        "price": "15000",
+        "rarity": "8"
+      },
+      "VERPSHATRIF": {
+        "key": "VERPSHATRIF",
+        "name": "Verpine Shatter Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "12",
+        "crit": "3",
+        "range": "Extreme",
+        "enc": "3",
+        "special": "Knockdown, Pierce 4, HP 3",
+        "price": "30000",
+        "rarity": "8"
+      },
+      "VES700PULSE": {
+        "key": "VES700PULSE",
+        "name": "VES-700 Pulse Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "8",
+        "crit": "3",
+        "range": "Medium",
+        "enc": "4",
+        "special": "Blast 6, Stun Setting, HP 3",
+        "price": "950",
+        "rarity": "6"
+      },
+      "VIBAX": {
+        "key": "VIBAX",
+        "name": "Vibro-ax",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Pierce 2, Sunder, Vicious 3, HP 3",
+        "price": "750",
+        "rarity": "5"
+      },
+      "VIBKN": {
+        "key": "VIBKN",
+        "name": "Vibroknife",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Pierce 2, Vicious 1, HP 2",
+        "price": "250",
+        "rarity": "3"
+      },
+      "VIBROGLAIVE": {
+        "key": "VIBROGLAIVE",
+        "name": "Vibro-Glaive",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 2, Pierce 3, HP 3",
+        "price": "975",
+        "rarity": "6"
+      },
+      "VIBROGRTSWRDVX": {
+        "key": "VIBROGRTSWRDVX",
+        "name": "VX \"Czerhander\" Vibro-Greatsword",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Defensive 1, Pierce 2, Vicious 2, HP 3",
+        "price": "900",
+        "rarity": "6"
+      },
+      "VIBROKNUK": {
+        "key": "VIBROKNUK",
+        "name": "Vibroknucklers",
+        "skill": "Brawl",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "0",
+        "special": "Pierce 1, Vicious 1",
+        "price": "350",
+        "rarity": "4"
+      },
+      "VIBROMACH": {
+        "key": "VIBROMACH",
+        "name": "Vibro-Machete",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Pierce 1, Sunder, Vicious 1, HP 1",
+        "price": "550",
+        "rarity": "4"
+      },
+      "VIBRORAPIER": {
+        "key": "VIBRORAPIER",
+        "name": "Vibrorapier",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Defensive 1, Pierce 5, HP 2",
+        "price": "1200",
+        "rarity": "7"
+      },
+      "VIBROSAW": {
+        "key": "VIBROSAW",
+        "name": "Mk. VIII Vibrosaw",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "6",
+        "special": "Cumbersome 5, Pierce 2, Sunder, Vicious 2, HP 3",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "VIBROSPR": {
+        "key": "VIBROSPR",
+        "name": "Huntsman Vibrospear",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Pierce 2, Vicious 2, HP 2",
+        "price": "950",
+        "rarity": "6"
+      },
+      "VIBSW": {
+        "key": "VIBSW",
+        "name": "Vibrosword",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "3",
+        "special": "Defensive 1, Pierce 2, Vicious 1, HP 3",
+        "price": "750",
+        "rarity": "5"
+      },
+      "VL6": {
+        "key": "VL6",
+        "name": "VL-6 Warhead Launcher System",
+        "skill": "Gunnery",
+        "dam": "6",
+        "crit": "3",
+        "range": "Short",
+        "enc": "0",
+        "special": "Blast 4, Slow Firing 1, Breach 4, Guided 4",
+        "price": "10000",
+        "rarity": "7"
+      },
+      "VODRANRIFLE": {
+        "key": "VODRANRIFLE",
+        "name": "Vodran Hunting Rifle",
+        "skill": "Ranged - Heavy",
+        "dam": "7",
+        "crit": "4",
+        "range": "Long",
+        "enc": "4",
+        "special": "Cumbersome 2, HP 2",
+        "price": "800",
+        "rarity": "7"
+      },
+      "VOSSWARSP": {
+        "key": "VOSSWARSP",
+        "name": "Voss Warspear",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "4",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Defensive 2, HP 2",
+        "price": "215",
+        "rarity": "8"
+      },
+      "VOSSWARSPT": {
+        "key": "VOSSWARSPT",
+        "name": "Voss Warspear (thrown)",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "4",
+        "range": "Short",
+        "enc": "4",
+        "special": "Defensive 2, Limited Ammo 1, HP 2",
+        "price": "215",
+        "rarity": "8"
+      },
+      "VXBLASTREP": {
+        "key": "VXBLASTREP",
+        "name": "VX \"Sidewinder\" Repeating Blaster",
+        "skill": "Gunnery",
+        "dam": "12",
+        "crit": "3",
+        "range": "Long",
+        "enc": "8",
+        "special": "Auto Fire, Cumbersome 5, Pierce 1, Vicious 1, HP 4",
+        "price": "3350",
+        "rarity": "7"
+      },
+      "WEIKGS": {
+        "key": "WEIKGS",
+        "name": "Weik Greatsword",
+        "skill": "Melee",
+        "dam": "0",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Cumbersome 4, Defensive 1, HP 2",
+        "price": "315",
+        "rarity": "8"
+      },
+      "WELDINGROD": {
+        "key": "WELDINGROD",
+        "name": "Welding Rod",
+        "skill": "Melee",
+        "dam": "3",
+        "crit": "2",
+        "range": "Engaged",
+        "enc": "4",
+        "special": "Breach 1, Inaccurate 2",
+        "price": "1750",
+        "rarity": "5"
+      },
+      "WIPE3GREN": {
+        "key": "WIPE3GREN",
+        "name": "Wipe-3 Data-Purge Grenade",
+        "skill": "Ranged - Light",
+        "dam": "0",
+        "crit": "0",
+        "range": "Short",
+        "enc": "1",
+        "special": "Limited Ammo 1",
+        "price": "100",
+        "rarity": "7"
+      },
+      "WP19INCGREN": {
+        "key": "WP19INCGREN",
+        "name": "WP-19 Incendiary Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "3",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 8, Burn 4, Limited Ammo 1",
+        "price": "125",
+        "rarity": "6"
+      },
+      "WRISTBLAST": {
+        "key": "WRISTBLAST",
+        "name": "Wrist Blaster",
+        "skill": "Ranged - Light",
+        "dam": "6",
+        "crit": "3",
+        "range": "Engaged",
+        "enc": "1",
+        "special": "Limited Ammo 1, Pierce 4",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "WW41CRYOGREN": {
+        "key": "WW41CRYOGREN",
+        "name": "WW-41 CryoBan Grenade",
+        "skill": "Ranged - Light",
+        "dam": "8",
+        "crit": "2",
+        "range": "Short",
+        "enc": "1",
+        "special": "Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2",
+        "price": "220",
+        "rarity": "7"
+      },
+      "X30LANCER": {
+        "key": "X30LANCER",
+        "name": "x-30 Lancer",
+        "skill": "Ranged - Light",
+        "dam": "5",
+        "crit": "4",
+        "range": "Long",
+        "enc": "1",
+        "special": "Accurate 1, Pierce 2, HP 3",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "Z6RIOT": {
+        "key": "Z6RIOT",
+        "name": "Z6 Riot Baton",
+        "skill": "Melee",
+        "dam": "+2",
+        "crit": "5",
+        "range": "Engaged",
+        "enc": "2",
+        "special": "Cortosis, Disorient 2, Stun Damage, HP 1",
+        "price": "1000",
+        "rarity": "3"
+      },
+      "Z6ROTBLASTCAN": {
+        "key": "Z6ROTBLASTCAN",
+        "name": "Z-6 Rotary Blaster Cannon",
+        "skill": "Ranged - Heavy",
+        "dam": "12",
+        "crit": "4",
+        "range": "Long",
+        "enc": "6",
+        "special": "Auto Fire, Cumbersome 3, Prepare 1, HP 3",
+        "price": "3000",
+        "rarity": "7"
+      }
+    },
+    "armor": {
+      "AC": {
+        "key": "AC",
+        "name": "Armored Clothing",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "1",
+        "special": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "AEG": {
+        "key": "AEG",
+        "name": "Adverse Environmental Gear",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "500",
+        "rarity": "1"
+      },
+      "ALLENGHELVEST": {
+        "key": "ALLENGHELVEST",
+        "name": "Alliance Engineer's Helmet and Vest",
+        "defense": "",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "75",
+        "rarity": "1"
+      },
+      "ALLIANCELTSTEALTH": {
+        "key": "ALLIANCELTSTEALTH",
+        "name": "Alliance Light Stealth Armor",
+        "defense": "",
+        "soak": "2",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "2200",
+        "rarity": "7"
+      },
+      "ANCBATARM": {
+        "key": "ANCBATARM",
+        "name": "Ancient Battle Armor",
+        "defense": "",
+        "soak": "2",
+        "enc": "6",
+        "hp": "1",
+        "special": "",
+        "price": "3750",
+        "rarity": "9"
+      },
+      "ANIPRO": {
+        "key": "ANIPRO",
+        "name": "AniPro Layered Beast Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "4",
+        "hp": "0",
+        "special": "",
+        "price": "2500",
+        "rarity": "5"
+      },
+      "ARMDROPSUIT": {
+        "key": "ARMDROPSUIT",
+        "name": "Armored Drop Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "6",
+        "hp": "2",
+        "special": "",
+        "price": "7500",
+        "rarity": "7"
+      },
+      "ARMROBE": {
+        "key": "ARMROBE",
+        "name": "Armored Robes",
+        "defense": "1",
+        "soak": "2",
+        "enc": "5",
+        "hp": "2",
+        "special": "",
+        "price": "4500",
+        "rarity": "8"
+      },
+      "BANAL": {
+        "key": "BANAL",
+        "name": "Banal Apparel",
+        "defense": "0",
+        "soak": "0",
+        "enc": "0",
+        "hp": "0",
+        "special": "",
+        "price": "25",
+        "rarity": "0"
+      },
+      "BEASTHIDE": {
+        "key": "BEASTHIDE",
+        "name": "Beast-Hide Armor",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "300",
+        "rarity": "2"
+      },
+      "BIOGELSUIT": {
+        "key": "BIOGELSUIT",
+        "name": "Biogel Suit",
+        "defense": "",
+        "soak": "2",
+        "enc": "6",
+        "hp": "",
+        "special": "",
+        "price": "3501",
+        "rarity": "1"
+      },
+      "BLASTVEST": {
+        "key": "BLASTVEST",
+        "name": "Blast Vest",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "1",
+        "special": "",
+        "price": "200",
+        "rarity": "3"
+      },
+      "BODYSUIT": {
+        "key": "BODYSUIT",
+        "name": "Polis Masson Bodysuit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "1",
+        "special": "",
+        "price": "300",
+        "rarity": "6"
+      },
+      "CAPARIBEAST": {
+        "key": "CAPARIBEAST",
+        "name": "Capari-Series Padded Beast Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "0",
+        "special": "",
+        "price": "2500",
+        "rarity": "5"
+      },
+      "CARGOCL": {
+        "key": "CARGOCL",
+        "name": "Cargo Clothing",
+        "defense": "0",
+        "soak": "0",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "30",
+        "rarity": "0"
+      },
+      "CATCHVEST": {
+        "key": "CATCHVEST",
+        "name": "Catch Vest",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "300",
+        "rarity": "3"
+      },
+      "CHARGESUIT": {
+        "key": "CHARGESUIT",
+        "name": "\"Storm\" Charge Suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "2000",
+        "rarity": "6"
+      },
+      "CHITIN": {
+        "key": "CHITIN",
+        "name": "Chitin Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "1",
+        "special": "",
+        "price": "600",
+        "rarity": "6"
+      },
+      "CLIMBSUIT": {
+        "key": "CLIMBSUIT",
+        "name": "Climbsuit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "2",
+        "special": "",
+        "price": "1450",
+        "rarity": "4"
+      },
+      "CLOAKCOAT": {
+        "key": "CLOAKCOAT",
+        "name": "Cloaking Coat",
+        "defense": "0",
+        "soak": "1",
+        "enc": "4",
+        "hp": "1",
+        "special": "",
+        "price": "550",
+        "rarity": "8"
+      },
+      "CONROBE": {
+        "key": "CONROBE",
+        "name": "Concealing Robes",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "150",
+        "rarity": "2"
+      },
+      "CRASHGEAR": {
+        "key": "CRASHGEAR",
+        "name": "Crash Gear",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "1",
+        "special": "",
+        "price": "550",
+        "rarity": "3"
+      },
+      "CRASHSUIT": {
+        "key": "CRASHSUIT",
+        "name": "A/KT Shockrider Crash Suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "3000",
+        "rarity": "3"
+      },
+      "CRESHARMOR": {
+        "key": "CRESHARMOR",
+        "name": "Cresh \"Luck\" Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "1",
+        "special": "",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "DESTRIBEAST": {
+        "key": "DESTRIBEAST",
+        "name": "Destri-Series Laminated Beast Armor",
+        "defense": "0",
+        "soak": "4",
+        "enc": "7",
+        "hp": "1",
+        "special": "",
+        "price": "8500",
+        "rarity": "7"
+      },
+      "DIPROBE": {
+        "key": "DIPROBE",
+        "name": "Diplomat's Robes",
+        "defense": "0",
+        "soak": "0",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "DIVESUIT": {
+        "key": "DIVESUIT",
+        "name": "SeaScape Diving Suit",
+        "defense": "",
+        "soak": "2",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "400",
+        "rarity": "2"
+      },
+      "ENVIROSUIT": {
+        "key": "ENVIROSUIT",
+        "name": "Enviro-suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "750",
+        "rarity": "2"
+      },
+      "EODMKII": {
+        "key": "EODMKII",
+        "name": "EOD-Mk II Armor",
+        "defense": "",
+        "soak": "4",
+        "enc": "8",
+        "hp": "0",
+        "special": "",
+        "price": "5300",
+        "rarity": "6"
+      },
+      "FABPROT": {
+        "key": "FABPROT",
+        "name": "Fabricator's Protective Gear",
+        "defense": "",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "450",
+        "rarity": "1"
+      },
+      "FLAKVEST": {
+        "key": "FLAKVEST",
+        "name": "Mk. III Flak Vest",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "1",
+        "special": "",
+        "price": "300",
+        "rarity": "2"
+      },
+      "FLAREJACK": {
+        "key": "FLAREJACK",
+        "name": "Flare Jacket",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "1500",
+        "rarity": "8"
+      },
+      "FLIGHTCF9": {
+        "key": "FLIGHTCF9",
+        "name": "CF-9 Naval Flight Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "FLIGHTTX3": {
+        "key": "FLIGHTTX3",
+        "name": "TX-3 Combat Flight Suit",
+        "defense": "1",
+        "soak": "0",
+        "enc": "4",
+        "hp": "2",
+        "special": "",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "FORMCOUNARM": {
+        "key": "FORMCOUNARM",
+        "name": "Formal Council Armor",
+        "defense": "",
+        "soak": "2",
+        "enc": "5",
+        "hp": "2",
+        "special": "",
+        "price": "8000",
+        "rarity": "10"
+      },
+      "GSUIT": {
+        "key": "GSUIT",
+        "name": "G-Suit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "2000",
+        "rarity": "3"
+      },
+      "GUNDSCAV": {
+        "key": "GUNDSCAV",
+        "name": "\"Gundark\" Scav-Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "4",
+        "hp": "2",
+        "special": "",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "HAULHARN": {
+        "key": "HAULHARN",
+        "name": "Hauling Harness",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "HBA": {
+        "key": "HBA",
+        "name": "Heavy Battle Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "6",
+        "hp": "4",
+        "special": "",
+        "price": "5000",
+        "rarity": "7"
+      },
+      "HC": {
+        "key": "HC",
+        "name": "Heavy Clothing",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "50",
+        "rarity": "0"
+      },
+      "HOLOCOST": {
+        "key": "HOLOCOST",
+        "name": "Holographic Costume",
+        "defense": "1",
+        "soak": "0",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "750",
+        "rarity": "8"
+      },
+      "HT77COLDARM": {
+        "key": "HT77COLDARM",
+        "name": "HT-77 Cold Assault Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "6",
+        "hp": "2",
+        "special": "",
+        "price": "4000",
+        "rarity": "7"
+      },
+      "HUNTTROPHARM": {
+        "key": "HUNTTROPHARM",
+        "name": "Hunter's Trophy Armor",
+        "defense": "",
+        "soak": "2",
+        "enc": "4",
+        "hp": "1",
+        "special": "",
+        "price": "2000",
+        "rarity": "9"
+      },
+      "HUTTSHELLARMOR": {
+        "key": "HUTTSHELLARMOR",
+        "name": "Hutt Shell Armor",
+        "defense": "2",
+        "soak": "2",
+        "enc": "6",
+        "hp": "4",
+        "special": "",
+        "price": "25000",
+        "rarity": "9"
+      },
+      "HVYROBES": {
+        "key": "HVYROBES",
+        "name": "Heavy Robes",
+        "defense": "1",
+        "soak": "0",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "150",
+        "rarity": "2"
+      },
+      "IMPHAZARD": {
+        "key": "IMPHAZARD",
+        "name": "Imperial Hazard Trooper Armor",
+        "defense": "",
+        "soak": "3",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "18000",
+        "rarity": "8"
+      },
+      "IMPSTORMCOMM": {
+        "key": "IMPSTORMCOMM",
+        "name": "Imperial Storm Commando Armor",
+        "defense": "",
+        "soak": "2",
+        "enc": "4",
+        "hp": "4",
+        "special": "",
+        "price": "5000",
+        "rarity": "9"
+      },
+      "INDFLDDISR": {
+        "key": "INDFLDDISR",
+        "name": "Individual Field Disruptor",
+        "defense": "1",
+        "soak": "",
+        "enc": "",
+        "hp": "",
+        "special": "",
+        "price": "9500",
+        "rarity": "7"
+      },
+      "JEDIBA": {
+        "key": "JEDIBA",
+        "name": "Jedi Battle Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "5",
+        "hp": "5",
+        "special": "",
+        "price": "7500",
+        "rarity": "9"
+      },
+      "JEDICOMM": {
+        "key": "JEDICOMM",
+        "name": "Jedi Commander Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "5",
+        "hp": "3",
+        "special": "",
+        "price": "5000",
+        "rarity": "8"
+      },
+      "JEDITEMGUAARM": {
+        "key": "JEDITEMGUAARM",
+        "name": "Jedi Temple Guard Armor",
+        "defense": "2",
+        "soak": "1",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "12000",
+        "rarity": "10"
+      },
+      "JEDITRAINSUIT": {
+        "key": "JEDITRAINSUIT",
+        "name": "Jedi Training Suit (Unweighted)",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "0",
+        "special": "",
+        "price": "400",
+        "rarity": "9"
+      },
+      "JEDITRAINSUITW": {
+        "key": "JEDITRAINSUITW",
+        "name": "Jedi Training Suit (Weighted)",
+        "defense": "0",
+        "soak": "2",
+        "enc": "6",
+        "hp": "0",
+        "special": "",
+        "price": "400",
+        "rarity": "9"
+      },
+      "KAVDANNPA": {
+        "key": "KAVDANNPA",
+        "name": "Kav-Dann Power Armor",
+        "defense": "2",
+        "soak": "2",
+        "enc": "4",
+        "hp": "6",
+        "special": "",
+        "price": "13500",
+        "rarity": "7"
+      },
+      "KOROHALFVEST": {
+        "key": "KOROHALFVEST",
+        "name": "Koromondian Half-Vest",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "500",
+        "rarity": "5"
+      },
+      "LAM": {
+        "key": "LAM",
+        "name": "Laminate",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "2500",
+        "rarity": "5"
+      },
+      "LECOUT": {
+        "key": "LECOUT",
+        "name": "Lector's Outfit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "525",
+        "rarity": "6"
+      },
+      "LEVPOWARM": {
+        "key": "LEVPOWARM",
+        "name": "Leviathan Power Armor",
+        "defense": "2",
+        "soak": "2",
+        "enc": "8",
+        "hp": "1",
+        "special": "",
+        "price": "15000",
+        "rarity": "8"
+      },
+      "MANDOARM": {
+        "key": "MANDOARM",
+        "name": "Mandalorian Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "6",
+        "hp": "5",
+        "special": "",
+        "price": "6000",
+        "rarity": "8"
+      },
+      "MECHUTILSUIT": {
+        "key": "MECHUTILSUIT",
+        "name": "Mechanic's Utility Suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "5",
+        "hp": "1",
+        "special": "",
+        "price": "1175",
+        "rarity": "3"
+      },
+      "MEGAFAUNA": {
+        "key": "MEGAFAUNA",
+        "name": "H-Series Megafauna Carriage",
+        "defense": "1",
+        "soak": "0",
+        "enc": "5",
+        "hp": "2",
+        "special": "",
+        "price": "5500",
+        "rarity": "7"
+      },
+      "MIMETICSUIT": {
+        "key": "MIMETICSUIT",
+        "name": "Mimetic Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "2",
+        "hp": "2",
+        "special": "",
+        "price": "8000",
+        "rarity": "8"
+      },
+      "MK1KATARN": {
+        "key": "MK1KATARN",
+        "name": "Mk I Katarn-Class Commando Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "6500",
+        "rarity": "8"
+      },
+      "MKIIINSARM": {
+        "key": "MKIIINSARM",
+        "name": "Mk II \"Hotspot\" Insulated Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "6",
+        "hp": "2",
+        "special": "",
+        "price": "5500",
+        "rarity": "7"
+      },
+      "MKINIGHTSTALK": {
+        "key": "MKINIGHTSTALK",
+        "name": "Mk I Nightstalker Suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "4800",
+        "rarity": "9"
+      },
+      "MKIXMIM": {
+        "key": "MKIXMIM",
+        "name": "Mk IX Personal Mimetic Concealment Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "8000",
+        "rarity": "8"
+      },
+      "MODARMORIII": {
+        "key": "MODARMORIII",
+        "name": "Type III \"Berethron\" Personal Modular Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "3",
+        "special": "",
+        "price": "1250",
+        "rarity": "6"
+      },
+      "MOUNTARMOR": {
+        "key": "MOUNTARMOR",
+        "name": "A/KT Mountaineer Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "1800",
+        "rarity": "6"
+      },
+      "N57": {
+        "key": "N57",
+        "name": "N-57 Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "5",
+        "hp": "5",
+        "special": "",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "NOBREG": {
+        "key": "NOBREG",
+        "name": "Noble Regalia",
+        "defense": "0",
+        "soak": "0",
+        "enc": "1",
+        "hp": "3",
+        "special": "",
+        "price": "750",
+        "rarity": "7"
+      },
+      "NOMADCOAT": {
+        "key": "NOMADCOAT",
+        "name": "Nomad Greatcoat",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "P14": {
+        "key": "P14",
+        "name": "P-14 Hazardous Industry Suit",
+        "defense": "0",
+        "soak": "2",
+        "enc": "7",
+        "hp": "2",
+        "special": "",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "PAD": {
+        "key": "PAD",
+        "name": "Padded Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "500",
+        "rarity": "1"
+      },
+      "PDS": {
+        "key": "PDS",
+        "name": "Personal Deflector Shield",
+        "defense": "2",
+        "soak": "0",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "10000",
+        "rarity": "8"
+      },
+      "PERFATT": {
+        "key": "PERFATT",
+        "name": "Performer's Attire",
+        "defense": "0",
+        "soak": "0",
+        "enc": "0",
+        "hp": "0",
+        "special": "",
+        "price": "50",
+        "rarity": "4"
+      },
+      "PHASEIARC": {
+        "key": "PHASEIARC",
+        "name": "Phase I ARC Trooper Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "4",
+        "hp": "2",
+        "special": "",
+        "price": "5000",
+        "rarity": "8"
+      },
+      "PHASEICLONE": {
+        "key": "PHASEICLONE",
+        "name": "Phase I Clone Trooper Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "2000",
+        "rarity": "6"
+      },
+      "PIONEER": {
+        "key": "PIONEER",
+        "name": "Pioneer Armor",
+        "defense": "",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "200",
+        "rarity": "4"
+      },
+      "PITCREWCOV": {
+        "key": "PITCREWCOV",
+        "name": "Pit Crew Coveralls",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "1",
+        "special": "",
+        "price": "150",
+        "rarity": "2"
+      },
+      "POWARMOR": {
+        "key": "POWARMOR",
+        "name": "PX-11 \"Battlement\" Powered Armor",
+        "defense": "1",
+        "soak": "3",
+        "enc": "3",
+        "hp": "3",
+        "special": "",
+        "price": "9000",
+        "rarity": "9"
+      },
+      "POWCAPARM": {
+        "key": "POWCAPARM",
+        "name": "Powered Capacitive Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "4",
+        "hp": "2",
+        "special": "",
+        "price": "3000",
+        "rarity": "8"
+      },
+      "PROTECTOR": {
+        "key": "PROTECTOR",
+        "name": "Protector 1 Combat Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "4",
+        "hp": "3",
+        "special": "",
+        "price": "5500",
+        "rarity": "7"
+      },
+      "REBELHEAVY": {
+        "key": "REBELHEAVY",
+        "name": "Rebel Heavy Battle Armor",
+        "defense": "1",
+        "soak": "2",
+        "enc": "5",
+        "hp": "5",
+        "special": "",
+        "price": "6000",
+        "rarity": "8"
+      },
+      "REFBODYGL": {
+        "key": "REFBODYGL",
+        "name": "Reflect Body Glove",
+        "defense": "",
+        "soak": "3",
+        "enc": "2",
+        "hp": "",
+        "special": "",
+        "price": "2500",
+        "rarity": "5"
+      },
+      "REINFENVIRO": {
+        "key": "REINFENVIRO",
+        "name": "Reinforced Environment Gear",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "2",
+        "special": "",
+        "price": "850",
+        "rarity": "4"
+      },
+      "RESPROBES": {
+        "key": "RESPROBES",
+        "name": "Resplendent Robes",
+        "defense": "0",
+        "soak": "1",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "500",
+        "rarity": "5"
+      },
+      "RIDINGTACK": {
+        "key": "RIDINGTACK",
+        "name": "Caballerin-Series Riding Tack",
+        "defense": "0",
+        "soak": "0",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "250",
+        "rarity": "4"
+      },
+      "RIOTARM": {
+        "key": "RIOTARM",
+        "name": "Riot Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "950",
+        "rarity": "4"
+      },
+      "RIOTARMOR": {
+        "key": "RIOTARMOR",
+        "name": "Mk.IV Riot Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "1",
+        "special": "",
+        "price": "1850",
+        "rarity": "6"
+      },
+      "SAKSHADOW": {
+        "key": "SAKSHADOW",
+        "name": "Sakiyan Shadowsuit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "1",
+        "hp": "1",
+        "special": "",
+        "price": "2500",
+        "rarity": "8"
+      },
+      "SCAVCLONE": {
+        "key": "SCAVCLONE",
+        "name": "Scavenged Clone Armor",
+        "defense": "0",
+        "soak": "2",
+        "enc": "5",
+        "hp": "2",
+        "special": "",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "SECSKIN": {
+        "key": "SECSKIN",
+        "name": "Second Skin Armor",
+        "defense": "1",
+        "soak": "1",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "SITHPAIN": {
+        "key": "SITHPAIN",
+        "name": "Sith Pain Harness",
+        "defense": "0",
+        "soak": "2",
+        "enc": "2",
+        "hp": "0",
+        "special": "",
+        "price": "3500",
+        "rarity": "9"
+      },
+      "SKAKPRESS": {
+        "key": "SKAKPRESS",
+        "name": "Skakoan Pressure Suit",
+        "defense": "",
+        "soak": "2",
+        "enc": "3",
+        "hp": "3",
+        "special": "",
+        "price": "2500",
+        "rarity": "5"
+      },
+      "SMUGGLERSTRENCHCOAT": {
+        "key": "SMUGGLERSTRENCHCOAT",
+        "name": "Smuggler's Trenchcoat",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "0",
+        "special": "",
+        "price": "1650",
+        "rarity": "7"
+      },
+      "STEELSKIN": {
+        "key": "STEELSKIN",
+        "name": "Mk.II \"Steelskin\" Anti-Concussive Armor",
+        "defense": "0",
+        "soak": "3",
+        "enc": "8",
+        "hp": "1",
+        "special": "",
+        "price": "6500",
+        "rarity": "7"
+      },
+      "SURVIVALARMOR": {
+        "key": "SURVIVALARMOR",
+        "name": "Survivalist Armor",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "350",
+        "rarity": "6"
+      },
+      "TAILOREDJACKET": {
+        "key": "TAILOREDJACKET",
+        "name": "Tailored Armored Jacket",
+        "defense": "0",
+        "soak": "2",
+        "enc": "1",
+        "hp": "0",
+        "special": "",
+        "price": "6200",
+        "rarity": "7"
+      },
+      "THINSUIT": {
+        "key": "THINSUIT",
+        "name": "Karflo Thinsuit",
+        "defense": "0",
+        "soak": "1",
+        "enc": "",
+        "hp": "",
+        "special": "",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "TIMBERCUIR": {
+        "key": "TIMBERCUIR",
+        "name": "Timber Cuirass",
+        "defense": "1",
+        "soak": "2",
+        "enc": "4",
+        "hp": "1",
+        "special": "",
+        "price": "4000",
+        "rarity": "5"
+      },
+      "UTILITYVEST": {
+        "key": "UTILITYVEST",
+        "name": "A/KT Tracker Utility Vest",
+        "defense": "0",
+        "soak": "0",
+        "enc": "0",
+        "hp": "1",
+        "special": "",
+        "price": "100",
+        "rarity": "2"
+      },
+      "VERPFIBUARM": {
+        "key": "VERPFIBUARM",
+        "name": "Verpine Fiber Ultramesh Armor",
+        "defense": "0",
+        "soak": "1",
+        "enc": "3",
+        "hp": "2",
+        "special": "",
+        "price": "3000",
+        "rarity": "5"
+      },
+      "WATERWEAVE": {
+        "key": "WATERWEAVE",
+        "name": "Waterweave",
+        "defense": "2",
+        "soak": "1",
+        "enc": "7",
+        "hp": "1",
+        "special": "",
+        "price": "6500",
+        "rarity": "9"
+      },
+      "WINGCOMMANDER": {
+        "key": "WINGCOMMANDER",
+        "name": "A/KT Wing Commander Armored Flight Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "3",
+        "hp": "1",
+        "special": "",
+        "price": "1500",
+        "rarity": "6"
+      },
+      "ZEPHYRSTEALTH": {
+        "key": "ZEPHYRSTEALTH",
+        "name": "Zephyr Stealth Suit",
+        "defense": "1",
+        "soak": "1",
+        "enc": "2",
+        "hp": "1",
+        "special": "",
+        "price": "5500",
+        "rarity": "8"
+      }
+    },
+    "gear": {
+      "3MALCOMLINK": {
+        "key": "3MALCOMLINK",
+        "name": "3-MAL Secure Comlink",
+        "enc": "",
+        "notes": "",
+        "price": "250",
+        "rarity": "4"
+      },
+      "78BCOUR": {
+        "key": "78BCOUR",
+        "name": "Swift 78B Vessel Courier System",
+        "enc": "0",
+        "notes": "",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "A212TRACECONS": {
+        "key": "A212TRACECONS",
+        "name": "Tracing Console",
+        "enc": "12",
+        "notes": "",
+        "price": "3000",
+        "rarity": "6"
+      },
+      "A99AQUABREATH": {
+        "key": "A99AQUABREATH",
+        "name": "A99 Aquata Breather",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "7"
+      },
+      "ACTIVATORDVILONG": {
+        "key": "ACTIVATORDVILONG",
+        "name": "Remote DVI Activator (Long Range)",
+        "enc": "0",
+        "notes": "",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "ACTIVATORDVISHORT": {
+        "key": "ACTIVATORDVISHORT",
+        "name": "Remote DVI Activator (Short Range)",
+        "enc": "0",
+        "notes": "",
+        "price": "300",
+        "rarity": "4"
+      },
+      "ADSIGNETRING": {
+        "key": "ADSIGNETRING",
+        "name": "Adamite Signet Ring",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "8"
+      },
+      "AFFIDECRYS": {
+        "key": "AFFIDECRYS",
+        "name": "Affide Crystal",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "8"
+      },
+      "AGENTSBAG": {
+        "key": "AGENTSBAG",
+        "name": "Agent's Bag",
+        "enc": "2",
+        "notes": "",
+        "price": "200",
+        "rarity": "7"
+      },
+      "AGLMKIII": {
+        "key": "AGLMKIII",
+        "name": "AG/L Mk. III Targeting Goggles",
+        "enc": "1",
+        "notes": "",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "ALDR8GRAVBIND": {
+        "key": "ALDR8GRAVBIND",
+        "name": "AL-DR8 Grav-Binders",
+        "enc": "1",
+        "notes": "",
+        "price": "300",
+        "rarity": "7"
+      },
+      "ANTIDOTESET": {
+        "key": "ANTIDOTESET",
+        "name": "Antidote Set",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "5"
+      },
+      "ANTIGRAVCHUTESAV": {
+        "key": "ANTIGRAVCHUTESAV",
+        "name": "Savior Anti-Grav Chute",
+        "enc": "1",
+        "notes": "",
+        "price": "450",
+        "rarity": "5"
+      },
+      "ANTISHBLANK": {
+        "key": "ANTISHBLANK",
+        "name": "Antishock Blanket",
+        "enc": "2",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "APPRAISERSEYE": {
+        "key": "APPRAISERSEYE",
+        "name": "Appraiser's Eye",
+        "enc": "0",
+        "notes": "",
+        "price": "700",
+        "rarity": "7"
+      },
+      "ARDOS": {
+        "key": "ARDOS",
+        "name": "Ardos Disk",
+        "enc": "1",
+        "notes": "",
+        "price": "10000",
+        "rarity": "5"
+      },
+      "ASHMALA": {
+        "key": "ASHMALA",
+        "name": "Ashes of Malachor",
+        "enc": "0",
+        "notes": "",
+        "price": "750",
+        "rarity": "8"
+      },
+      "ATGARARTREM": {
+        "key": "ATGARARTREM",
+        "name": "Atgar Artillery Remote",
+        "enc": "1",
+        "notes": "",
+        "price": "400",
+        "rarity": "7"
+      },
+      "ATMOREDAMP": {
+        "key": "ATMOREDAMP",
+        "name": "FasClean Atmospheric Reactive Damper",
+        "enc": "500",
+        "notes": "",
+        "price": "200000",
+        "rarity": "5"
+      },
+      "ATMOSPROC": {
+        "key": "ATMOSPROC",
+        "name": "Elysium Atmospheric Processor",
+        "enc": "10000",
+        "notes": "",
+        "price": "1000000",
+        "rarity": "7"
+      },
+      "AUTHTOOLS": {
+        "key": "AUTHTOOLS",
+        "name": "Authentication Tools",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "AVASPCARGO": {
+        "key": "AVASPCARGO",
+        "name": "Avabush Spice (100 dose cargo container)",
+        "enc": "3",
+        "notes": "",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "AVASPDOSE": {
+        "key": "AVASPDOSE",
+        "name": "Avabush Spice (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "6"
+      },
+      "AVTRNSLTR": {
+        "key": "AVTRNSLTR",
+        "name": "Holo V Audio/Visual Translator",
+        "enc": "1",
+        "notes": "",
+        "price": "750",
+        "rarity": "3"
+      },
+      "B310": {
+        "key": "B310",
+        "name": "B310 Micro-Imager",
+        "enc": "2",
+        "notes": "",
+        "price": "5250",
+        "rarity": "2"
+      },
+      "BACKPACK": {
+        "key": "BACKPACK",
+        "name": "Backpack",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "1"
+      },
+      "BACTAL": {
+        "key": "BACTAL",
+        "name": "Bacta (liter)",
+        "enc": "1",
+        "notes": "",
+        "price": "20",
+        "rarity": "1"
+      },
+      "BACTAT": {
+        "key": "BACTAT",
+        "name": "Bacta (full tank)",
+        "enc": "12",
+        "notes": "",
+        "price": "4000",
+        "rarity": "1"
+      },
+      "BARDCHRON": {
+        "key": "BARDCHRON",
+        "name": "Bardottan Chronoscanner",
+        "enc": "0",
+        "notes": "",
+        "price": "1200",
+        "rarity": "2"
+      },
+      "BC7COCOON": {
+        "key": "BC7COCOON",
+        "name": "BC-7 Environmental Cocoon",
+        "enc": "3",
+        "notes": "",
+        "price": "2000",
+        "rarity": "4"
+      },
+      "BEARSLOTHANTIVENOM": {
+        "key": "BEARSLOTHANTIVENOM",
+        "name": "Bearsloth Antivenom (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "BEARSLOTHVENOM": {
+        "key": "BEARSLOTHVENOM",
+        "name": "Bearsloth Venom (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "150",
+        "rarity": "3"
+      },
+      "BEASTAIWHA": {
+        "key": "BEASTAIWHA",
+        "name": "Aiwha Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "25000",
+        "rarity": "8"
+      },
+      "BEASTALBEK": {
+        "key": "BEASTALBEK",
+        "name": "Albek",
+        "enc": "",
+        "notes": "",
+        "price": "700",
+        "rarity": "6"
+      },
+      "BEASTBANTHA": {
+        "key": "BEASTBANTHA",
+        "name": "Bantha Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "2500",
+        "rarity": "1"
+      },
+      "BEASTCALL": {
+        "key": "BEASTCALL",
+        "name": "Beast Call",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "BEASTCLAMBER": {
+        "key": "BEASTCLAMBER",
+        "name": "Jerethian Clamberwolf",
+        "enc": "",
+        "notes": "",
+        "price": "30000",
+        "rarity": "7"
+      },
+      "BEASTCRACIAN": {
+        "key": "BEASTCRACIAN",
+        "name": "Cracian Thumper Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "7500",
+        "rarity": "2"
+      },
+      "BEASTCREEREEN": {
+        "key": "BEASTCREEREEN",
+        "name": "Creereen",
+        "enc": "",
+        "notes": "",
+        "price": "400",
+        "rarity": "5"
+      },
+      "BEASTDALGO": {
+        "key": "BEASTDALGO",
+        "name": "Dalgo Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "15000",
+        "rarity": "5"
+      },
+      "BEASTDEWBACK": {
+        "key": "BEASTDEWBACK",
+        "name": "Dewback Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "6500",
+        "rarity": "3"
+      },
+      "BEASTEOPIE": {
+        "key": "BEASTEOPIE",
+        "name": "Eopie (Cameloid) Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "6500",
+        "rarity": "3"
+      },
+      "BEASTFAMBAA": {
+        "key": "BEASTFAMBAA",
+        "name": "Fambaa Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "60000",
+        "rarity": "4"
+      },
+      "BEASTFISSRIT": {
+        "key": "BEASTFISSRIT",
+        "name": "Fissrit",
+        "enc": "",
+        "notes": "",
+        "price": "1500",
+        "rarity": "7"
+      },
+      "BEASTFLUTTER": {
+        "key": "BEASTFLUTTER",
+        "name": "Mantellian Flutterplume",
+        "enc": "",
+        "notes": "",
+        "price": "2500",
+        "rarity": "4"
+      },
+      "BEASTGLOWBAT": {
+        "key": "BEASTGLOWBAT",
+        "name": "Spintiri Glowbat",
+        "enc": "",
+        "notes": "",
+        "price": "800",
+        "rarity": "7"
+      },
+      "BEASTHORSE": {
+        "key": "BEASTHORSE",
+        "name": "Horse (Equinoid) Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "5000",
+        "rarity": "1"
+      },
+      "BEASTHURGHOL": {
+        "key": "BEASTHURGHOL",
+        "name": "Hurghol",
+        "enc": "",
+        "notes": "",
+        "price": "2000",
+        "rarity": "3"
+      },
+      "BEASTKAADU": {
+        "key": "BEASTKAADU",
+        "name": "Kaadu Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "8000",
+        "rarity": "7"
+      },
+      "BEASTKATH": {
+        "key": "BEASTKATH",
+        "name": "Kath Hound",
+        "enc": "",
+        "notes": "",
+        "price": "7500",
+        "rarity": "6"
+      },
+      "BEASTKYBUCK": {
+        "key": "BEASTKYBUCK",
+        "name": "Kybuck Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "BEASTLAVAFLEA": {
+        "key": "BEASTLAVAFLEA",
+        "name": "Mustafarian Lava Flea Riding Beast",
+        "enc": "0",
+        "notes": "",
+        "price": "15000",
+        "rarity": "8"
+      },
+      "BEASTMANKA": {
+        "key": "BEASTMANKA",
+        "name": "Manka Cat",
+        "enc": "",
+        "notes": "",
+        "price": "40000",
+        "rarity": "8"
+      },
+      "BEASTNARGLATCH": {
+        "key": "BEASTNARGLATCH",
+        "name": "Narglatch",
+        "enc": "",
+        "notes": "",
+        "price": "9000",
+        "rarity": "4"
+      },
+      "BEASTNEXU": {
+        "key": "BEASTNEXU",
+        "name": "Nexu",
+        "enc": "",
+        "notes": "",
+        "price": "8000",
+        "rarity": "4"
+      },
+      "BEASTPORVIR": {
+        "key": "BEASTPORVIR",
+        "name": "Porvir",
+        "enc": "",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "BEASTREEK": {
+        "key": "BEASTREEK",
+        "name": "Reek",
+        "enc": "",
+        "notes": "",
+        "price": "10000",
+        "rarity": "5"
+      },
+      "BEASTRONTO": {
+        "key": "BEASTRONTO",
+        "name": "Ronto",
+        "enc": "",
+        "notes": "",
+        "price": "4500",
+        "rarity": "3"
+      },
+      "BEASTRUNDEREN": {
+        "key": "BEASTRUNDEREN",
+        "name": "Runderen",
+        "enc": "",
+        "notes": "",
+        "price": "25",
+        "rarity": "1"
+      },
+      "BEASTRUPING": {
+        "key": "BEASTRUPING",
+        "name": "Ruping",
+        "enc": "",
+        "notes": "",
+        "price": "16000",
+        "rarity": "5"
+      },
+      "BEASTTAUNTAUN": {
+        "key": "BEASTTAUNTAUN",
+        "name": "Tauntaun",
+        "enc": "",
+        "notes": "",
+        "price": "10000",
+        "rarity": "10"
+      },
+      "BEASTTHRANTA": {
+        "key": "BEASTTHRANTA",
+        "name": "Thranta",
+        "enc": "",
+        "notes": "",
+        "price": "120000",
+        "rarity": "9"
+      },
+      "BEASTUXIBEAST": {
+        "key": "BEASTUXIBEAST",
+        "name": "Uxibeast",
+        "enc": "",
+        "notes": "",
+        "price": "2500",
+        "rarity": "2"
+      },
+      "BEASTVARACTYL": {
+        "key": "BEASTVARACTYL",
+        "name": "Varactyl",
+        "enc": "",
+        "notes": "",
+        "price": "35000",
+        "rarity": "4"
+      },
+      "BEASTVRBLTHER": {
+        "key": "BEASTVRBLTHER",
+        "name": "Vrblther",
+        "enc": "",
+        "notes": "",
+        "price": "3000",
+        "rarity": "3"
+      },
+      "BELTPOUCHMIL": {
+        "key": "BELTPOUCHMIL",
+        "name": "Military Belt Pouch",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "0"
+      },
+      "BIND": {
+        "key": "BIND",
+        "name": "Binders",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "0"
+      },
+      "BIOFEEDREG": {
+        "key": "BIOFEEDREG",
+        "name": "Biofeedback Regulator",
+        "enc": "0",
+        "notes": "",
+        "price": "3000",
+        "rarity": "8"
+      },
+      "BIOMEGEN": {
+        "key": "BIOMEGEN",
+        "name": "Biome Generator",
+        "enc": "45",
+        "notes": "",
+        "price": "9000",
+        "rarity": "4"
+      },
+      "BIOSCAN": {
+        "key": "BIOSCAN",
+        "name": "Bioscan",
+        "enc": "1",
+        "notes": "",
+        "price": "2000",
+        "rarity": "1"
+      },
+      "BIOSCANMED": {
+        "key": "BIOSCANMED",
+        "name": "Bioscan (Medical)",
+        "enc": "1",
+        "notes": "",
+        "price": "5000",
+        "rarity": "2"
+      },
+      "BLOODSCAN": {
+        "key": "BLOODSCAN",
+        "name": "Blood Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "400",
+        "rarity": "5"
+      },
+      "BOOSTBLCARGO": {
+        "key": "BOOSTBLCARGO",
+        "name": "Booster Blue (100 dose cargo container)",
+        "enc": "3",
+        "notes": "",
+        "price": "750",
+        "rarity": "6"
+      },
+      "BOOSTBLDOSE": {
+        "key": "BOOSTBLDOSE",
+        "name": "Booster Blue (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "5"
+      },
+      "BREAKHVYHYDROSP": {
+        "key": "BREAKHVYHYDROSP",
+        "name": "\"Breaker\" Heavy Hydrospanner",
+        "enc": "3",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "BREATHM": {
+        "key": "BREATHM",
+        "name": "Breath Mask",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "1"
+      },
+      "BURNGEL": {
+        "key": "BURNGEL",
+        "name": "\"Quickflash\" Burning Gel",
+        "enc": "1",
+        "notes": "",
+        "price": "150",
+        "rarity": "5"
+      },
+      "BUTBUGREMOTE": {
+        "key": "BUTBUGREMOTE",
+        "name": "Butterbug Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "700",
+        "rarity": "4"
+      },
+      "CALMSALVE": {
+        "key": "CALMSALVE",
+        "name": "Calming Salve",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "3"
+      },
+      "CAMONETROLL": {
+        "key": "CAMONETROLL",
+        "name": "CN-15 Camouflage Netting (Roll)",
+        "enc": "4",
+        "notes": "",
+        "price": "100",
+        "rarity": "2"
+      },
+      "CAMOPAINT": {
+        "key": "CAMOPAINT",
+        "name": "CN-21 Camouflage Paint",
+        "enc": "0",
+        "notes": "",
+        "price": "40",
+        "rarity": "2"
+      },
+      "CANTEEN": {
+        "key": "CANTEEN",
+        "name": "Canteen",
+        "enc": "1",
+        "notes": "",
+        "price": "7",
+        "rarity": "1"
+      },
+      "CARGOSCAN": {
+        "key": "CARGOSCAN",
+        "name": "Cargo Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "300",
+        "rarity": "4"
+      },
+      "CASCADER": {
+        "key": "CASCADER",
+        "name": "BPEA-1A Cascader",
+        "enc": "0",
+        "notes": "",
+        "price": "1800",
+        "rarity": "8"
+      },
+      "CERESTAB": {
+        "key": "CERESTAB",
+        "name": "IRAPS Cerebral Stabilizer",
+        "enc": "3",
+        "notes": "",
+        "price": "2200",
+        "rarity": "7"
+      },
+      "CHCUBE": {
+        "key": "CHCUBE",
+        "name": "Chance Cube",
+        "enc": "0",
+        "notes": "",
+        "price": "1",
+        "rarity": "0"
+      },
+      "CHCUBELOADED": {
+        "key": "CHCUBELOADED",
+        "name": "Loaded Chance Cube",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "CHEMLURE": {
+        "key": "CHEMLURE",
+        "name": "Chem Lure",
+        "enc": "1",
+        "notes": "",
+        "price": "125",
+        "rarity": "4"
+      },
+      "CLIMB": {
+        "key": "CLIMB",
+        "name": "Climbing Gear",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "COLLARAMP": {
+        "key": "COLLARAMP",
+        "name": "Collar-Amp",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "1"
+      },
+      "COLLARAMPUP": {
+        "key": "COLLARAMPUP",
+        "name": "Collar-Amp (Upgraded)",
+        "enc": "0",
+        "notes": "",
+        "price": "150",
+        "rarity": "1"
+      },
+      "COMLINKE": {
+        "key": "COMLINKE",
+        "name": "Earbud Comlink",
+        "enc": "0",
+        "notes": "",
+        "price": "75",
+        "rarity": "5"
+      },
+      "COMLINKH": {
+        "key": "COMLINKH",
+        "name": "Comlink (handheld)",
+        "enc": "0",
+        "notes": "A small handheld communications device",
+        "price": "25",
+        "rarity": "0"
+      },
+      "COMLINKHARD": {
+        "key": "COMLINKHARD",
+        "name": "Shockhold Hardened Comlink",
+        "enc": "3",
+        "notes": "",
+        "price": "450",
+        "rarity": "4"
+      },
+      "COMLINKL": {
+        "key": "COMLINKL",
+        "name": "Comlink (long range)",
+        "enc": "2",
+        "notes": "",
+        "price": "200",
+        "rarity": "1"
+      },
+      "COMMJAM": {
+        "key": "COMMJAM",
+        "name": "Comm Jammer",
+        "enc": "4",
+        "notes": "",
+        "price": "400",
+        "rarity": "3"
+      },
+      "COMMMEDMANIP": {
+        "key": "COMMMEDMANIP",
+        "name": "Communications Media Manipulator",
+        "enc": "6",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "COMMSCRAM": {
+        "key": "COMMSCRAM",
+        "name": "Comm Scrambler",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "COMSCAN": {
+        "key": "COMSCAN",
+        "name": "Com-Scan",
+        "enc": "10",
+        "notes": "",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "CONCESCAPEKIT": {
+        "key": "CONCESCAPEKIT",
+        "name": "Concealed Escape Kit",
+        "enc": "0",
+        "notes": "",
+        "price": "400",
+        "rarity": "7"
+      },
+      "CONCREC": {
+        "key": "CONCREC",
+        "name": "Concealed Recorder",
+        "enc": "0",
+        "notes": "",
+        "price": "175",
+        "rarity": "5"
+      },
+      "CONDUNIT": {
+        "key": "CONDUNIT",
+        "name": "Condenser Unit",
+        "enc": "2",
+        "notes": "",
+        "price": "300",
+        "rarity": "2"
+      },
+      "CORTEXBOMB": {
+        "key": "CORTEXBOMB",
+        "name": "Cortex Bomb",
+        "enc": "0",
+        "notes": "",
+        "price": "1200",
+        "rarity": "6"
+      },
+      "CORWHISKEY": {
+        "key": "CORWHISKEY",
+        "name": "Corellian Whiskey (Bottle)",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "2"
+      },
+      "CORWHISKEYCASE": {
+        "key": "CORWHISKEYCASE",
+        "name": "Corellian Whiskey (25 Bottle Case)",
+        "enc": "20",
+        "notes": "",
+        "price": "500",
+        "rarity": "2"
+      },
+      "CORWHISKEYWHY": {
+        "key": "CORWHISKEYWHY",
+        "name": "Whyren's Reserve Corellian Whiskey (Bottle)",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "CORWHISKEYWHYCASE": {
+        "key": "CORWHISKEYWHYCASE",
+        "name": "Whyren's Reserve Corellian Whiskey (20 Bottle Case)",
+        "enc": "10",
+        "notes": "",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "CRASH": {
+        "key": "CRASH",
+        "name": "Crash Survival Kit",
+        "enc": "5",
+        "notes": "",
+        "price": "300",
+        "rarity": "2"
+      },
+      "CRATARMENH": {
+        "key": "CRATARMENH",
+        "name": "Cratala's Arm Enhancement Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "9"
+      },
+      "CRATLEGENH": {
+        "key": "CRATLEGENH",
+        "name": "Cratala's Leg Enhancement Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "9"
+      },
+      "CRATVISCYC": {
+        "key": "CRATVISCYC",
+        "name": "Cratala's Vision Cycling Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "9"
+      },
+      "CREDITCLEAN": {
+        "key": "CREDITCLEAN",
+        "name": "Credit Cleaner",
+        "enc": "12",
+        "notes": "",
+        "price": "2500",
+        "rarity": "7"
+      },
+      "CULETIQUMAN": {
+        "key": "CULETIQUMAN",
+        "name": "Cultural Etiquette Manual",
+        "enc": "0",
+        "notes": "",
+        "price": "35",
+        "rarity": "3"
+      },
+      "CUSTTOOL": {
+        "key": "CUSTTOOL",
+        "name": "Custom Tool Kit",
+        "enc": "5",
+        "notes": "",
+        "price": "700",
+        "rarity": "5"
+      },
+      "CYADRENAL": {
+        "key": "CYADRENAL",
+        "name": "Adrenal Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "2250",
+        "rarity": "5"
+      },
+      "CYAND570": {
+        "key": "CYAND570",
+        "name": "Cyanoxis D-570",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "4"
+      },
+      "CYARMV": {
+        "key": "CYARMV",
+        "name": "Cybernetic Arms (Mod V)",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "CYARMVI": {
+        "key": "CYARMVI",
+        "name": "Cybernetic Arms (Mod VI)",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "CYAVIONCAAF2": {
+        "key": "CYAVIONCAAF2",
+        "name": "CAAF-2 Avionics Interface",
+        "enc": "0",
+        "notes": "",
+        "price": "8000",
+        "rarity": "6"
+      },
+      "CYBERCAVITY": {
+        "key": "CYBERCAVITY",
+        "name": "Cybernetic Cavity",
+        "enc": "0",
+        "notes": "",
+        "price": "775",
+        "rarity": "3"
+      },
+      "CYBERDISGUISE": {
+        "key": "CYBERDISGUISE",
+        "name": "Cyber Disguise",
+        "enc": "0",
+        "notes": "",
+        "price": "18000",
+        "rarity": "8"
+      },
+      "CYBRAIN": {
+        "key": "CYBRAIN",
+        "name": "Cybernetic Brain Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "CYCYBERJACK": {
+        "key": "CYCYBERJACK",
+        "name": "Implanted Cyberjack",
+        "enc": "0",
+        "notes": "",
+        "price": "3750",
+        "rarity": "6"
+      },
+      "CYDROIDINTF": {
+        "key": "CYDROIDINTF",
+        "name": "Cyborg/Droid Interface",
+        "enc": "0",
+        "notes": "",
+        "price": "600",
+        "rarity": "6"
+      },
+      "CYEYE": {
+        "key": "CYEYE",
+        "name": "Cybernetic Eyes",
+        "enc": "0",
+        "notes": "",
+        "price": "7500",
+        "rarity": "6"
+      },
+      "CYGANKCOMM": {
+        "key": "CYGANKCOMM",
+        "name": "Gank Comm Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "250",
+        "rarity": "7"
+      },
+      "CYIMARM": {
+        "key": "CYIMARM",
+        "name": "Implant Armor",
+        "enc": "0",
+        "notes": "",
+        "price": "7500",
+        "rarity": "6"
+      },
+      "CYIMIM": {
+        "key": "CYIMIM",
+        "name": "Immune Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "CYLEGII": {
+        "key": "CYLEGII",
+        "name": "Cybernetic Leg (Mod II)",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "CYLEGIII": {
+        "key": "CYLEGIII",
+        "name": "Cybernetic Leg (Mod III)",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "6"
+      },
+      "CYNEUROMACH": {
+        "key": "CYNEUROMACH",
+        "name": "Neuromachine Interface",
+        "enc": "0",
+        "notes": "",
+        "price": "3500",
+        "rarity": "6"
+      },
+      "CYREFLEX": {
+        "key": "CYREFLEX",
+        "name": "Cybernetic Reflexes",
+        "enc": "0",
+        "notes": "",
+        "price": "2750",
+        "rarity": "5"
+      },
+      "CYREPLIMB": {
+        "key": "CYREPLIMB",
+        "name": "Repli-Limb Prosthetic (limb)",
+        "enc": "0",
+        "notes": "",
+        "price": "2000",
+        "rarity": "4"
+      },
+      "CYREPORG": {
+        "key": "CYREPORG",
+        "name": "Repli-Limb Prosthetic (organ)",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "4"
+      },
+      "CYREPULSORFIST": {
+        "key": "CYREPULSORFIST",
+        "name": "Repulsor Fist",
+        "enc": "0",
+        "notes": "",
+        "price": "4750",
+        "rarity": "7"
+      },
+      "CYRESPIR": {
+        "key": "CYRESPIR",
+        "name": "Cybernetic Respirator",
+        "enc": "0",
+        "notes": "",
+        "price": "2000",
+        "rarity": "4"
+      },
+      "CYRETINALTRACK": {
+        "key": "CYRETINALTRACK",
+        "name": "Q-22 Retinal Tracker",
+        "enc": "0",
+        "notes": "",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "CYSCANLIMB": {
+        "key": "CYSCANLIMB",
+        "name": "Cyberscanner Limb",
+        "enc": "0",
+        "notes": "",
+        "price": "4000",
+        "rarity": "7"
+      },
+      "CYWEPIMP": {
+        "key": "CYWEPIMP",
+        "name": "Cybernetic Weapon Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "4000",
+        "rarity": "7"
+      },
+      "CZ88ARM": {
+        "key": "CZ88ARM",
+        "name": "CZ-88 Heavy Loader Arm",
+        "enc": "30",
+        "notes": "",
+        "price": "1500",
+        "rarity": "3"
+      },
+      "DAIBENDU": {
+        "key": "DAIBENDU",
+        "name": "Dai Bendu Holocron",
+        "enc": "1",
+        "notes": "",
+        "price": "125000",
+        "rarity": "10"
+      },
+      "DATABR": {
+        "key": "DATABR",
+        "name": "Data Breaker",
+        "enc": "1",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "DATABRBO": {
+        "key": "DATABRBO",
+        "name": "Blackops Data Breaker",
+        "enc": "1",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "DATADEADDROP": {
+        "key": "DATADEADDROP",
+        "name": "Data Dead Drop",
+        "enc": "0",
+        "notes": "",
+        "price": "150",
+        "rarity": "7"
+      },
+      "DATAGOG": {
+        "key": "DATAGOG",
+        "name": "Data Goggles",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "1"
+      },
+      "DATAPAD": {
+        "key": "DATAPAD",
+        "name": "Datapad",
+        "enc": "1",
+        "notes": "",
+        "price": "75",
+        "rarity": "1"
+      },
+      "DATAPADMERCH": {
+        "key": "DATAPADMERCH",
+        "name": "Mercantiler Datapad",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "3"
+      },
+      "DATASPIKE": {
+        "key": "DATASPIKE",
+        "name": "Dataspike",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "DEATHSTCARGO": {
+        "key": "DEATHSTCARGO",
+        "name": "Death Sticks (100 dose cargo container)",
+        "enc": "3",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "DEATHSTDOSE": {
+        "key": "DEATHSTDOSE",
+        "name": "Death Sticks (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "5",
+        "rarity": "1"
+      },
+      "DEJARIK": {
+        "key": "DEJARIK",
+        "name": "Dejarik Table",
+        "enc": "10",
+        "notes": "",
+        "price": "350",
+        "rarity": "1"
+      },
+      "DEMONMASK": {
+        "key": "DEMONMASK",
+        "name": "Demon Mask",
+        "enc": "1",
+        "notes": "",
+        "price": "4000",
+        "rarity": "10"
+      },
+      "DEMOTOOL": {
+        "key": "DEMOTOOL",
+        "name": "Demolitions Tool Kit",
+        "enc": "4",
+        "notes": "",
+        "price": "400",
+        "rarity": "3"
+      },
+      "DENTOX": {
+        "key": "DENTOX",
+        "name": "Dendriton Toxin",
+        "enc": "0",
+        "notes": "",
+        "price": "125",
+        "rarity": "7"
+      },
+      "DESTRO6CHARGE": {
+        "key": "DESTRO6CHARGE",
+        "name": "Destro-6 Demolition Charge",
+        "enc": "1",
+        "notes": "",
+        "price": "750",
+        "rarity": "5"
+      },
+      "DF15FUSIONGEN": {
+        "key": "DF15FUSIONGEN",
+        "name": "DF-15 Medium-Yield Fusion Generator",
+        "enc": "4",
+        "notes": "",
+        "price": "550",
+        "rarity": "4"
+      },
+      "DH77HEADCOMM": {
+        "key": "DH77HEADCOMM",
+        "name": "DH77 Headcomm",
+        "enc": "",
+        "notes": "",
+        "price": "400",
+        "rarity": "3"
+      },
+      "DIGITALLOCKPICK": {
+        "key": "DIGITALLOCKPICK",
+        "name": "Digital Lockpick",
+        "enc": "0",
+        "notes": "",
+        "price": "2750",
+        "rarity": "5"
+      },
+      "DIOXIS": {
+        "key": "DIOXIS",
+        "name": "Dioxis Gas",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "6"
+      },
+      "DIPLAUTH": {
+        "key": "DIPLAUTH",
+        "name": "Diplomatic Authorization",
+        "enc": "0",
+        "notes": "",
+        "price": "10000",
+        "rarity": "8"
+      },
+      "DISASTERKIT": {
+        "key": "DISASTERKIT",
+        "name": "Disaster Relief Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "DISGU": {
+        "key": "DISGU",
+        "name": "Disguise Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "DISTRESSBCN": {
+        "key": "DISTRESSBCN",
+        "name": "PED-21 Personal Distress Beacon",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "1"
+      },
+      "DRESSUNI": {
+        "key": "DRESSUNI",
+        "name": "Dress Uniform",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "DROID87RMCOLL": {
+        "key": "DROID87RMCOLL",
+        "name": "87-RM Scout Collector Droid",
+        "enc": "",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "DROID87RMSURV": {
+        "key": "DROID87RMSURV",
+        "name": "Wanderer Scout Surveyor Droid",
+        "enc": "",
+        "notes": "",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "DROIDAC1": {
+        "key": "DROIDAC1",
+        "name": "AC1-Series Surveillance Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "1100",
+        "rarity": "4"
+      },
+      "DROIDACLAW": {
+        "key": "DROIDACLAW",
+        "name": "AC Law Enforcement Droid",
+        "enc": "",
+        "notes": "",
+        "price": "9600",
+        "rarity": "5"
+      },
+      "DROIDANALYSIS": {
+        "key": "DROIDANALYSIS",
+        "name": "Analysis Droid",
+        "enc": "",
+        "notes": "",
+        "price": "7500",
+        "rarity": "5"
+      },
+      "DROIDANTBAT": {
+        "key": "DROIDANTBAT",
+        "name": "Antiquated Battle Droid",
+        "enc": "",
+        "notes": "",
+        "price": "6500",
+        "rarity": "5"
+      },
+      "DROIDASP19": {
+        "key": "DROIDASP19",
+        "name": "ASP-19 Battle Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "80000",
+        "rarity": "9"
+      },
+      "DROIDASSASIN": {
+        "key": "DROIDASSASIN",
+        "name": "Assassin Droid",
+        "enc": "",
+        "notes": "",
+        "price": "65000",
+        "rarity": "8"
+      },
+      "DROIDASTRO": {
+        "key": "DROIDASTRO",
+        "name": "Astromech Droid",
+        "enc": "",
+        "notes": "",
+        "price": "8250",
+        "rarity": "3"
+      },
+      "DROIDATED": {
+        "key": "DROIDATED",
+        "name": "All-Terrain Exploration Droid",
+        "enc": "",
+        "notes": "",
+        "price": "8900",
+        "rarity": "5"
+      },
+      "DROIDBD10": {
+        "key": "DROIDBD10",
+        "name": "BD10-Series Assay Suport Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "8500",
+        "rarity": "5"
+      },
+      "DROIDBLO": {
+        "key": "DROIDBLO",
+        "name": "BLO-Series Non-Lethal Combat Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "DROIDBT": {
+        "key": "DROIDBT",
+        "name": "BT-Series Ordnance Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "13500",
+        "rarity": "6"
+      },
+      "DROIDCAM": {
+        "key": "DROIDCAM",
+        "name": "Cam Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "800",
+        "rarity": "3"
+      },
+      "DROIDCHAM": {
+        "key": "DROIDCHAM",
+        "name": "Chameleon Droid",
+        "enc": "",
+        "notes": "",
+        "price": "4000",
+        "rarity": "6"
+      },
+      "DROIDCT4MED": {
+        "key": "DROIDCT4MED",
+        "name": "CT-4 Medical Droid",
+        "enc": "",
+        "notes": "",
+        "price": "20000",
+        "rarity": "8"
+      },
+      "DROIDDUM": {
+        "key": "DROIDDUM",
+        "name": "DUM-Series Pit Droid",
+        "enc": "",
+        "notes": "",
+        "price": "450",
+        "rarity": "1"
+      },
+      "DROIDDZ70": {
+        "key": "DROIDDZ70",
+        "name": "DZ-70 Fugitive Tracker Droid",
+        "enc": "",
+        "notes": "",
+        "price": "9800",
+        "rarity": "4"
+      },
+      "DROIDE522": {
+        "key": "DROIDE522",
+        "name": "E522 Assassin Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "61000",
+        "rarity": "8"
+      },
+      "DROIDEDV8": {
+        "key": "DROIDEDV8",
+        "name": "ED-V8-Series Envoy Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "5000",
+        "rarity": "6"
+      },
+      "DROIDEG6": {
+        "key": "DROIDEG6",
+        "name": "EG-6 Power Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "3800",
+        "rarity": "2"
+      },
+      "DROIDEODMKIV": {
+        "key": "DROIDEODMKIV",
+        "name": "EOD-Mk IV Explosives Disposal Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "DROIDFIRE": {
+        "key": "DROIDFIRE",
+        "name": "FD-Series Extinguisher Droid",
+        "enc": "10",
+        "notes": "",
+        "price": "8000",
+        "rarity": "4"
+      },
+      "DROIDG2REP": {
+        "key": "DROIDG2REP",
+        "name": "G2 Repair Droid",
+        "enc": "",
+        "notes": "",
+        "price": "6000",
+        "rarity": "5"
+      },
+      "DROIDGT": {
+        "key": "DROIDGT",
+        "name": "GT-Series Construction Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "17500",
+        "rarity": "4"
+      },
+      "DROIDGUARDPOL": {
+        "key": "DROIDGUARDPOL",
+        "name": "Guardian Police Droid",
+        "enc": "",
+        "notes": "",
+        "price": "8100",
+        "rarity": "6"
+      },
+      "DROIDGYRO": {
+        "key": "DROIDGYRO",
+        "name": "Gyrowheel 1.42.08 Recycling Droid",
+        "enc": "",
+        "notes": "",
+        "price": "6500",
+        "rarity": "4"
+      },
+      "DROIDIG100": {
+        "key": "DROIDIG100",
+        "name": "IG-100 Magnaguard Droid",
+        "enc": "",
+        "notes": "",
+        "price": "90000",
+        "rarity": "10"
+      },
+      "DROIDINTEROG": {
+        "key": "DROIDINTEROG",
+        "name": "Interrogation Droid",
+        "enc": "",
+        "notes": "",
+        "price": "9600",
+        "rarity": "8"
+      },
+      "DROIDJ9WORK": {
+        "key": "DROIDJ9WORK",
+        "name": "J9 Worker Drone",
+        "enc": "",
+        "notes": "",
+        "price": "7000",
+        "rarity": "3"
+      },
+      "DROIDJCPILOT": {
+        "key": "DROIDJCPILOT",
+        "name": "JC Series Pilot Droid",
+        "enc": "",
+        "notes": "",
+        "price": "15000",
+        "rarity": "7"
+      },
+      "DROIDK9": {
+        "key": "DROIDK9",
+        "name": "K-9 Series Hunting Droid",
+        "enc": "",
+        "notes": "",
+        "price": "7500",
+        "rarity": "6"
+      },
+      "DROIDKLC": {
+        "key": "DROIDKLC",
+        "name": "KLC Series Exchequer Droid",
+        "enc": "",
+        "notes": "",
+        "price": "10000",
+        "rarity": "5"
+      },
+      "DROIDLSX": {
+        "key": "DROIDLSX",
+        "name": "LSx-Series Slicer Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "19000",
+        "rarity": "8"
+      },
+      "DROIDM4": {
+        "key": "DROIDM4",
+        "name": "M4-Series Messenger Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "6500",
+        "rarity": "6"
+      },
+      "DROIDMAINT": {
+        "key": "DROIDMAINT",
+        "name": "Maintenance Droid",
+        "enc": "",
+        "notes": "",
+        "price": "7500",
+        "rarity": "3"
+      },
+      "DROIDMEDIC": {
+        "key": "DROIDMEDIC",
+        "name": "Medical Droid",
+        "enc": "",
+        "notes": "",
+        "price": "12000",
+        "rarity": "4"
+      },
+      "DROIDMINIMED": {
+        "key": "DROIDMINIMED",
+        "name": "Mini-Med Droid",
+        "enc": "",
+        "notes": "",
+        "price": "900",
+        "rarity": "3"
+      },
+      "DROIDMISEC": {
+        "key": "DROIDMISEC",
+        "name": "MI-Series Security Droid",
+        "enc": "",
+        "notes": "",
+        "price": "41225",
+        "rarity": "7"
+      },
+      "DROIDP2F": {
+        "key": "DROIDP2F",
+        "name": "P2F Hostile Environment Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "3500",
+        "rarity": "4"
+      },
+      "DROIDPROBEV": {
+        "key": "DROIDPROBEV",
+        "name": "Viper Probe Droid",
+        "enc": "",
+        "notes": "",
+        "price": "13700",
+        "rarity": "7"
+      },
+      "DROIDPROT": {
+        "key": "DROIDPROT",
+        "name": "Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "8000",
+        "rarity": "5"
+      },
+      "DROIDPROT3PX": {
+        "key": "DROIDPROT3PX",
+        "name": "3PX-Series Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "7750",
+        "rarity": "4"
+      },
+      "DROIDPROT5YQ": {
+        "key": "DROIDPROT5YQ",
+        "name": "5YQ-Series Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "5500",
+        "rarity": "3"
+      },
+      "DROIDPROTCZ": {
+        "key": "DROIDPROTCZ",
+        "name": "CZ-Series Communications/Business Droid",
+        "enc": "",
+        "notes": "",
+        "price": "9000",
+        "rarity": "4"
+      },
+      "DROIDPROTLOM": {
+        "key": "DROIDPROTLOM",
+        "name": "LOM-Series Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "8500",
+        "rarity": "5"
+      },
+      "DROIDPROTLRD": {
+        "key": "DROIDPROTLRD",
+        "name": "LRD-Series Envoy Droid",
+        "enc": "",
+        "notes": "",
+        "price": "15000",
+        "rarity": "5"
+      },
+      "DROIDPROTM3PO": {
+        "key": "DROIDPROTM3PO",
+        "name": "M-3PO-Series Military Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "12000",
+        "rarity": "5"
+      },
+      "DROIDPROTTC": {
+        "key": "DROIDPROTTC",
+        "name": "TC-Series Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "10000",
+        "rarity": "4"
+      },
+      "DROIDQ4BOR": {
+        "key": "DROIDQ4BOR",
+        "name": "Q4 Borer Droid",
+        "enc": "",
+        "notes": "",
+        "price": "2000",
+        "rarity": "5"
+      },
+      "DROIDQ7": {
+        "key": "DROIDQ7",
+        "name": "Q7-Series Astromech Droid",
+        "enc": "10",
+        "notes": "",
+        "price": "6500",
+        "rarity": "8"
+      },
+      "DROIDQSIGNAL": {
+        "key": "DROIDQSIGNAL",
+        "name": "Q-Signal Messenger Drone",
+        "enc": "0",
+        "notes": "",
+        "price": "50500",
+        "rarity": "6"
+      },
+      "DROIDR7": {
+        "key": "DROIDR7",
+        "name": "R7-Series Astromech Droid",
+        "enc": "10",
+        "notes": "",
+        "price": "11000",
+        "rarity": "6"
+      },
+      "DROIDRA7": {
+        "key": "DROIDRA7",
+        "name": "RA-7 Protocol Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "12000",
+        "rarity": "6"
+      },
+      "DROIDRH": {
+        "key": "DROIDRH",
+        "name": "RH-Series Research Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "11000",
+        "rarity": "8"
+      },
+      "DROIDRM": {
+        "key": "DROIDRM",
+        "name": "RM-Series Military Intelligence Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "43000",
+        "rarity": "7"
+      },
+      "DROIDSBD": {
+        "key": "DROIDSBD",
+        "name": "SBD-Series Assistance and Rescue Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "7500",
+        "rarity": "3"
+      },
+      "DROIDSDMN": {
+        "key": "DROIDSDMN",
+        "name": "SDMN-Series Session Droid",
+        "enc": "",
+        "notes": "",
+        "price": "4000",
+        "rarity": "5"
+      },
+      "DROIDSECUR": {
+        "key": "DROIDSECUR",
+        "name": "Security Droid",
+        "enc": "",
+        "notes": "",
+        "price": "9600",
+        "rarity": "5"
+      },
+      "DROIDSIAK": {
+        "key": "DROIDSIAK",
+        "name": "Siak-Series Protocol Droid",
+        "enc": "",
+        "notes": "",
+        "price": "10000",
+        "rarity": "4"
+      },
+      "DROIDSRSERIES": {
+        "key": "DROIDSRSERIES",
+        "name": "SR-Series Scout/Observation Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "13000",
+        "rarity": "6"
+      },
+      "DROIDSTONEGUARD": {
+        "key": "DROIDSTONEGUARD",
+        "name": "Stone Guardian",
+        "enc": "",
+        "notes": "",
+        "price": "25000",
+        "rarity": "10"
+      },
+      "DROIDTCSC": {
+        "key": "DROIDTCSC",
+        "name": "TC-SC Infiltration Droid",
+        "enc": "",
+        "notes": "",
+        "price": "15600",
+        "rarity": "8"
+      },
+      "DROIDTRD2": {
+        "key": "DROIDTRD2",
+        "name": "TRD-2 Sparring Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "7750",
+        "rarity": "6"
+      },
+      "DROIDTS": {
+        "key": "DROIDTS",
+        "name": "TS-Series Interrogation Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "58000",
+        "rarity": "9"
+      },
+      "DROIDTSERIES": {
+        "key": "DROIDTSERIES",
+        "name": "T-Series Tactical Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "8000",
+        "rarity": "8"
+      },
+      "DROIDTTS20": {
+        "key": "DROIDTTS20",
+        "name": "TTS20-Series Dialectic Droid",
+        "enc": "0",
+        "notes": "",
+        "price": "5400",
+        "rarity": "7"
+      },
+      "DROIDWANDSC": {
+        "key": "DROIDWANDSC",
+        "name": "Wanderer Scout Survey Droid",
+        "enc": "",
+        "notes": "",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "DROIDWSWMKIII": {
+        "key": "DROIDWSWMKIII",
+        "name": "WSW Mk III \"Harrier\" Combat Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "EBIN": {
+        "key": "EBIN",
+        "name": "Electrobinoculars",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "1"
+      },
+      "ELB": {
+        "key": "ELB",
+        "name": "Electronic Lock Breaker",
+        "enc": "1",
+        "notes": "",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "ELECFENCE": {
+        "key": "ELECFENCE",
+        "name": "Electric Perimeter Fence",
+        "enc": "6",
+        "notes": "",
+        "price": "800",
+        "rarity": "5"
+      },
+      "ELECSNARE": {
+        "key": "ELECSNARE",
+        "name": "Electro-Snare",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "5"
+      },
+      "EMP": {
+        "key": "EMP",
+        "name": "Emergency Medpac",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "ENCRYPWHIS": {
+        "key": "ENCRYPWHIS",
+        "name": "Whistler Encryption Module",
+        "enc": "3",
+        "notes": "",
+        "price": "1250",
+        "rarity": "6"
+      },
+      "ENGHAMMER": {
+        "key": "ENGHAMMER",
+        "name": "Engineer's Hammer",
+        "enc": "2",
+        "notes": "",
+        "price": "350",
+        "rarity": "2"
+      },
+      "ENTTOOL": {
+        "key": "ENTTOOL",
+        "name": "Entrenching Tool",
+        "enc": "1",
+        "notes": "",
+        "price": "20",
+        "rarity": "1"
+      },
+      "EODKIT": {
+        "key": "EODKIT",
+        "name": "Explosive Ordnance Disposal (EOD) Kit",
+        "enc": "4",
+        "notes": "",
+        "price": "400",
+        "rarity": "5"
+      },
+      "ERP": {
+        "key": "ERP",
+        "name": "Emergency Repair Patch",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "2"
+      },
+      "ESCCIR": {
+        "key": "ESCCIR",
+        "name": "Escape Circuit",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "EVAPOWERSUIT": {
+        "key": "EVAPOWERSUIT",
+        "name": "EVA Power Suit",
+        "enc": "12",
+        "notes": "",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "EXCAVKIT": {
+        "key": "EXCAVKIT",
+        "name": "Excavator's Precision Tool Kit",
+        "enc": "5",
+        "notes": "",
+        "price": "500",
+        "rarity": "7"
+      },
+      "EXPJEWELRY": {
+        "key": "EXPJEWELRY",
+        "name": "Expensive Jewelry",
+        "enc": "0",
+        "notes": "",
+        "price": "2000",
+        "rarity": "7"
+      },
+      "EXPLIMP": {
+        "key": "EXPLIMP",
+        "name": "Explosive Implant",
+        "enc": "",
+        "notes": "",
+        "price": "2000",
+        "rarity": "8"
+      },
+      "EXPLOSIVESBELT": {
+        "key": "EXPLOSIVESBELT",
+        "name": "Explosives Belt",
+        "enc": "1",
+        "notes": "",
+        "price": "450",
+        "rarity": "7"
+      },
+      "EXPLSHAC": {
+        "key": "EXPLSHAC",
+        "name": "Explosive Shackles",
+        "enc": "2",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "EZ1": {
+        "key": "EZ1",
+        "name": "EZ1 Analyzer",
+        "enc": "1",
+        "notes": "",
+        "price": "300",
+        "rarity": "3"
+      },
+      "FAB7000GEO": {
+        "key": "FAB7000GEO",
+        "name": "Fabritech 7000 Geoscanner",
+        "enc": "2",
+        "notes": "",
+        "price": "4800",
+        "rarity": ""
+      },
+      "FALSECRED": {
+        "key": "FALSECRED",
+        "name": "False Credentials",
+        "enc": "0",
+        "notes": "",
+        "price": "800",
+        "rarity": "7"
+      },
+      "FIELDGOGG": {
+        "key": "FIELDGOGG",
+        "name": "Scout 5 Field Goggles",
+        "enc": "0",
+        "notes": "",
+        "price": "5",
+        "rarity": "0"
+      },
+      "FIELDRAT": {
+        "key": "FIELDRAT",
+        "name": "Field Rations",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "2"
+      },
+      "FIREPASTE": {
+        "key": "FIREPASTE",
+        "name": "Fire Paste",
+        "enc": "0",
+        "notes": "",
+        "price": "3",
+        "rarity": "1"
+      },
+      "FLASHCAMPST": {
+        "key": "FLASHCAMPST",
+        "name": "FlashFire Camp Stove",
+        "enc": "2",
+        "notes": "",
+        "price": "60",
+        "rarity": "4"
+      },
+      "FLDDRSKIT": {
+        "key": "FLDDRSKIT",
+        "name": "Viscera Field Dressing Kit",
+        "enc": "3",
+        "notes": "",
+        "price": "300",
+        "rarity": "5"
+      },
+      "FLDKITCHEN": {
+        "key": "FLDKITCHEN",
+        "name": "Field Kitchen",
+        "enc": "5",
+        "notes": "",
+        "price": "500",
+        "rarity": "4"
+      },
+      "FLESHCAM": {
+        "key": "FLESHCAM",
+        "name": "Flesh Camouflage Set",
+        "enc": "1",
+        "notes": "",
+        "price": "2500",
+        "rarity": "7"
+      },
+      "FNGRPRNTMSQ": {
+        "key": "FNGRPRNTMSQ",
+        "name": "Fingerprint Masque",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "FOAMCAST": {
+        "key": "FOAMCAST",
+        "name": "Foamcast",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "2"
+      },
+      "FOODPREPSYS": {
+        "key": "FOODPREPSYS",
+        "name": "Food Preparation System",
+        "enc": "3",
+        "notes": "",
+        "price": "20",
+        "rarity": "1"
+      },
+      "FOOTSPEEDER": {
+        "key": "FOOTSPEEDER",
+        "name": "Foot Speeder",
+        "enc": "4",
+        "notes": "",
+        "price": "2000",
+        "rarity": "4"
+      },
+      "FORENKIT": {
+        "key": "FORENKIT",
+        "name": "Forensics Investigation Kit",
+        "enc": "4",
+        "notes": "",
+        "price": "450",
+        "rarity": "4"
+      },
+      "FORGETOOLS": {
+        "key": "FORGETOOLS",
+        "name": "Forgery Tools",
+        "enc": "2",
+        "notes": "",
+        "price": "650",
+        "rarity": "8"
+      },
+      "FRANGFP1": {
+        "key": "FRANGFP1",
+        "name": "Frangawl Force Powder (1 dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "2000",
+        "rarity": "10"
+      },
+      "FS19RELOADCOMPBROAD": {
+        "key": "FS19RELOADCOMPBROAD",
+        "name": "Broadhead Arrow (FS19 Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "1",
+        "rarity": "3"
+      },
+      "FS19RELOADCOMPEXPL": {
+        "key": "FS19RELOADCOMPEXPL",
+        "name": "Explosive Tipped Arrow (FS19 Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "5"
+      },
+      "FS19RELOADCOMPINCEN": {
+        "key": "FS19RELOADCOMPINCEN",
+        "name": "Incendiary Arrow (FS19 Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "60",
+        "rarity": "5"
+      },
+      "FS19RELOADCOMPNET": {
+        "key": "FS19RELOADCOMPNET",
+        "name": "Net Arrow (FS19 Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "30",
+        "rarity": "5"
+      },
+      "FS19RELOADCOMPSTUN": {
+        "key": "FS19RELOADCOMPSTUN",
+        "name": "Stun Arrow (FS19 Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "60",
+        "rarity": "6"
+      },
+      "FUSLANT": {
+        "key": "FUSLANT",
+        "name": "Fusion Lantern",
+        "enc": "2",
+        "notes": "",
+        "price": "150",
+        "rarity": "2"
+      },
+      "FVT": {
+        "key": "FVT",
+        "name": "False Voice Transmitter",
+        "enc": "4",
+        "notes": "",
+        "price": "1400",
+        "rarity": "6"
+      },
+      "GARROTECHRONO": {
+        "key": "GARROTECHRONO",
+        "name": "Garrote Chrono",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "7"
+      },
+      "GENERIC0": {
+        "key": "GENERIC0",
+        "name": "Incidental Item",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC1": {
+        "key": "GENERIC1",
+        "name": "Very Small Item",
+        "enc": "1",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC2": {
+        "key": "GENERIC2",
+        "name": "Small Item",
+        "enc": "2",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC3": {
+        "key": "GENERIC3",
+        "name": "Medium Item",
+        "enc": "3",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC4": {
+        "key": "GENERIC4",
+        "name": "Medium-Large Item",
+        "enc": "4",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC5": {
+        "key": "GENERIC5",
+        "name": "Large Item",
+        "enc": "5",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENERIC6": {
+        "key": "GENERIC6",
+        "name": "Very Large Item",
+        "enc": "6",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "GENREMOTE": {
+        "key": "GENREMOTE",
+        "name": "Generic Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "400",
+        "rarity": "2"
+      },
+      "GLITTERCARGO": {
+        "key": "GLITTERCARGO",
+        "name": "Glitterstim (100 dose cargo container)",
+        "enc": "5",
+        "notes": "",
+        "price": "5000",
+        "rarity": "8"
+      },
+      "GLITTERDOSE": {
+        "key": "GLITTERDOSE",
+        "name": "Glitterstim (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "7"
+      },
+      "GLOWROD": {
+        "key": "GLOWROD",
+        "name": "Glow Rod",
+        "enc": "1",
+        "notes": "",
+        "price": "10",
+        "rarity": "0"
+      },
+      "GPS": {
+        "key": "GPS",
+        "name": "General Purpose Scanner",
+        "enc": "2",
+        "notes": "",
+        "price": "500",
+        "rarity": "3"
+      },
+      "GRAVBELT": {
+        "key": "GRAVBELT",
+        "name": "Gravity Belt",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "GRNDPENPCK": {
+        "key": "GRNDPENPCK",
+        "name": "Ground-Penetrating Sensor Pack",
+        "enc": "5",
+        "notes": "",
+        "price": "950",
+        "rarity": "7"
+      },
+      "GUNJACK": {
+        "key": "GUNJACK",
+        "name": "Gunjack Spice (1 dose)",
+        "enc": "1",
+        "notes": "",
+        "price": "75",
+        "rarity": "5"
+      },
+      "GUNJACKCONT": {
+        "key": "GUNJACKCONT",
+        "name": "Gunjack Spice (100 doses)",
+        "enc": "25",
+        "notes": "",
+        "price": "7000",
+        "rarity": "6"
+      },
+      "GV3SERIES": {
+        "key": "GV3SERIES",
+        "name": "GV/3-series Guardian Droid",
+        "enc": "10",
+        "notes": "",
+        "price": "8000",
+        "rarity": "7"
+      },
+      "HEALERKIT": {
+        "key": "HEALERKIT",
+        "name": "Healer's Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "HID": {
+        "key": "HID",
+        "name": "Holographic Image Disguiser",
+        "enc": "2",
+        "notes": "",
+        "price": "1100",
+        "rarity": "6"
+      },
+      "HNTGOGGLE": {
+        "key": "HNTGOGGLE",
+        "name": "Hunting Goggles",
+        "enc": "0",
+        "notes": "",
+        "price": "600",
+        "rarity": "5"
+      },
+      "HOLO": {
+        "key": "HOLO",
+        "name": "Holo-messenger",
+        "enc": "0",
+        "notes": "",
+        "price": "250",
+        "rarity": "4"
+      },
+      "HOLOBEAC": {
+        "key": "HOLOBEAC",
+        "name": "Holonet Homing Beacon",
+        "enc": "",
+        "notes": "",
+        "price": "500",
+        "rarity": ""
+      },
+      "HOLOCRONASGU": {
+        "key": "HOLOCRONASGU",
+        "name": "Holocron of Astrogation and Gunnery",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONBRSW": {
+        "key": "HOLOCRONBRSW",
+        "name": "Holocron of Brawl and Streetwise",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONCOCO": {
+        "key": "HOLOCRONCOCO",
+        "name": "Holocron of Cool and Coordination",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONCOPER": {
+        "key": "HOLOCRONCOPER",
+        "name": "Holocron of Computers and Perception",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONDIME": {
+        "key": "HOLOCRONDIME",
+        "name": "Holocron of Discipline and Medicine",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONLOLS": {
+        "key": "HOLOCRONLOLS",
+        "name": "Holocron of Lore and Lightsaber",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONMERL": {
+        "key": "HOLOCRONMERL",
+        "name": "Holocron of Mechanics and Ranged Light",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONORPS": {
+        "key": "HOLOCRONORPS",
+        "name": "Holocron of Outer Rim and Piloting Space",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONSAMP1": {
+        "key": "HOLOCRONSAMP1",
+        "name": "Sample Holocron",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONSANC": {
+        "key": "HOLOCRONSANC",
+        "name": "Sanctuary Holocron",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONSKVI": {
+        "key": "HOLOCRONSKVI",
+        "name": "Holocron of Skulduggery and Vigilance",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONWARDE": {
+        "key": "HOLOCRONWARDE",
+        "name": "Suljo Warde's Holocron",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLOCRONXESU": {
+        "key": "HOLOCRONXESU",
+        "name": "Holocron of Xenology and Survival",
+        "enc": "1",
+        "notes": "",
+        "price": "100000",
+        "rarity": "10"
+      },
+      "HOLODISGUISE": {
+        "key": "HOLODISGUISE",
+        "name": "Holographic Disguise Matrix",
+        "enc": "1",
+        "notes": "",
+        "price": "10000",
+        "rarity": "9"
+      },
+      "HOLOGHILLIE": {
+        "key": "HOLOGHILLIE",
+        "name": "CX-2000 Holographic Ghillie Suit",
+        "enc": "1",
+        "notes": "",
+        "price": "800",
+        "rarity": "8"
+      },
+      "HOLOGOGASTRO": {
+        "key": "HOLOGOGASTRO",
+        "name": "Hologoggles (Astrogation)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGATHL": {
+        "key": "HOLOGOGATHL",
+        "name": "Hologoggles (Athletics)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCHARM": {
+        "key": "HOLOGOGCHARM",
+        "name": "Hologoggles (Charm)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCOERC": {
+        "key": "HOLOGOGCOERC",
+        "name": "Hologoggles (Coercion)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCOMP": {
+        "key": "HOLOGOGCOMP",
+        "name": "Hologoggles (Computers)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCOOL": {
+        "key": "HOLOGOGCOOL",
+        "name": "Hologoggles (Cool)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCOORD": {
+        "key": "HOLOGOGCOORD",
+        "name": "Hologoggles (Coordination)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGCORE": {
+        "key": "HOLOGOGCORE",
+        "name": "Hologoggles (Core Worlds)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGDECEP": {
+        "key": "HOLOGOGDECEP",
+        "name": "Hologoggles (Deception)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGDISC": {
+        "key": "HOLOGOGDISC",
+        "name": "Hologoggles (Discipline)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGEDU": {
+        "key": "HOLOGOGEDU",
+        "name": "Hologoggles (Education)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGLEAD": {
+        "key": "HOLOGOGLEAD",
+        "name": "Hologoggles (Leadership)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGLORE": {
+        "key": "HOLOGOGLORE",
+        "name": "Hologoggles (Lore)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGMECH": {
+        "key": "HOLOGOGMECH",
+        "name": "Hologoggles (Mechanics)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGMED": {
+        "key": "HOLOGOGMED",
+        "name": "Hologoggles (Medicine)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGNEG": {
+        "key": "HOLOGOGNEG",
+        "name": "Hologoggles (Negotiations)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGOUT": {
+        "key": "HOLOGOGOUT",
+        "name": "Hologoggles (Outer Rim)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGPERC": {
+        "key": "HOLOGOGPERC",
+        "name": "Hologoggles (Perception)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGPILOTPL": {
+        "key": "HOLOGOGPILOTPL",
+        "name": "Hologoggles (Piloting - Planetary)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGPILOTSP": {
+        "key": "HOLOGOGPILOTSP",
+        "name": "Hologoggles (Piloting - Space)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGRESIL": {
+        "key": "HOLOGOGRESIL",
+        "name": "Hologoggles (Resilience)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGSKUL": {
+        "key": "HOLOGOGSKUL",
+        "name": "Hologoggles (Skulduggery)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGSTEAL": {
+        "key": "HOLOGOGSTEAL",
+        "name": "Hologoggles (Stealth)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGSURV": {
+        "key": "HOLOGOGSURV",
+        "name": "Hologoggles (Survival)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGSW": {
+        "key": "HOLOGOGSW",
+        "name": "Hologoggles (Streetwise)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGUND": {
+        "key": "HOLOGOGUND",
+        "name": "Hologoggles (Underworld)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGVIGIL": {
+        "key": "HOLOGOGVIGIL",
+        "name": "Hologoggles (Vigilance)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGWARF": {
+        "key": "HOLOGOGWARF",
+        "name": "Hologoggles (Warfare)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOGOGXEN": {
+        "key": "HOLOGOGXEN",
+        "name": "Hologoggles (Xenology)",
+        "enc": "1",
+        "notes": "",
+        "price": "6000",
+        "rarity": "6"
+      },
+      "HOLOMEGA": {
+        "key": "HOLOMEGA",
+        "name": "Holo-Megacaster",
+        "enc": "1",
+        "notes": "",
+        "price": "600",
+        "rarity": "3"
+      },
+      "HOLORELAY": {
+        "key": "HOLORELAY",
+        "name": "HoloNet Relay",
+        "enc": "15",
+        "notes": "",
+        "price": "75000",
+        "rarity": "7"
+      },
+      "HOLOSCANNER10": {
+        "key": "HOLOSCANNER10",
+        "name": "Holoscanner (10 Encumbrance)",
+        "enc": "10",
+        "notes": "",
+        "price": "2000",
+        "rarity": "5"
+      },
+      "HOLOSCANNER100": {
+        "key": "HOLOSCANNER100",
+        "name": "Holoscanner (100 Encumbrance)",
+        "enc": "100",
+        "notes": "",
+        "price": "10000",
+        "rarity": "5"
+      },
+      "HOLSTERCONC": {
+        "key": "HOLSTERCONC",
+        "name": "Model 58 Concealment Holster",
+        "enc": "0",
+        "notes": "",
+        "price": "40",
+        "rarity": "3"
+      },
+      "HSCAN": {
+        "key": "HSCAN",
+        "name": "Hand Scanner",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "2"
+      },
+      "HYPERTRANSPIO": {
+        "key": "HYPERTRANSPIO",
+        "name": "Pioneer Long-Range Hypertransceiver",
+        "enc": "5",
+        "notes": "",
+        "price": "1000",
+        "rarity": "3"
+      },
+      "HYPSIGINTHSI280": {
+        "key": "HYPSIGINTHSI280",
+        "name": "HSI-280 Hyperwave Signal Interceptor",
+        "enc": "5",
+        "notes": "",
+        "price": "10500",
+        "rarity": "8"
+      },
+      "IMPACT100D": {
+        "key": "IMPACT100D",
+        "name": "Impact (100 dose cargo container)",
+        "enc": "5",
+        "notes": "",
+        "price": "10000",
+        "rarity": "7"
+      },
+      "IMPACTD": {
+        "key": "IMPACTD",
+        "name": "Impact (Dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "125",
+        "rarity": "6"
+      },
+      "INFRABINOCULARS": {
+        "key": "INFRABINOCULARS",
+        "name": "Infrabinoculars",
+        "enc": "1",
+        "notes": "",
+        "price": "350",
+        "rarity": "5"
+      },
+      "INFRABINOCULARSLR": {
+        "key": "INFRABINOCULARSLR",
+        "name": "Infrabinoculars (Long Range)",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "5"
+      },
+      "INSIDEGUIDE": {
+        "key": "INSIDEGUIDE",
+        "name": "Insider's Guide",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "3"
+      },
+      "INSTAMIST": {
+        "key": "INSTAMIST",
+        "name": "InstaMist Generator",
+        "enc": "5",
+        "notes": "",
+        "price": "150",
+        "rarity": "4"
+      },
+      "INTEGPA": {
+        "key": "INTEGPA",
+        "name": "Integrated Public Address System",
+        "enc": "4",
+        "notes": "",
+        "price": "200",
+        "rarity": "4"
+      },
+      "INTTOOL": {
+        "key": "INTTOOL",
+        "name": "VX-A Intelligent Toolbox",
+        "enc": "3",
+        "notes": "",
+        "price": "2500",
+        "rarity": "8"
+      },
+      "IRONFIST": {
+        "key": "IRONFIST",
+        "name": "Talisman of Iron Fists",
+        "enc": "1",
+        "notes": "",
+        "price": "8000",
+        "rarity": "10"
+      },
+      "JEDIMULTITOOL": {
+        "key": "JEDIMULTITOOL",
+        "name": "Jedi Multi-Tool",
+        "enc": "2",
+        "notes": "",
+        "price": "700",
+        "rarity": "9"
+      },
+      "JEDIUTILBELT": {
+        "key": "JEDIUTILBELT",
+        "name": "Jedi Utility Belt",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "8"
+      },
+      "JETPACK": {
+        "key": "JETPACK",
+        "name": "Jet Pack",
+        "enc": "2",
+        "notes": "",
+        "price": "4500",
+        "rarity": "7"
+      },
+      "JIRIKKNIT": {
+        "key": "JIRIKKNIT",
+        "name": "Ji Rikknit (Dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "JIRIKKNITCONT": {
+        "key": "JIRIKKNITCONT",
+        "name": "Ji Rikknit (100 Dose Cargo Container)",
+        "enc": "5",
+        "notes": "",
+        "price": "3000",
+        "rarity": "7"
+      },
+      "KAMPBODYGL": {
+        "key": "KAMPBODYGL",
+        "name": "Kamperdine Clothing Specialists Body Glove",
+        "enc": "2",
+        "notes": "",
+        "price": "700",
+        "rarity": "4"
+      },
+      "KARRAK": {
+        "key": "KARRAK",
+        "name": "Karrak Spice (1 dose)",
+        "enc": "",
+        "notes": "",
+        "price": "80",
+        "rarity": "7"
+      },
+      "KARRAK100": {
+        "key": "KARRAK100",
+        "name": "Karrak Spice (100 doses)",
+        "enc": "5",
+        "notes": "",
+        "price": "6400",
+        "rarity": "8"
+      },
+      "KNACKBOLT": {
+        "key": "KNACKBOLT",
+        "name": "\"Knack\" Restraining Bolt",
+        "enc": "0",
+        "notes": "",
+        "price": "750",
+        "rarity": "8"
+      },
+      "LASANCHRON": {
+        "key": "LASANCHRON",
+        "name": "Lasan Chronicles of the Three",
+        "enc": "0",
+        "notes": "",
+        "price": "3000",
+        "rarity": "7"
+      },
+      "LESAICARGO": {
+        "key": "LESAICARGO",
+        "name": "Lesai (20 dose enviro-sealed cargo pod)",
+        "enc": "2",
+        "notes": "",
+        "price": "7500",
+        "rarity": "10"
+      },
+      "LESAIDOSE": {
+        "key": "LESAIDOSE",
+        "name": "Lesai (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "9"
+      },
+      "LIFESCANNER": {
+        "key": "LIFESCANNER",
+        "name": "ILF-6500 Life Form Scanner",
+        "enc": "4",
+        "notes": "",
+        "price": "900",
+        "rarity": "5"
+      },
+      "LNGRNGSCNR": {
+        "key": "LNGRNGSCNR",
+        "name": "Long Range Terrain Scanner",
+        "enc": "6",
+        "notes": "",
+        "price": "850",
+        "rarity": "6"
+      },
+      "LOADBEAR": {
+        "key": "LOADBEAR",
+        "name": "Load-Bearing Gear",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "LOCKHAND": {
+        "key": "LOCKHAND",
+        "name": "Lockbreaker Hand",
+        "enc": "0",
+        "notes": "",
+        "price": "2200",
+        "rarity": "6"
+      },
+      "LOCKPICKS": {
+        "key": "LOCKPICKS",
+        "name": "Lockpicking Tools",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "8"
+      },
+      "LOCKPICKSET": {
+        "key": "LOCKPICKSET",
+        "name": "Lockpic Set",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "LONGSIGHT1": {
+        "key": "LONGSIGHT1",
+        "name": "Longsight (1 dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "650",
+        "rarity": "8"
+      },
+      "LOWFEEDSCAN": {
+        "key": "LOWFEEDSCAN",
+        "name": "Low-Feedback Scanner",
+        "enc": "4",
+        "notes": "",
+        "price": "700",
+        "rarity": "5"
+      },
+      "LUMAFLARE": {
+        "key": "LUMAFLARE",
+        "name": "Luma Flare",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "4"
+      },
+      "MAGNACUFF": {
+        "key": "MAGNACUFF",
+        "name": "MC-100 Magnacuffs",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "MAGNALOCK": {
+        "key": "MAGNALOCK",
+        "name": "Magna-Lock Safe",
+        "enc": "12",
+        "notes": "",
+        "price": "1000",
+        "rarity": "5"
+      },
+      "MARCAN": {
+        "key": "MARCAN",
+        "name": "Marcan Herb (1 dose)",
+        "enc": "1",
+        "notes": "",
+        "price": "20",
+        "rarity": "4"
+      },
+      "MARCANCONT": {
+        "key": "MARCANCONT",
+        "name": "Marcan Herb (100 doses)",
+        "enc": "25",
+        "notes": "",
+        "price": "1750",
+        "rarity": "5"
+      },
+      "MARKSMANHREMOTE": {
+        "key": "MARKSMANHREMOTE",
+        "name": "Marksman-H Combat Training Remote",
+        "enc": "1",
+        "notes": "",
+        "price": "350",
+        "rarity": "5"
+      },
+      "MBIN": {
+        "key": "MBIN",
+        "name": "Macrobinoculars",
+        "enc": "1",
+        "notes": "",
+        "price": "75",
+        "rarity": "2"
+      },
+      "MECHDIAG": {
+        "key": "MECHDIAG",
+        "name": "Mechanical Dianoga",
+        "enc": "4",
+        "notes": "",
+        "price": "225",
+        "rarity": "4"
+      },
+      "MEDAIDPATCH": {
+        "key": "MEDAIDPATCH",
+        "name": "Med-Aid Patch",
+        "enc": "1",
+        "notes": "",
+        "price": "20",
+        "rarity": "4"
+      },
+      "MEDBCKPCK": {
+        "key": "MEDBCKPCK",
+        "name": "ECM-598 Medical Backpack",
+        "enc": "2",
+        "notes": "",
+        "price": "450",
+        "rarity": "4"
+      },
+      "MEDFOCUS": {
+        "key": "MEDFOCUS",
+        "name": "Meditation Focus",
+        "enc": "1",
+        "notes": "",
+        "price": "4000",
+        "rarity": "10"
+      },
+      "MEDPAC": {
+        "key": "MEDPAC",
+        "name": "Medpac",
+        "enc": "2",
+        "notes": "",
+        "price": "400",
+        "rarity": "2"
+      },
+      "MEDPACMIL": {
+        "key": "MEDPACMIL",
+        "name": "Military Medpac",
+        "enc": "2",
+        "notes": "",
+        "price": "400",
+        "rarity": "3"
+      },
+      "MEMSTIK": {
+        "key": "MEMSTIK",
+        "name": "Mem-Stik",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "MICROAXSTARMAP": {
+        "key": "MICROAXSTARMAP",
+        "name": "Starmapper Handheld NaviComputer",
+        "enc": "1",
+        "notes": "",
+        "price": "3500",
+        "rarity": "8"
+      },
+      "MICRODRLIST": {
+        "key": "MICRODRLIST",
+        "name": "Microdroid Listener",
+        "enc": "",
+        "notes": "",
+        "price": "1500",
+        "rarity": "6"
+      },
+      "MILFIELDMAN": {
+        "key": "MILFIELDMAN",
+        "name": "Military Field Manual",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "4"
+      },
+      "MILMODBACK": {
+        "key": "MILMODBACK",
+        "name": "Military Modular Backpack Frame",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "2"
+      },
+      "MILTRAUMAPACK": {
+        "key": "MILTRAUMAPACK",
+        "name": "Military Trauma Pack",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "3"
+      },
+      "MINEDETECT": {
+        "key": "MINEDETECT",
+        "name": "Mine Detector",
+        "enc": "1",
+        "notes": "",
+        "price": "350",
+        "rarity": "4"
+      },
+      "MODEL31STUN": {
+        "key": "MODEL31STUN",
+        "name": "Model 31 Palm Stunner",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "5"
+      },
+      "MODEL40HOIST": {
+        "key": "MODEL40HOIST",
+        "name": "Model 40 Field Repulsor Hoist",
+        "enc": "3",
+        "notes": "",
+        "price": "550",
+        "rarity": "6"
+      },
+      "MODPACK": {
+        "key": "MODPACK",
+        "name": "Mk. IV Modular Backpack",
+        "enc": "0",
+        "notes": "",
+        "price": "75",
+        "rarity": "1"
+      },
+      "MODPACK3": {
+        "key": "MODPACK3",
+        "name": "Mk. III Modular Backpack",
+        "enc": "0",
+        "notes": "",
+        "price": "75",
+        "rarity": "1"
+      },
+      "MONCALORGGILL": {
+        "key": "MONCALORGGILL",
+        "name": "Mon Calamari Organic Gill",
+        "enc": "1",
+        "notes": "",
+        "price": "200",
+        "rarity": "5"
+      },
+      "MULTITOOLHAND": {
+        "key": "MULTITOOLHAND",
+        "name": "Multi-Tool Hand",
+        "enc": "0",
+        "notes": "",
+        "price": "650",
+        "rarity": "4"
+      },
+      "MUON100D": {
+        "key": "MUON100D",
+        "name": "Muon Gold (100 dose cargo container)",
+        "enc": "3",
+        "notes": "",
+        "price": "4000",
+        "rarity": "6"
+      },
+      "MUOND": {
+        "key": "MUOND",
+        "name": "Muon Gold (Dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "MUSICCOMMON": {
+        "key": "MUSICCOMMON",
+        "name": "Musical Instrument (Common)",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "MUSICHIGHQ": {
+        "key": "MUSICHIGHQ",
+        "name": "Musical Instrument (High Quality)",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "4"
+      },
+      "MUSICLEGEND": {
+        "key": "MUSICLEGEND",
+        "name": "Musical Instrument (Legendary)",
+        "enc": "1",
+        "notes": "",
+        "price": "20000",
+        "rarity": "10"
+      },
+      "NALAFROG": {
+        "key": "NALAFROG",
+        "name": "Nala Tree Frog",
+        "enc": "1",
+        "notes": "",
+        "price": "15",
+        "rarity": "5"
+      },
+      "NANNARIUM": {
+        "key": "NANNARIUM",
+        "name": "Nannarium Root (Dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "300",
+        "rarity": "2"
+      },
+      "NETUPLINK": {
+        "key": "NETUPLINK",
+        "name": "Networked Slicing Uplink",
+        "enc": "0",
+        "notes": "",
+        "price": "1250",
+        "rarity": "7"
+      },
+      "NEURALREC": {
+        "key": "NEURALREC",
+        "name": "Neural Recorder",
+        "enc": "0",
+        "notes": "",
+        "price": "250",
+        "rarity": "8"
+      },
+      "NEUTPIX": {
+        "key": "NEUTPIX",
+        "name": "Neutron Pixie (1 dose)",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "6"
+      },
+      "NEUTPIX100": {
+        "key": "NEUTPIX100",
+        "name": "Neutron Pixie (100 doses)",
+        "enc": "25",
+        "notes": "",
+        "price": "8500",
+        "rarity": "7"
+      },
+      "NULLCAINE": {
+        "key": "NULLCAINE",
+        "name": "Nullcaine",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "2"
+      },
+      "ORRECSTA": {
+        "key": "ORRECSTA",
+        "name": "OR-Series Tech Recycling Station",
+        "enc": "10",
+        "notes": "",
+        "price": "1500",
+        "rarity": "5"
+      },
+      "P2POCKETATT": {
+        "key": "P2POCKETATT",
+        "name": "P-2 Pocket Attaché",
+        "enc": "1",
+        "notes": "",
+        "price": "800",
+        "rarity": "6"
+      },
+      "PACKMIL": {
+        "key": "PACKMIL",
+        "name": "Military Pack",
+        "enc": "0",
+        "notes": "",
+        "price": "60",
+        "rarity": "0"
+      },
+      "PAINDAMP": {
+        "key": "PAINDAMP",
+        "name": "Pain Damper",
+        "enc": "0",
+        "notes": "",
+        "price": "1800",
+        "rarity": "6"
+      },
+      "PERSTRANSPOND": {
+        "key": "PERSTRANSPOND",
+        "name": "Personal Transponder",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "PHK": {
+        "key": "PHK",
+        "name": "Portable Healing Kit",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "PHYSKIT": {
+        "key": "PHYSKIT",
+        "name": "Physician's Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "400",
+        "rarity": "2"
+      },
+      "PIONEERSQUADKIT": {
+        "key": "PIONEERSQUADKIT",
+        "name": "Pioneer Squad Tool Kit",
+        "enc": "25",
+        "notes": "",
+        "price": "4000",
+        "rarity": "5"
+      },
+      "PLPROTREP": {
+        "key": "PLPROTREP",
+        "name": "Plasma Protein Replicator",
+        "enc": "3",
+        "notes": "",
+        "price": "5500",
+        "rarity": "4"
+      },
+      "PMVOICE": {
+        "key": "PMVOICE",
+        "name": "Polis Masson Voicebox",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "POISONRING": {
+        "key": "POISONRING",
+        "name": "Poisoner's Ring",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "7"
+      },
+      "PORTPOWGEN": {
+        "key": "PORTPOWGEN",
+        "name": "Portable Power Generator",
+        "enc": "10",
+        "notes": "",
+        "price": "500",
+        "rarity": "2"
+      },
+      "PORTSHELTER": {
+        "key": "PORTSHELTER",
+        "name": "Portable Survival Shelter",
+        "enc": "2",
+        "notes": "",
+        "price": "200",
+        "rarity": "4"
+      },
+      "POWENTTOOL": {
+        "key": "POWENTTOOL",
+        "name": "Powered Entrenching Tool",
+        "enc": "5",
+        "notes": "",
+        "price": "625",
+        "rarity": "4"
+      },
+      "PRETPLAS": {
+        "key": "PRETPLAS",
+        "name": "Pretormin Plastent",
+        "enc": "10",
+        "notes": "",
+        "price": "500",
+        "rarity": "2"
+      },
+      "PRIVACY7CUR": {
+        "key": "PRIVACY7CUR",
+        "name": "Privacy-7 Audio Curtain",
+        "enc": "4",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "PROTGOG": {
+        "key": "PROTGOG",
+        "name": "Protective Goggles",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "2"
+      },
+      "PSF": {
+        "key": "PSF",
+        "name": "Personal Stealth Field",
+        "enc": "1",
+        "notes": "",
+        "price": "20000",
+        "rarity": "9"
+      },
+      "PSFMKIIIPOWFENCE": {
+        "key": "PSFMKIIIPOWFENCE",
+        "name": "PSF Mk III Power Fence",
+        "enc": "10",
+        "notes": "",
+        "price": "10000",
+        "rarity": "7"
+      },
+      "PTPLINK": {
+        "key": "PTPLINK",
+        "name": "PTP Link",
+        "enc": "2",
+        "notes": "",
+        "price": "100",
+        "rarity": "7"
+      },
+      "PX7HEATSENSOR": {
+        "key": "PX7HEATSENSOR",
+        "name": "PX-7 Heat Sensor",
+        "enc": "3",
+        "notes": "",
+        "price": "250",
+        "rarity": "7"
+      },
+      "QUESTIONER9": {
+        "key": "QUESTIONER9",
+        "name": "Questioner-9 (1 dose)",
+        "enc": "",
+        "notes": "",
+        "price": "300",
+        "rarity": "6"
+      },
+      "QUESTIONER9100": {
+        "key": "QUESTIONER9100",
+        "name": "Questioner-9 (100 doses)",
+        "enc": "",
+        "notes": "",
+        "price": "24000",
+        "rarity": "7"
+      },
+      "R82JUMP": {
+        "key": "R82JUMP",
+        "name": "R82 Jump Boots",
+        "enc": "2",
+        "notes": "",
+        "price": "2000",
+        "rarity": "6"
+      },
+      "RAQUOR": {
+        "key": "RAQUOR",
+        "name": "Raquor Venom",
+        "enc": "0",
+        "notes": "",
+        "price": "150",
+        "rarity": "7"
+      },
+      "RATION": {
+        "key": "RATION",
+        "name": "Ration Pack",
+        "enc": "0",
+        "notes": "",
+        "price": "5",
+        "rarity": "0"
+      },
+      "RECONREM": {
+        "key": "RECONREM",
+        "name": "Recon Remote",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "RELOAD": {
+        "key": "RELOAD",
+        "name": "Extra Reload",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "1"
+      },
+      "RELOADCOMPEXP": {
+        "key": "RELOADCOMPEXP",
+        "name": "Explosive Tipped Arrow (Corellian Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "RELOADCOMPSTUN": {
+        "key": "RELOADCOMPSTUN",
+        "name": "Stun Arrow (Corellian Compound Bow)",
+        "enc": "0",
+        "notes": "",
+        "price": "60",
+        "rarity": "6"
+      },
+      "RELOADDET": {
+        "key": "RELOADDET",
+        "name": "Extra Reload (Model 38 Detonator Rounds)",
+        "enc": "1",
+        "notes": "",
+        "price": "450",
+        "rarity": "7"
+      },
+      "RELOADDET57": {
+        "key": "RELOADDET57",
+        "name": "Extra Reloads (Model 57 Detonator Rounds)",
+        "enc": "0",
+        "notes": "",
+        "price": "450",
+        "rarity": "7"
+      },
+      "RELOADTRANQ": {
+        "key": "RELOADTRANQ",
+        "name": "Extra Reloads (Model 77 SmartTranq Rounds)",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "REPCLAMP": {
+        "key": "REPCLAMP",
+        "name": "Repulsor Clamp",
+        "enc": "3",
+        "notes": "",
+        "price": "250",
+        "rarity": "1"
+      },
+      "REPINSIG": {
+        "key": "REPINSIG",
+        "name": "Republic Insignia",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "3"
+      },
+      "REPINSIGREP": {
+        "key": "REPINSIGREP",
+        "name": "Republic Insignia Replica",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "6"
+      },
+      "REPSEAL": {
+        "key": "REPSEAL",
+        "name": "Republic Seal of Service",
+        "enc": "0",
+        "notes": "",
+        "price": "0",
+        "rarity": "9"
+      },
+      "REPULSORASUNIT": {
+        "key": "REPULSORASUNIT",
+        "name": "Repulsor Assist Unit",
+        "enc": "1",
+        "notes": "",
+        "price": "620",
+        "rarity": "3"
+      },
+      "REPULTRAP": {
+        "key": "REPULTRAP",
+        "name": "Repulsor Trap",
+        "enc": "7",
+        "notes": "",
+        "price": "5000",
+        "rarity": "9"
+      },
+      "RESBOLT": {
+        "key": "RESBOLT",
+        "name": "Restraining Bolt",
+        "enc": "0",
+        "notes": "",
+        "price": "35",
+        "rarity": "0"
+      },
+      "RETINALIMP": {
+        "key": "RETINALIMP",
+        "name": "Retinal Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "1250",
+        "rarity": "6"
+      },
+      "RIBRACK": {
+        "key": "RIBRACK",
+        "name": "Ribbon Rack",
+        "enc": "0",
+        "notes": "",
+        "price": "15",
+        "rarity": "4"
+      },
+      "RIDERASCEN": {
+        "key": "RIDERASCEN",
+        "name": "\"Rider\" Ascension Pistol",
+        "enc": "1",
+        "notes": "",
+        "price": "275",
+        "rarity": "4"
+      },
+      "RIDINGTACK": {
+        "key": "RIDINGTACK",
+        "name": "Riding Tack",
+        "enc": "3",
+        "notes": "",
+        "price": "100",
+        "rarity": "4"
+      },
+      "RLR331AMMO": {
+        "key": "RLR331AMMO",
+        "name": "RLR-331 Rocket",
+        "enc": "",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "RMD20DROID": {
+        "key": "RMD20DROID",
+        "name": "RMD-20 \"Eye in the Sky\"",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "4"
+      },
+      "ROCKETBOOTS": {
+        "key": "ROCKETBOOTS",
+        "name": "Rocket Boots",
+        "enc": "2",
+        "notes": "",
+        "price": "2500",
+        "rarity": "8"
+      },
+      "RYLL": {
+        "key": "RYLL",
+        "name": "Ryll (1 dose)",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "4"
+      },
+      "RYLLCONT": {
+        "key": "RYLLCONT",
+        "name": "Ryll (100 doses)",
+        "enc": "25",
+        "notes": "",
+        "price": "4500",
+        "rarity": "5"
+      },
+      "RYSHCATE": {
+        "key": "RYSHCATE",
+        "name": "Ryshcate (Cake)",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "2"
+      },
+      "SABACC": {
+        "key": "SABACC",
+        "name": "Sabacc Deck",
+        "enc": "0",
+        "notes": "",
+        "price": "40",
+        "rarity": "0"
+      },
+      "SABACCMARKED": {
+        "key": "SABACCMARKED",
+        "name": "Marked Sabacc Deck",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "SALINEPUMP": {
+        "key": "SALINEPUMP",
+        "name": "Saline Pump",
+        "enc": "1",
+        "notes": "",
+        "price": "2500",
+        "rarity": "7"
+      },
+      "SCANCOMBAT": {
+        "key": "SCANCOMBAT",
+        "name": "Mark 6 Combat Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "2000",
+        "rarity": "6"
+      },
+      "SCANDEMO": {
+        "key": "SCANDEMO",
+        "name": "Mark 10 Demolitions Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "4"
+      },
+      "SCANG": {
+        "key": "SCANG",
+        "name": "Scanner Goggles",
+        "enc": "0",
+        "notes": "",
+        "price": "150",
+        "rarity": "3"
+      },
+      "SCRAMBLEKEY": {
+        "key": "SCRAMBLEKEY",
+        "name": "Scramble Key",
+        "enc": "1",
+        "notes": "",
+        "price": "750",
+        "rarity": "4"
+      },
+      "SDS632": {
+        "key": "SDS632",
+        "name": "SDS-632 Surveillance Detector",
+        "enc": "1",
+        "notes": "",
+        "price": "450",
+        "rarity": ""
+      },
+      "SE90STRUCTENGSCAN": {
+        "key": "SE90STRUCTENGSCAN",
+        "name": "SE-90 Structural Engineering Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "675",
+        "rarity": "6"
+      },
+      "SECCOLLAR": {
+        "key": "SECCOLLAR",
+        "name": "Thalassian Security Collar",
+        "enc": "1",
+        "notes": "",
+        "price": "300",
+        "rarity": "5"
+      },
+      "SECSWEEP": {
+        "key": "SECSWEEP",
+        "name": "Security Sweeper",
+        "enc": "1",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SERVPATREMOTE": {
+        "key": "SERVPATREMOTE",
+        "name": "Service Patch Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "900",
+        "rarity": "3"
+      },
+      "SEVIGSENS": {
+        "key": "SEVIGSENS",
+        "name": "SE-Vigilant Automated Sensor",
+        "enc": "2",
+        "notes": "",
+        "price": "3000",
+        "rarity": "4"
+      },
+      "SHADOWCLOAK": {
+        "key": "SHADOWCLOAK",
+        "name": "Shadowcloak",
+        "enc": "2",
+        "notes": "",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "SHIELDREMOTE": {
+        "key": "SHIELDREMOTE",
+        "name": "Shield Remote",
+        "enc": "0",
+        "notes": "",
+        "price": "1100",
+        "rarity": "5"
+      },
+      "SHIFTCOFFER": {
+        "key": "SHIFTCOFFER",
+        "name": "Shift Coffer",
+        "enc": "5",
+        "notes": "",
+        "price": "2500",
+        "rarity": "7"
+      },
+      "SHIPSYSSCAN": {
+        "key": "SHIPSYSSCAN",
+        "name": "Shipboard Systems Scanner",
+        "enc": "1",
+        "notes": "",
+        "price": "145",
+        "rarity": "4"
+      },
+      "SIGMODPAD": {
+        "key": "SIGMODPAD",
+        "name": "Signature Modulation Pad",
+        "enc": "2",
+        "notes": "",
+        "price": "250",
+        "rarity": "7"
+      },
+      "SIGNETRING": {
+        "key": "SIGNETRING",
+        "name": "Signet Ring",
+        "enc": "0",
+        "notes": "",
+        "price": "750",
+        "rarity": "7"
+      },
+      "SIGSCENT": {
+        "key": "SIGSCENT",
+        "name": "Signature Scent Synthesizer",
+        "enc": "1",
+        "notes": "",
+        "price": "1500",
+        "rarity": ""
+      },
+      "SKIFTER": {
+        "key": "SKIFTER",
+        "name": "Skifter",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "SKIRTOPANOL": {
+        "key": "SKIRTOPANOL",
+        "name": "Skirtopanol",
+        "enc": "0",
+        "notes": "",
+        "price": "500",
+        "rarity": "8"
+      },
+      "SLEEPPACK": {
+        "key": "SLEEPPACK",
+        "name": "Sleeppack (one dose)",
+        "enc": "",
+        "notes": "",
+        "price": "250",
+        "rarity": "3"
+      },
+      "SLEIGHTBOXL": {
+        "key": "SLEIGHTBOXL",
+        "name": "Sleight Box (Large)",
+        "enc": "16",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SLEIGHTBOXM": {
+        "key": "SLEIGHTBOXM",
+        "name": "Sleight Box (Medium)",
+        "enc": "10",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SLEIGHTBOXS": {
+        "key": "SLEIGHTBOXS",
+        "name": "Sleight Box (Small)",
+        "enc": "6",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SLEIGHTBOXT": {
+        "key": "SLEIGHTBOXT",
+        "name": "Sleight Box (Tiny)",
+        "enc": "2",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SLEIGHTBOXVL": {
+        "key": "SLEIGHTBOXVL",
+        "name": "Sleight Box (Very Large)",
+        "enc": "20",
+        "notes": "",
+        "price": "400",
+        "rarity": "6"
+      },
+      "SLICEWIRE": {
+        "key": "SLICEWIRE",
+        "name": "Slicewire",
+        "enc": "2",
+        "notes": "",
+        "price": "2500",
+        "rarity": "6"
+      },
+      "SLIGEAR": {
+        "key": "SLIGEAR",
+        "name": "Slicer Gear",
+        "enc": "2",
+        "notes": "",
+        "price": "500",
+        "rarity": "4"
+      },
+      "SOUNDDAMP": {
+        "key": "SOUNDDAMP",
+        "name": "Sound Dampener",
+        "enc": "2",
+        "notes": "",
+        "price": "600",
+        "rarity": "7"
+      },
+      "SPACESU": {
+        "key": "SPACESU",
+        "name": "Space Suit",
+        "enc": "4",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "SPDUFFEL": {
+        "key": "SPDUFFEL",
+        "name": "Spacer's Duffel",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "0"
+      },
+      "SPECIESDB": {
+        "key": "SPECIESDB",
+        "name": "Species Database",
+        "enc": "2",
+        "notes": "",
+        "price": "150",
+        "rarity": "2"
+      },
+      "SPECLRG": {
+        "key": "SPECLRG",
+        "name": "Speciman Container, Large",
+        "enc": "5",
+        "notes": "",
+        "price": "150",
+        "rarity": "3"
+      },
+      "SPECMED": {
+        "key": "SPECMED",
+        "name": "Specimen Container, Medium",
+        "enc": "3",
+        "notes": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "SPECSMALL": {
+        "key": "SPECSMALL",
+        "name": "Specimen Container, Small",
+        "enc": "1",
+        "notes": "",
+        "price": "25",
+        "rarity": "2"
+      },
+      "SPECTINY": {
+        "key": "SPECTINY",
+        "name": "Specimen Container, Tiny",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "1"
+      },
+      "SPMACBIN": {
+        "key": "SPMACBIN",
+        "name": "Sporting Macrobinoculars",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "2"
+      },
+      "SPRAYCAST": {
+        "key": "SPRAYCAST",
+        "name": "Spray Plasto-Cast",
+        "enc": "1",
+        "notes": "",
+        "price": "55",
+        "rarity": "1"
+      },
+      "SSA": {
+        "key": "SSA",
+        "name": "Synthetic Standard Anesthetic",
+        "enc": "0",
+        "notes": "",
+        "price": "35",
+        "rarity": "4"
+      },
+      "SSNP": {
+        "key": "SSNP",
+        "name": "Synthetic Standard Neuroparalytic",
+        "enc": "0",
+        "notes": "",
+        "price": "75",
+        "rarity": "6"
+      },
+      "SSNT": {
+        "key": "SSNT",
+        "name": "Synthetic Standard Neurotoxin",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "6"
+      },
+      "STAG": {
+        "key": "STAG",
+        "name": "Surveillance Tagger",
+        "enc": "0",
+        "notes": "",
+        "price": "175",
+        "rarity": "4"
+      },
+      "STIMCAF": {
+        "key": "STIMCAF",
+        "name": "Stimcaf Powder",
+        "enc": "0",
+        "notes": "",
+        "price": "3",
+        "rarity": "4"
+      },
+      "STIMPACK": {
+        "key": "STIMPACK",
+        "name": "Stimpack",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "1"
+      },
+      "STIMSTICK": {
+        "key": "STIMSTICK",
+        "name": "Stimstick",
+        "enc": "0",
+        "notes": "",
+        "price": "5",
+        "rarity": "2"
+      },
+      "STUNCOLOR": {
+        "key": "STUNCOLOR",
+        "name": "Stun Collar",
+        "enc": "2",
+        "notes": "",
+        "price": "800",
+        "rarity": "6"
+      },
+      "STUNCUFFS": {
+        "key": "STUNCUFFS",
+        "name": "Stun Cuffs",
+        "enc": "0",
+        "notes": "",
+        "price": "100",
+        "rarity": "5"
+      },
+      "SULFINH10": {
+        "key": "SULFINH10",
+        "name": "Sulfur Inhaler (10 doses)",
+        "enc": "0",
+        "notes": "",
+        "price": "200",
+        "rarity": "3"
+      },
+      "SURGESWITCH": {
+        "key": "SURGESWITCH",
+        "name": "Surge Override Switch",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "SURVEYBAG": {
+        "key": "SURVEYBAG",
+        "name": "Surveyor's Bag",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "1"
+      },
+      "SURVEYEQUIP": {
+        "key": "SURVEYEQUIP",
+        "name": "Surveyor's Equipment",
+        "enc": "6",
+        "notes": "",
+        "price": "700",
+        "rarity": "8"
+      },
+      "SURVEYTOOLS": {
+        "key": "SURVEYTOOLS",
+        "name": "Surveyer's Tools",
+        "enc": "6",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "SURVMESSKIT": {
+        "key": "SURVMESSKIT",
+        "name": "\"Survivalist\" Mess Kit",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "3"
+      },
+      "SURVSCAN": {
+        "key": "SURVSCAN",
+        "name": "Surveillance Scanner",
+        "enc": "2",
+        "notes": "",
+        "price": "750",
+        "rarity": "5"
+      },
+      "SYMCOMM": {
+        "key": "SYMCOMM",
+        "name": "Symbol of Command",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "SYNOPTEACH": {
+        "key": "SYNOPTEACH",
+        "name": "Synoptic Teacher",
+        "enc": "1",
+        "notes": "",
+        "price": "8500",
+        "rarity": "4"
+      },
+      "SYNSK": {
+        "key": "SYNSK",
+        "name": "Synthskin",
+        "enc": "0",
+        "notes": "",
+        "price": "10",
+        "rarity": "1"
+      },
+      "SYNTHEROPE": {
+        "key": "SYNTHEROPE",
+        "name": "Syntherope",
+        "enc": "1",
+        "notes": "",
+        "price": "5",
+        "rarity": "1"
+      },
+      "TALISBARDOTSPH": {
+        "key": "TALISBARDOTSPH",
+        "name": "Bardottan Sphere",
+        "enc": "0",
+        "notes": "",
+        "price": "50000",
+        "rarity": "10"
+      },
+      "TALISCROWNVER": {
+        "key": "TALISCROWNVER",
+        "name": "Crown of Verity",
+        "enc": "0",
+        "notes": "",
+        "price": "6000",
+        "rarity": "9"
+      },
+      "TALISDOLRINGSEED": {
+        "key": "TALISDOLRINGSEED",
+        "name": "Dolina Ring Seeds",
+        "enc": "0",
+        "notes": "",
+        "price": "18000",
+        "rarity": "10"
+      },
+      "TALISDRAMORPH": {
+        "key": "TALISDRAMORPH",
+        "name": "Dram of Orphne",
+        "enc": "0",
+        "notes": "",
+        "price": "9000",
+        "rarity": "8"
+      },
+      "TALISEYESLAQ": {
+        "key": "TALISEYESLAQ",
+        "name": "Eyes of Laqasa",
+        "enc": "0",
+        "notes": "",
+        "price": "2000",
+        "rarity": "10"
+      },
+      "TALISGRIMSYC": {
+        "key": "TALISGRIMSYC",
+        "name": "Grimoire of Syclos the Lame",
+        "enc": "0",
+        "notes": "",
+        "price": "4000",
+        "rarity": "10"
+      },
+      "TALISHERDGAUNT": {
+        "key": "TALISHERDGAUNT",
+        "name": "Herder's Gauntlet",
+        "enc": "0",
+        "notes": "",
+        "price": "8000",
+        "rarity": "9"
+      },
+      "TALISTARAHELM": {
+        "key": "TALISTARAHELM",
+        "name": "Taradon's Helm",
+        "enc": "0",
+        "notes": "",
+        "price": "11000",
+        "rarity": "10"
+      },
+      "TALISTEAR": {
+        "key": "TALISTEAR",
+        "name": "Tear of the Elders",
+        "enc": "0",
+        "notes": "",
+        "price": "7500",
+        "rarity": "9"
+      },
+      "TENT": {
+        "key": "TENT",
+        "name": "Tent",
+        "enc": "4",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "TENTTAUN": {
+        "key": "TENTTAUN",
+        "name": "Tauntaun Pup Tent",
+        "enc": "3",
+        "notes": "",
+        "price": "30",
+        "rarity": "2"
+      },
+      "THERMCL": {
+        "key": "THERMCL",
+        "name": "Thermal Cloak",
+        "enc": "2",
+        "notes": "",
+        "price": "200",
+        "rarity": "1"
+      },
+      "THERMCUT": {
+        "key": "THERMCUT",
+        "name": "Thermal Cutter",
+        "enc": "2",
+        "notes": "",
+        "price": "125",
+        "rarity": "3"
+      },
+      "THISSPUZ": {
+        "key": "THISSPUZ",
+        "name": "Thisspiasian Puzzle Rings",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "8"
+      },
+      "THUNDERPES": {
+        "key": "THUNDERPES",
+        "name": "Thunderhead PES",
+        "enc": "10",
+        "notes": "",
+        "price": "2500",
+        "rarity": "4"
+      },
+      "TOOLBELT": {
+        "key": "TOOLBELT",
+        "name": "Tool Belt",
+        "enc": "3",
+        "notes": "",
+        "price": "500",
+        "rarity": "5"
+      },
+      "TOOLKIT": {
+        "key": "TOOLKIT",
+        "name": "Tool Kit",
+        "enc": "4",
+        "notes": "",
+        "price": "350",
+        "rarity": "2"
+      },
+      "TOXDET": {
+        "key": "TOXDET",
+        "name": "Toxin Detector",
+        "enc": "1",
+        "notes": "",
+        "price": "125",
+        "rarity": "4"
+      },
+      "TRACKGOG": {
+        "key": "TRACKGOG",
+        "name": "Tracker's Goggles",
+        "enc": "",
+        "notes": "",
+        "price": "600",
+        "rarity": "5"
+      },
+      "TRAINWEIGHT": {
+        "key": "TRAINWEIGHT",
+        "name": "Training Weights",
+        "enc": "3",
+        "notes": "",
+        "price": "100",
+        "rarity": "3"
+      },
+      "TRANSLIT": {
+        "key": "TRANSLIT",
+        "name": "Transliterator",
+        "enc": "1",
+        "notes": "",
+        "price": "1200",
+        "rarity": "3"
+      },
+      "TROPHYCAP": {
+        "key": "TROPHYCAP",
+        "name": "Imperial Officer's Cap",
+        "enc": "0",
+        "notes": "",
+        "price": "",
+        "rarity": "2"
+      },
+      "TROPHYINTBADGE": {
+        "key": "TROPHYINTBADGE",
+        "name": "Imperial Intelligence Badge",
+        "enc": "0",
+        "notes": "",
+        "price": "",
+        "rarity": "2"
+      },
+      "TROPHYSTHELM": {
+        "key": "TROPHYSTHELM",
+        "name": "Stormtrooper Helmet/ComLink",
+        "enc": "0",
+        "notes": "",
+        "price": "",
+        "rarity": "2"
+      },
+      "URBANCOMP": {
+        "key": "URBANCOMP",
+        "name": "Urban Compass",
+        "enc": "1",
+        "notes": "",
+        "price": "125",
+        "rarity": "1"
+      },
+      "UTILBELT": {
+        "key": "UTILBELT",
+        "name": "Utility Belt",
+        "enc": "0",
+        "notes": "",
+        "price": "25",
+        "rarity": "0"
+      },
+      "VERGCHART": {
+        "key": "VERGCHART",
+        "name": "Vergence Starchart",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "10"
+      },
+      "VERIDICATOR": {
+        "key": "VERIDICATOR",
+        "name": "Veridicator 200",
+        "enc": "1",
+        "notes": "",
+        "price": "4000",
+        "rarity": "8"
+      },
+      "VERPBONDGAUNT": {
+        "key": "VERPBONDGAUNT",
+        "name": "Verpine Bond Gauntlets",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "6"
+      },
+      "VERPCOM": {
+        "key": "VERPCOM",
+        "name": "Verpine Comlink",
+        "enc": "1",
+        "notes": "",
+        "price": "250",
+        "rarity": "6"
+      },
+      "VERPHEADBAND": {
+        "key": "VERPHEADBAND",
+        "name": "Verpine Headband",
+        "enc": "1",
+        "notes": "",
+        "price": "500",
+        "rarity": "6"
+      },
+      "VESSELIMP": {
+        "key": "VESSELIMP",
+        "name": "Vessel Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "900",
+        "rarity": "4"
+      },
+      "VIBROPICK": {
+        "key": "VIBROPICK",
+        "name": "Vibro-Pickaxe",
+        "enc": "5",
+        "notes": "",
+        "price": "650",
+        "rarity": "3"
+      },
+      "VIDVOXSCRAM": {
+        "key": "VIDVOXSCRAM",
+        "name": "Vid-Vox Scrambler",
+        "enc": "2",
+        "notes": "",
+        "price": "2400",
+        "rarity": "8"
+      },
+      "VISIONCUBE": {
+        "key": "VISIONCUBE",
+        "name": "Vision Cube",
+        "enc": "0",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "VOCALEMUIMP": {
+        "key": "VOCALEMUIMP",
+        "name": "Vocal Emulator Implant",
+        "enc": "0",
+        "notes": "",
+        "price": "1300",
+        "rarity": "5"
+      },
+      "VURKORB": {
+        "key": "VURKORB",
+        "name": "Vurk Medication Orb",
+        "enc": "2",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "VUTALAMINE": {
+        "key": "VUTALAMINE",
+        "name": "Vutalamine",
+        "enc": "0",
+        "notes": "",
+        "price": "125",
+        "rarity": "5"
+      },
+      "WATERVAP": {
+        "key": "WATERVAP",
+        "name": "GX-8 Water Vaporator",
+        "enc": "12",
+        "notes": "",
+        "price": "2000",
+        "rarity": "2"
+      },
+      "WATPUR": {
+        "key": "WATPUR",
+        "name": "Water Purifier",
+        "enc": "1",
+        "notes": "",
+        "price": "50",
+        "rarity": "2"
+      },
+      "WEAPDETGOGGLE": {
+        "key": "WEAPDETGOGGLE",
+        "name": "Weapon Detection Goggles",
+        "enc": "1",
+        "notes": "",
+        "price": "750",
+        "rarity": "5"
+      },
+      "WEAPMAINT": {
+        "key": "WEAPMAINT",
+        "name": "Weapon Maintenance Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "450",
+        "rarity": "3"
+      },
+      "WILDKIT": {
+        "key": "WILDKIT",
+        "name": "Wilderness Survival Kit",
+        "enc": "5",
+        "notes": "",
+        "price": "350",
+        "rarity": "2"
+      },
+      "WIZPOUCH": {
+        "key": "WIZPOUCH",
+        "name": "Wizard Pouch",
+        "enc": "0",
+        "notes": "",
+        "price": "50",
+        "rarity": "4"
+      },
+      "WJ880BLIND": {
+        "key": "WJ880BLIND",
+        "name": "WJ-880 Blinding Helmet",
+        "enc": "3",
+        "notes": "",
+        "price": "10",
+        "rarity": "8"
+      },
+      "WORKMAN": {
+        "key": "WORKMAN",
+        "name": "Workshop Manual",
+        "enc": "1",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "WPR60": {
+        "key": "WPR60",
+        "name": "WPR-60 Water Purifier",
+        "enc": "4",
+        "notes": "",
+        "price": "100",
+        "rarity": "1"
+      },
+      "X5RDEMOKIT": {
+        "key": "X5RDEMOKIT",
+        "name": "X5R Heavy Demolitions Kit",
+        "enc": "4",
+        "notes": "",
+        "price": "1000",
+        "rarity": "6"
+      },
+      "XV09": {
+        "key": "XV09",
+        "name": "XV-09 Chemical Restraint Harness",
+        "enc": "2",
+        "notes": "",
+        "price": "1200",
+        "rarity": "5"
+      },
+      "XV20VETKIT": {
+        "key": "XV20VETKIT",
+        "name": "XV-20 Portable Veterinary Kit",
+        "enc": "2",
+        "notes": "",
+        "price": "0",
+        "rarity": "0"
+      },
+      "XV38": {
+        "key": "XV38",
+        "name": "XV-38 Veterinary Kit",
+        "enc": "3",
+        "notes": "",
+        "price": "600",
+        "rarity": "3"
+      },
+      "YALADAI": {
+        "key": "YALADAI",
+        "name": "Yaladai Spice (1 dose)",
+        "enc": "",
+        "notes": "",
+        "price": "1000",
+        "rarity": "7"
+      },
+      "YALADAI100": {
+        "key": "YALADAI100",
+        "name": "Yaladai Spice (100 doses)",
+        "enc": "5",
+        "notes": "",
+        "price": "80000",
+        "rarity": "7"
+      },
+      "YARROCKCARGO": {
+        "key": "YARROCKCARGO",
+        "name": "Yarrock (100 dose cargo container)",
+        "enc": "3",
+        "notes": "",
+        "price": "20000",
+        "rarity": "9"
+      },
+      "YARROCKDOSE": {
+        "key": "YARROCKDOSE",
+        "name": "Yarrock (dose)",
+        "enc": "0",
+        "notes": "",
+        "price": "350",
+        "rarity": "8"
+      }
     }
   }
 }
