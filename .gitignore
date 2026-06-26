@@ -8,3 +8,6 @@ fad-catalog.local.js
 # Local backups / scratch artifacts
 *_old.html
 *_sheet_backup.json
+
+# Local tooling / agent memory
+.memsearch/
