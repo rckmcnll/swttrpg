@@ -9,5 +9,9 @@ fad-catalog.local.js
 *_old.html
 *_sheet_backup.json
 
+# Single-file bundle from tools/build-bundle.mjs — embeds the local catalog
+# (may contain copyrighted rulebook text). Personal use only; never commit.
+*.bundled.html
+
 # Local tooling / agent memory
 .memsearch/
